@@ -604,4 +604,322 @@ Each VP's team specializes in specific industries, matching the solutions matrix
 
 ---
 
-*Compiled from: Combo Prospecting, 2025 Strategic Plan, Canadian Product Guidebook, Answers to Most Common Objections*
+## SECTION F: RAC — THE CREDIT BOX (15 Questions)
+
+**F1.** What does RAC stand for and why is it called "the bible" of MHCCNA?
+
+<details>
+<summary>Show Answer</summary>
+
+RAC stands for **Risk Acceptance Criteria.** It's called "the bible" because it defines exactly what MHCCA can and cannot finance — for every industry segment, every credit rating, every asset type. It governs auto-decision limits, documentation requirements, maximum terms/amortization, down payments, eligible assets, and exception policies.
+</details>
+
+---
+
+**F2.** What are the three Comparable Credit (CC) thresholds and what do they mean?
+
+<details>
+<summary>Show Answer</summary>
+
+Comparable Credit means the customer has existing credit history similar in size to the deal being requested:
+- **Under $50K:** 50% comparable credit required
+- **Under $100K:** 75% comparable credit required
+- **$100K and above:** 100% comparable credit required
+
+Example: A $200K deal requires the customer to show at least $200K in existing credit lines on their commercial bureau.
+</details>
+
+---
+
+**F3.** A CR3 construction customer wants to finance $250,000 of new CAT equipment. Can it be auto-approved? What's the max amortization?
+
+<details>
+<summary>Show Answer</summary>
+
+**No, it cannot be auto-approved.** The auto-decision limit for CR3 in Construction is $200,000, and this deal is $250,000 — it needs manual review.
+
+**Max amortization:** 96 months. CAT is Tier 1, and new Tier 1/Tier 2 equipment for CR1-CR3 gets up to 96 months.
+</details>
+
+---
+
+**F4.** What is the auto-decision limit for ALL forestry deals, regardless of credit rating?
+
+<details>
+<summary>Show Answer</summary>
+
+**$0.** Every single forestry deal requires manual review. There are no auto-approvals in forestry because the equipment has low resale value, short life expectancy, and the industry is inherently higher risk.
+</details>
+
+---
+
+**F5.** A CR3 forestry customer wants to finance a Barko (Tier 3) processor. Can we do it?
+
+<details>
+<summary>Show Answer</summary>
+
+**No.** In Forestry, CR3 customers are restricted to **Tier 1 and Tier 2 equipment only.** Barko is Tier 3. The customer would need to be CR1 or CR2 to finance Tier 3 forestry equipment.
+</details>
+
+---
+
+**F6.** Name the Tier 1 OEMs for each of these segments: Construction, Forestry, and Transportation Class 8.
+
+<details>
+<summary>Show Answer</summary>
+
+- **Construction Tier 1:** Deere, CAT, Volvo, Komatsu, Hitachi, CASE/New Holland, JCB, Kubota, Liebherr, Terex, Bell, Mitsubishi, Bobcat, Genie, JLG/SkyTrak, Gehl, Manitou, Manitowoc, Grove, Tadano, Link-Belt, American, Yanmar
+- **Forestry Tier 1:** John Deere, Komatsu Forest/Valmet, Tigercat, Ponsse (only 4!)
+- **Transport Class 8 Tier 1:** Kenworth, Peterbilt (only 2! — Volvo and Freightliner are Tier 3)
+</details>
+
+---
+
+**F7.** Can a CR4 customer in Ontario finance a used Class 8 truck? What about in Quebec?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Ontario / Western Provinces:** **No** — CR4 customers are not eligible for used Class 8 trucks at all.
+- **Quebec / Maritimes:** **Yes** — CR4 can get used Class 8 trucks but only with a **3-year countback** from the current year.
+
+This is one of the most important geographic differences in the RAC.
+</details>
+
+---
+
+**F8.** A brand-new company (1 year old) with an 800 personal credit score wants to buy a Kenworth truck. Can we finance it?
+
+<details>
+<summary>Show Answer</summary>
+
+**No.** Both Transportation Class 1-7 and Class 8 have a hard rule: **No first-time owner/operators, regardless of the situation.** The personal credit score doesn't matter — this rule is absolute. Class 8 also requires a minimum of 5 years in business.
+</details>
+
+---
+
+**F9.** What special requirement applies to ALL Class 8 borrowers that doesn't apply to any other segment?
+
+<details>
+<summary>Show Answer</summary>
+
+All Class 8 borrowers must be a **verified homeowner** to even be considered. This applies to every credit rating. No other segment has this as a universal requirement.
+</details>
+
+---
+
+**F10.** A Class 8 truck is 4 years old with 500,000 km. What is the maximum term?
+
+<details>
+<summary>Show Answer</summary>
+
+Calculate both deductions:
+- **By age:** 60 - (4 x 12) = **12 months**
+- **By KMs:** 500,000 / 200,000 = 2.5, deduct 24 months -> 60 - 24 = **36 months**
+Take the **lower**: **12 months** maximum term. This deal would barely work.
+</details>
+
+---
+
+**F11.** What information must be included in a forestry job letter?
+
+<details>
+<summary>Show Answer</summary>
+
+Three things: (1) Number of shifts per day, (2) Annual wood production, (3) Wood price in $/M3.
+</details>
+
+---
+
+**F12.** Which segments have ZERO analyst exception authority?
+
+<details>
+<summary>Show Answer</summary>
+
+**Forestry, Transportation Class 8 OTR, SDG-Energy, and Hospitality.** In these segments, ALL exceptions require Next Level Approval Authority — analysts cannot approve any exceptions regardless of credit rating.
+</details>
+
+---
+
+**F13.** What is the ITEC2000 program and why does it matter for forestry deals?
+
+<details>
+<summary>Show Answer</summary>
+
+ITEC2000 is a dealer program where the dealer provides an **unlimited guarantee (UNL)**, adding additional comfort. This creates an opportunity to take extra risk on deals that would normally be declined — specifically **CR4 customers or startups** with dealer acknowledgement of risk. Without ITEC2000, a CR4 forestry deal with a startup would be nearly impossible.
+</details>
+
+---
+
+**F14.** Name five things that are absolutely prohibited under MHCCA's restricted industries policy.
+
+<details>
+<summary>Show Answer</summary>
+
+Any five of: (1) Weapons manufacturing/sales, (2) Organized crime connections, (3) Cryptocurrency, (4) Cannabis industry, (5) Gaming/gambling, (6) Oil & Gas above $1MM USD, (7) Consumer/personal use, (8) Equipment located outside Canada, (9) Usury/money laundering, (10) Piracy/trademark violations, (11) Obscene materials production.
+</details>
+
+---
+
+**F15.** Compare the maximum amortization for NEW Tier 1 equipment across Construction, Forestry, and Transport Class 8 for a CR2 customer.
+
+<details>
+<summary>Show Answer</summary>
+
+- **Construction:** 96 months (Tier 1 & 2 new, CR1-CR3)
+- **Forestry:** 60 months (all new equipment, all tiers)
+- **Transport Class 8:** 60 months (all new equipment)
+
+Construction is the most generous because the equipment has better resale value and longer useful life. Forestry and Class 8 are capped at 60 months due to the harsh operating conditions and faster depreciation.
+</details>
+
+---
+
+## SECTION G: PRODUCTS, LEASING & TAX (10 Questions)
+
+**G1.** What are the 4 criteria for an operating lease to be treated as off-balance-sheet?
+
+<details>
+<summary>Show Answer</summary>
+
+All four must be met:
+1. Lease term is **less than 75%** of the asset's useful economic life
+2. Present value of lease payments is **90% or less** of the asset's fair market value
+3. There is **no bargain purchase option**
+4. There is **no automatic transfer of ownership** at the end of the lease
+</details>
+
+---
+
+**G2.** In the Bigdan Vachon example, a customer needs a $300,000 excavator. What are the three financing options and which one puts the asset on the customer's balance sheet?
+
+<details>
+<summary>Show Answer</summary>
+
+The three options are:
+1. **Lease Acquisition (Capital Lease / FPO)** — asset goes ON the customer's balance sheet, customer claims CCA depreciation, $1 buyout
+2. **Operating Lease (FMV)** — asset stays OFF the balance sheet, payments are 100% operating expense, return/renew/buy at FMV at end
+3. **Installment Sale Contract (Loan)** — asset goes ON balance sheet, customer owns from day one, interest is tax deductible
+
+Options 1 and 3 put the asset on the balance sheet. Option 2 (operating lease) keeps it off.
+</details>
+
+---
+
+**G3.** What does AITC stand for and which provinces is it available in?
+
+<details>
+<summary>Show Answer</summary>
+
+**Atlantic Investment Tax Credit** — a 10% federal tax credit on new equipment in the four Atlantic provinces: **New Brunswick, Nova Scotia, Prince Edward Island, and Newfoundland & Labrador.**
+</details>
+
+---
+
+**G4.** What is the TAM program and why is it important for sales reps?
+
+<details>
+<summary>Show Answer</summary>
+
+TAM (Third-Party Asset Management) is an **originate-to-sell** program. When MHCCA declines a deal because it doesn't fit our credit box, instead of saying "no," we can place the deal with a third-party funder through Capital Markets. It matters because: (1) you never have to say "no" to a dealer, (2) it keeps dealer relationships warm, (3) it generates fee income for MHCCA, and (4) it helps hit volume targets.
+</details>
+
+---
+
+**G5.** What is the difference between a Capital Lease (FPO) and an Operating Lease (FMV)?
+
+<details>
+<summary>Show Answer</summary>
+
+- **Capital Lease (FPO / $1 buyout):** Customer takes the asset on their balance sheet, claims CCA depreciation, buys the asset for $1 at end of term. Best for customers who want to own the asset and maximize tax deductions.
+- **Operating Lease (FMV):** Asset stays on the lender's balance sheet, payments are 100% operating expense for the customer, customer returns/renews/buys at fair market value at end. Best for customers who want lower payments, off-balance-sheet treatment, or equipment that becomes obsolete.
+</details>
+
+---
+
+**G6.** What is the LEAD sales methodology? What does each letter stand for?
+
+<details>
+<summary>Show Answer</summary>
+
+LEAD is MHCCA's formal sales framework:
+- **L - Legitimize:** Establish credibility and the right to have the conversation
+- **E - Explore:** Discover the client's needs through strategic questions
+- **A - Accentuate:** Highlight how your solution addresses their specific needs
+- **D - Decide:** Guide the client toward a decision and close
+</details>
+
+---
+
+**G7.** What is the APEP method and when do you use it?
+
+<details>
+<summary>Show Answer</summary>
+
+APEP is used when a client **doesn't express their needs** (they say "everything's fine"):
+- **A - Analyze:** Research the client's situation before the meeting
+- **P - Probe:** Ask strategic questions to uncover hidden needs
+- **E - Emphasize Pain:** Make the client feel the cost of NOT solving their problem
+- **P - Propose:** Present your solution as the answer to the pain you just highlighted
+</details>
+
+---
+
+**G8.** What is the three-step objection handling pattern from the Common Objections guide?
+
+<details>
+<summary>Show Answer</summary>
+
+1. **Acknowledge** what the prospect said (show empathy, never argue)
+2. **Reframe** the situation to show value or create a reason to meet
+3. **Close for the meeting** using the **alternative close technique** — offer two specific times ("Monday afternoon or Wednesday morning?") instead of asking yes/no
+</details>
+
+---
+
+**G9.** What is the "alternative close" technique?
+
+<details>
+<summary>Show Answer</summary>
+
+Instead of asking "Can we meet?" (which invites a yes/no answer), you offer two specific time options: "Would you be available **Monday afternoon or Wednesday morning**?" This gives the prospect a choice between two positive options — either answer moves the conversation forward. It's used at the end of every objection response in the playbook.
+</details>
+
+---
+
+**G10.** Name the 6 client motivations from the LEAD methodology.
+
+<details>
+<summary>Show Answer</summary>
+
+**SONCML** (or think of it as what drives people to buy):
+1. **Security** — safety, risk reduction
+2. **Pride** — status, recognition
+3. **Novelty** — innovation, being first
+4. **Comfort** — ease, convenience
+5. **Money** — savings, ROI, profit
+6. **Likeability** — relationship, trust, personal connection
+</details>
+
+---
+
+## RAC NUMBERS CHEAT SHEET
+
+| Segment | Auto-Decision (CR1/CR2 / CR3 / CR4) | Max Amort NEW | Max Term | Analyst Exceptions? |
+| --- | --- | --- | --- | --- |
+| Construction | 375K / 200K / $0 | 96 mo (T1/T2) | 72 mo | Yes (CR1/CR2) |
+| Forestry | $0 / $0 / $0 | 60 mo | 60 mo | NO |
+| Transport 1-7 | 375K / 200K / $0 | 84 mo | 72 mo | Yes (CR1/CR2) |
+| Transport 8 | N/A / N/A / N/A | 60 mo | 60 mo | NO |
+| Agriculture | $0 (tractors=Constr.) | 180 mo (T1 SP) | 84 mo | Yes (CR1/CR2) |
+| MUSH | $0 | 96 mo | 72 mo | Yes (CR1/CR2) |
+| SDG-Energy | $0 | 84 mo | 84 mo | NO |
+| Healthcare | 350K / 150K / $0 | 66 mo | 66 mo | Sr Mgr+ |
+| Manufacturing | $0 | 60 mo | 60 mo | Yes (CR1/CR2) |
+| Industrial | $0 | 96 mo | 72 mo | Yes (CR1/CR2) |
+| Hospitality | $0 | 60 mo | 60 mo | NO |
+| Technology | $0 | 60 mo | 60 mo | Sr Mgr+ |
+
+---
+
+*Compiled from: Combo Prospecting, 2025 Strategic Plan, Canadian Product Guidebook, Answers to Most Common Objections, RAC V.3 Sept 2025, Operating Lease Training, LEAD Methodology, Taxation & Accounting, TAM Program, AITC Program*

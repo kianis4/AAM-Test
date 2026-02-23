@@ -8,45 +8,91 @@
 
 ```
 AAM-Test/
-├── Provided Materials/          ← Original source documents (PDFs, PPTXs)
+├── Provided Materials/          <- Original source documents (PDFs, PPTXs, XLSX)
 │   ├── Combo Prospecting.pdf
 │   ├── 2025 Strategic Plan - Canada (FINAL).pdf
 │   ├── MHCA_Canadian-Product_Guidebook (3).pdf
 │   ├── Answers to Most Common Objections.pptx
-│   └── ... (additional materials for later topics)
+│   ├── Operating Lease Training Session 2024.pdf
+│   ├── MHCCA Formation LEAD participant EN.pdf
+│   ├── Sales EQ Assessment Jan 2025.pdf
+│   ├── Never Eat Alone Summary.pdf
+│   ├── Mikael - Taxation and Accounting_.pptx
+│   ├── Training guide TAM Program - Sales.pptm
+│   ├── Private Credit Platform Overview.pptx
+│   ├── Products Review EN - MHCC.pptx
+│   ├── AITC Program.pdf
+│   └── FINAL RAC - V.3 Sept 2025.xlsx    <- THE RAC (Credit Box Bible)
 │
-└── Study Guides/                ← You are here
-    ├── README.md                ← This file (start here)
+└── Study Guides/                <- You are here
+    ├── README.md                <- This file (start here)
+    │
+    ├── --- WEEK 1 CORE (Siraaj's 4 documents) ---
     ├── 01-Combo-Prospecting.md
     ├── 02-Strategic-Plan-2025.md
     ├── 03-Product-Guidebook.md
     ├── 04-Common-Objections.md
-    └── 05-Master-Practice-Quiz.md
+    ├── 05-Master-Practice-Quiz.md
+    │
+    ├── --- PRODUCTS & FINANCE ---
+    ├── 06-Operating-Lease-Training.md
+    ├── 07-AITC-Program.md
+    ├── 11-Taxation-and-Accounting.md
+    ├── 13-Private-Credit-Platform.md
+    │
+    ├── --- SALES SKILLS ---
+    ├── 08-LEAD-Sales-Methodology.md
+    ├── 09-Sales-EQ.md
+    ├── 10-Never-Eat-Alone.md
+    ├── 12-TAM-Program.md
+    │
+    └── --- CREDIT & RISK ---
+        └── 14-RAC-Credit-Box.md      <- THE MOST IMPORTANT GUIDE
 ```
 
 ---
 
-## Friday Meeting Prep — Week 1
+## Complete Study Guide Index
 
-Siraaj assigned four documents to review before the next Friday call. He will quiz you by **reading through each document and asking questions.** The study guides below break down each document into plain-English explanations with examples, then include practice questions at the end.
+### Week 1 Core — Siraaj's Original 4 Documents
 
-### Study Guides
-
-| # | Guide | What It Covers | How Long |
+| # | Guide | What It Covers | Priority |
 | --- | --- | --- | --- |
-| 01 | [Combo Prospecting](01-Combo-Prospecting.md) | The "triple" (phone + voicemail + email), pipeline management, warm calling, persistence, LinkedIn Sales Navigator, key quotes | ~280 lines |
-| 02 | [Strategic Plan 2025](02-Strategic-Plan-2025.md) | MHC Group 10-year vision (HOP/STEP/JUMP), 2025 North American objectives, Canada's transformation from transportation-heavy to diversified, new sales org chart, financial targets | ~350 lines |
-| 03 | [Product Guidebook](03-Product-Guidebook.md) | All 7 business lines explained with examples: Equipment Finance, Inventory Finance, Commercial Finance, Technology Finance, Capital Markets, Aviation, Sustainable Finance | ~530 lines |
-| 04 | [Common Objections](04-Common-Objections.md) | 9 objection scripts with explanations of why each response works, the three-step pattern (acknowledge, reframe, close), the alternative close technique | ~240 lines |
-| 05 | [Master Practice Quiz](05-Master-Practice-Quiz.md) | 50 questions across all 4 documents — short answer, scenario-based, and cross-document scenarios, with a numbers cheat sheet at the end | ~600 lines |
+| 01 | [Combo Prospecting](01-Combo-Prospecting.md) | The "triple" (phone + voicemail + email), pipeline management, warm calling, persistence, LinkedIn Sales Navigator, key quotes | HIGH |
+| 02 | [Strategic Plan 2025](02-Strategic-Plan-2025.md) | MHC Group 10-year vision (HOP/STEP/JUMP), 2025 North American objectives, Canada's transformation, new org chart, financial targets | HIGH |
+| 03 | [Product Guidebook](03-Product-Guidebook.md) | All 7 business lines: Equipment Finance, Inventory Finance, Commercial Finance, Technology Finance, Capital Markets, Aviation, Sustainable Finance | HIGH |
+| 04 | [Common Objections](04-Common-Objections.md) | 9 objection scripts, three-step pattern (acknowledge, reframe, close), alternative close technique | HIGH |
+| 05 | [Master Practice Quiz](05-Master-Practice-Quiz.md) | 50 questions across all 4 Week 1 documents — short answer, scenario-based, cross-document | HIGH |
+
+### Products & Finance — How Our Deals Work
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 06 | [Operating Lease Training](06-Operating-Lease-Training.md) | Capital lease vs operating lease, 4 off-balance-sheet criteria, FPO vs FMV, when to use each structure, real-world scenarios | HIGH |
+| 07 | [AITC Program](07-AITC-Program.md) | Atlantic Investment Tax Credit (10% on new equipment), eligible provinces (NB, NS, PEI, NL), how to pitch it to dealers | MEDIUM |
+| 11 | [Taxation & Accounting](11-Taxation-and-Accounting.md) | Lease acquisition vs operating lease vs installment sale, the Bigdan Vachon $300K excavator example, GST/HST/QST management, ITC/RTC credits, common myths | HIGH |
+| 13 | [Private Credit Platform](13-Private-Credit-Platform.md) | ABL ($1MM-$10MM), Cash Flow lending ($500K-$10MM), Equipment Finance for larger deals, how Private Credit differs from flow business | MEDIUM |
+
+### Sales Skills — How to Sell
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 08 | [LEAD Sales Methodology](08-LEAD-Sales-Methodology.md) | Legitimize, Explore, Accentuate, Decide — the 4-step sales process, HOOK technique, 6 client motivations, GEMS, APEP method for clients who don't express needs | HIGH |
+| 09 | [Sales EQ](09-Sales-EQ.md) | 4 pillars (Empathy, Self-control, Self-awareness, Sales drive), 5 stakeholder types, emotional intelligence in sales conversations | MEDIUM |
+| 10 | [Never Eat Alone](10-Never-Eat-Alone.md) | Networking principles, relationship building, the power of generosity, conference strategies, follow-up systems | MEDIUM |
+| 12 | [TAM Program](12-TAM-Program.md) | Originate-to-Sell program for declined deals, 8-step sales process, pricing grid, how Capital Markets places deals with third-party funders | MEDIUM |
+
+### Credit & Risk — The Credit Box
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 14 | [**RAC — Credit Box**](14-RAC-Credit-Box.md) | **THE BIBLE.** Risk Acceptance Criteria for ALL 20+ business segments. Deep dives on Construction, Forestry, Transportation (Class 1-7 and Class 8 OTR). Credit ratings, equipment tiers, auto-decision limits, max terms/amortization, down payments, restricted industries, Age Term Matrix | **CRITICAL** |
 
 ---
 
 ## Recommended Study Order
 
-Don't try to read everything at once. Follow this path:
-
-### Day 1 — Start Light
+### Phase 1 — Sales Fundamentals (Days 1-2)
 
 **Step 1:** Read [01 - Combo Prospecting](01-Combo-Prospecting.md)
 - The most conversational guide
@@ -56,31 +102,53 @@ Don't try to read everything at once. Follow this path:
 - Short and practical — 9 scripted responses
 - Key takeaway: the three-step pattern (acknowledge, reframe, close for meeting)
 
-### Day 2 — Go Deep
+**Step 3:** Read [08 - LEAD Sales Methodology](08-LEAD-Sales-Methodology.md)
+- The formal sales framework you'll use every day
+- Key takeaway: Legitimize, Explore, Accentuate, Decide + APEP for resistant clients
 
-**Step 3:** Read [03 - Product Guidebook](03-Product-Guidebook.md)
-- The biggest guide — this is the meat
-- Key takeaway: know all 7 business lines, their products, and who they serve
+### Phase 2 — Products & Numbers (Days 3-4)
+
+**Step 4:** Read [03 - Product Guidebook](03-Product-Guidebook.md)
+- The biggest guide — know all 7 business lines
 - Focus on: Capital Lease vs Operating Lease, Floorplan, ABL vs EBR, FMV Lease
 
-### Day 3 — Numbers and Structure
+**Step 5:** Read [06 - Operating Lease Training](06-Operating-Lease-Training.md)
+- Critical for understanding deal structures
+- Key takeaway: the 4 criteria for off-balance-sheet treatment
 
-**Step 4:** Read [02 - Strategic Plan 2025](02-Strategic-Plan-2025.md)
+**Step 6:** Read [11 - Taxation & Accounting](11-Taxation-and-Accounting.md)
+- How leasing, loans, and accounting interact
+- Key takeaway: the Bigdan Vachon excavator comparison (3 options)
+
+**Step 7:** Read [02 - Strategic Plan 2025](02-Strategic-Plan-2025.md)
 - Numbers-heavy but critical
-- Key takeaway: $1,075MM new business volume, $2.8B ending assets, portfolio shift (Transport HD 43% → 19%), new org chart
+- Key takeaway: $1,075MM volume, $2.8B assets, portfolio shift
 
-### Day 4 — Test Yourself
+### Phase 3 — The Credit Box (Days 5-6)
 
-**Step 5:** Work through [05 - Master Practice Quiz](05-Master-Practice-Quiz.md)
-- 50 questions covering everything
-- Answers are hidden in collapsible sections — try to answer before revealing
-- Pay special attention to Section E (cross-document scenarios)
+**Step 8:** Read [14 - RAC Credit Box](14-RAC-Credit-Box.md) **<-- MOST IMPORTANT**
+- This is the bible. Know it cold for Construction, Transportation, and Forestry
+- Key takeaways:
+  - Construction: CR4+ accepted, 375K/200K/$0 auto-decision, 96mo max amort T1/T2 new
+  - Forestry: $0 auto-decision ALWAYS, 60mo max, NO analyst exceptions, CR3 = Tier 1&2 only
+  - Transport Class 8: NO auto-decision, must be verified homeowner, no first-time owner/operators
+  - Comparable Credit thresholds: 50%/75%/100%
+
+### Phase 4 — Supporting Material & Review (Days 7-8)
+
+**Step 9:** Skim [09 - Sales EQ](09-Sales-EQ.md), [10 - Never Eat Alone](10-Never-Eat-Alone.md), [12 - TAM Program](12-TAM-Program.md), [07 - AITC](07-AITC-Program.md), [13 - Private Credit](13-Private-Credit-Platform.md)
+
+**Step 10:** Work through [05 - Master Practice Quiz](05-Master-Practice-Quiz.md)
+- 50 questions covering Week 1 materials
+- Plus the 30 practice questions in the RAC guide
 
 ---
 
 ## Quick Numbers Cheat Sheet
 
-These are the numbers most likely to come up in a quiz. Tear this off and review it:
+These are the numbers most likely to come up in a quiz:
+
+### Sales & Pipeline Numbers
 
 | What | Number |
 | --- | --- |
@@ -89,19 +157,83 @@ These are the numbers most likely to come up in a quiz. Tear this off and review
 | Best calling time | 7:45 - 8:45 a.m. |
 | Touches needed to convert a prospect | 8 - 12 |
 | Pipeline multiple needed | 3 - 5x your target |
-| FY2025 New Business Volume (Canada) | $1,075MM |
-| FY2025 Ending Assets | $2.8B |
-| FY2025 Bad Debt Expense | $67MM |
-| FY2025 Profit Target | Break Even |
-| FY2025 Delinquency (31+ days) | 3.40% |
-| Transportation HD portfolio shift | 43% → 19% |
-| Construction portfolio shift | 28% → 38% |
-| Diversified portfolio shift | 11% → 23% |
+
+### Financial Targets (FY2025)
+
+| What | Number |
+| --- | --- |
+| New Business Volume (Canada) | $1,075MM |
+| Ending Assets | $2.8B |
+| Bad Debt Expense | $67MM |
+| Profit Target | Break Even |
+| Delinquency (31+ days) | 3.40% |
+
+### Portfolio Shifts
+
+| Segment | From | To |
+| --- | --- | --- |
+| Transportation HD | 43% | 19% |
+| Construction | 28% | 38% |
+| Diversified | 11% | 23% |
+
+### Product Ranges
+
+| What | Number |
+| --- | --- |
 | ABL range | $1MM - $10MM |
 | EBR range | $500K - $10MM |
 | Inventory Finance min line | $500K |
 | Floorplan advance rate | 100% (incl. taxes) |
 | ABL advance on A/R | Up to 90% |
+
+### RAC Critical Numbers — Construction
+
+| What | Number |
+| --- | --- |
+| Auto-Decision CR1/CR2 | $375,000 |
+| Auto-Decision CR3 | $200,000 |
+| Auto-Decision CR4 | $0 |
+| Max Amort NEW T1/T2 (CR1-3) | 96 months |
+| Max Amort NEW T3 (CR1-3) | 84 months |
+| Max Asset Age T1/T2 | 15 model years / 15,000 hrs |
+| Max Asset Age T3 | 10 model years / 10,000 hrs |
+| Down Payment CR3 | 5-10% (prefer 10%) |
+| Down Payment CR4 | 10-20% (prefer 20%) |
+
+### RAC Critical Numbers — Forestry
+
+| What | Number |
+| --- | --- |
+| Auto-Decision (ALL) | $0 |
+| Max Term/Amort | 60 months |
+| Max Asset Age | 8 model years / 20,000 hrs |
+| PG Score (under $250K) | 680+ |
+| PG Score ($650K-$1MM) | 725+ |
+| Years in Business ($650K+) | 7 years |
+| Down Payment CR3 | 10-15% |
+| Down Payment CR4 | 20%+ with dealer support |
+| Analyst Exception Authority | NONE |
+
+### RAC Critical Numbers — Transport Class 8
+
+| What | Number |
+| --- | --- |
+| Auto-Decision | N/A (all manual) |
+| Max Term/Amort | 60 months |
+| Used Max Age (CR1/CR2) | 7 years / 700,000 km |
+| Used Max Age (CR3) | 3-year countback |
+| CR4 Used (Ontario/West) | NOT ELIGIBLE |
+| Term deduction | -12 months per model year or per 200,000 km |
+| Min years in business | 5 years |
+| Down Payment CR3 | 10% minimum |
+
+### Comparable Credit Thresholds
+
+| Deal Size | CC Required |
+| --- | --- |
+| Under $50K | 50% |
+| Under $100K | 75% |
+| $100K+ | 100% |
 
 ---
 
@@ -116,25 +248,45 @@ These are the numbers most likely to come up in a quiz. Tear this off and review
 | Paul Green | Director, Aviation Finance | Aviation |
 | Jon Davies | VP, Sustainable Finance | SDG / Sustainability |
 | Vincent Villeneuve | Director, Capital Markets & Third-Party Originations | Capital Markets |
+| Francis Nantel-Robidoux | Capital Markets (TAM Program contact) | TAM / Third-Party Originations |
+| Lauralie Lemire Nantais | Capital Markets (TAM Program contact) | TAM / Third-Party Originations |
 
 ---
 
-## What's Coming Next
+## Segment-Specific Quick Facts for Your Teams
 
-These materials cover the **Week 1 Friday assignment** (the four documents Siraaj specified). Additional study materials are expected:
+### Construction Team
 
-- **Operations & Credit** study materials — coming from Vincent
-- **Operating leases, asset tiering, collections, pricing** — will be covered in follow-up guides
-- **Ethics and fraud prevention scenarios** — will be added when content is distributed
-- **Practice questions from Siraaj** — based on the meeting transcript (coming separately)
+- You accept CR4 (many other segments don't)
+- Tier 1 construction: Deere, CAT, Volvo, Komatsu, Hitachi, CASE, JCB, Kubota
+- ZAXIS program = Hitachi excavators via Wajax (up to 96 month term, subsidized rates for CR3+)
+- Rental house deals restricted above $250K, MHCC reps only
+- Seasonal IOP: max 4 months, not in first 6 months
 
-The full associate test is scheduled for the **week of March 18th**, giving 3-4 weeks to prepare.
+### Transportation Team
+
+- **Hard rule:** No first-time owner/operators, ever
+- Class 1-7: pickups to medium duty (max 84mo amort new)
+- Class 8-OTR: big rigs (max 60mo, ALL manual review, must be verified homeowner)
+- Class 8 Tier 1 = Kenworth & Peterbilt ONLY (Volvo/Freightliner are Tier 3!)
+- CR4 used Class 8 in Ontario/West = NOT ELIGIBLE
+- Electric vehicles: investment grade can get 120 months
+
+### Forestry Team
+
+- $0 auto-decision always — every deal is manual
+- Max 60 months term/amort (target 48-54 for 2-shift units)
+- Tier 1: John Deere, Komatsu Forest/Valmet, Tigercat, Ponsse
+- CR3 = Tier 1 & 2 only (no Tier 3)
+- Analysts have ZERO exception authority
+- ITEC2000 program = dealer UNL for additional risk tolerance (CR4, startups)
+- Seasonal IOP: max 2 months (April/May — spring breakup)
 
 ---
 
 ## How Each Study Guide Is Structured
 
-Every guide follows the same ADHD-friendly format so you know what to expect:
+Every guide follows the same easy-to-scan format:
 
 1. **"What Is This Document About?"** — Plain-English overview in 2-3 sentences
 2. **Sections with clear headers** — Each major topic gets its own section
