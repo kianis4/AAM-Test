@@ -4,7 +4,7 @@
 
 ---
 
-> **How to use this:** This is your ADHD-friendly map of the entire test. Each item links to the guide where you'll find the full explanation. Scan the whole thing first to see the landscape, then deep-dive into the guides that feel weakest.
+> **How to use this:** This is your quick-reference map of the entire test. Each item links to the guide where you'll find the full explanation. Scan the whole thing first to see the landscape, then deep-dive into the guides that feel weakest.
 
 ---
 

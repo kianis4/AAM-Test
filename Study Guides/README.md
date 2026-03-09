@@ -62,7 +62,7 @@ AAM-Test/
 
 ## START HERE: Master Checklist
 
-**[00 - Master "What You Need To Know"](00-Master-What-You-Need-To-Know.md)** — Every process, situation, concept, number, person, email, and form across all 20 guides on ONE page. Scan this first, study the individual guides second. Designed for ADHD — checkboxes, tables, cross-guide connections, zero fluff.
+**[00 - Master "What You Need To Know"](00-Master-What-You-Need-To-Know.md)** — Every process, situation, concept, number, person, email, and form across all 20 guides on ONE page. Scan this first, study the individual guides second. Checkboxes, tables, cross-guide connections, zero fluff.
 
 ---
 

@@ -8,7 +8,7 @@
 
 **Go to the [Study Guides Hub](Study%20Guides/README.md)** — that's where everything is organized, indexed, and linked.
 
-**NEW: [Master "What You Need To Know" Checklist](Study%20Guides/00-Master-What-You-Need-To-Know.md)** — Every process, situation, and concept on ONE page. Start here if you have ADHD.
+**NEW: [Master "What You Need To Know" Checklist](Study%20Guides/00-Master-What-You-Need-To-Know.md)** — Every process, situation, and concept on ONE page. Start here.
 
 ---
 
