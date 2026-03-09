@@ -8,6 +8,8 @@
 
 **Go to the [Study Guides Hub](Study%20Guides/README.md)** — that's where everything is organized, indexed, and linked.
 
+**NEW: [Master "What You Need To Know" Checklist](Study%20Guides/00-Master-What-You-Need-To-Know.md)** — Every process, situation, and concept on ONE page. Start here if you have ADHD.
+
 ---
 
 ## Repository Structure
@@ -15,28 +17,18 @@
 ```
 AAM-Test/
 ├── README.md                    <- You are here (start page)
-├── Provided Materials/          <- Original source documents
-│   ├── Combo Prospecting.pdf
-│   ├── 2025 Strategic Plan - Canada (FINAL).pdf
-│   ├── MHCA_Canadian-Product_Guidebook (3).pdf
-│   ├── Answers to Most Common Objections.pptx
-│   ├── Operating Lease Training Session 2024.pdf
-│   ├── MHCCA Formation LEAD participant EN.pdf
-│   ├── Sales EQ Assessment Jan 2025.pdf
-│   ├── Never Eat Alone Summary.pdf
-│   ├── Mikael - Taxation and Accounting_.pptx
-│   ├── Training guide TAM Program - Sales.pptm
-│   ├── Private Credit Platform Overview.pptx
-│   ├── Products Review EN - MHCC.pptx
-│   ├── AITC Program.pdf
-│   └── FINAL RAC - V.3 Sept 2025.xlsx
+├── Provided Materials/          <- Original source documents (24 files)
+│   ├── PDFs, PPTXs, DOCX, XLSX covering all training topics
+│   ├── English + French versions where applicable
+│   └── FINAL RAC - V.3 Sept 2025.xlsx    <- THE RAC
 │
 └── Study Guides/                <- All study materials
     ├── README.md                <- INDEX & STUDY PLAN (go here)
     ├── 01 to 05                 <- Week 1 Core (Siraaj's 4 docs + quiz)
     ├── 06 to 07, 11, 13        <- Products & Finance
     ├── 08 to 10, 12            <- Sales Skills
-    └── 14-RAC-Credit-Box.md    <- THE CREDIT BOX (most important)
+    ├── 14-RAC-Credit-Box.md    <- THE CREDIT BOX (most important)
+    └── 15 to 20                 <- Operations & Compliance (NEW)
 ```
 
 ---
@@ -49,8 +41,9 @@ AAM-Test/
 | **Products & Finance** | 06, 07, 11, 13 | Operating Leases, AITC, Taxation & Accounting, Private Credit |
 | **Sales Skills** | 08, 09, 10, 12 | LEAD Methodology, Sales EQ, Never Eat Alone, TAM Program |
 | **Credit & Risk** | 14 | **RAC Credit Box** — all 20+ business segments, deep dives on Construction, Forestry, Transportation |
+| **Operations & Compliance** | 15-20 | Transfer Process, Authorized Signatories, Bill 96, GAI Insurance, Lease Restructure, Driver's License Validation |
 
-**14 study guides** covering every provided training document, with 75+ practice questions total.
+**20 study guides** covering every provided training document, with 155+ practice questions total.
 
 ---
 
@@ -61,5 +54,8 @@ AAM-Test/
 3. **[Operating Lease Training](Study%20Guides/06-Operating-Lease-Training.md)** — Capital lease vs operating lease, the 4 off-balance-sheet criteria.
 4. **[Strategic Plan 2025](Study%20Guides/02-Strategic-Plan-2025.md)** — Financial targets, portfolio shifts, org chart.
 5. **[LEAD Sales Methodology](Study%20Guides/08-LEAD-Sales-Methodology.md)** — The formal sales framework.
+6. **[GAI Insurance Program](Study%20Guides/18-GAI-Insurance-Program.md)** — Fund without client COI. Know the 4 eligibility requirements.
+7. **[Bill 96 — Quebec Language Law](Study%20Guides/17-Bill-96-Quebec-Language-Law.md)** — French-first rules for any deal touching Quebec.
+8. **[Authorized Signatories](Study%20Guides/16-Authorized-Signatories.md)** — Who can sign by company type. Critical for every deal.
 
 See the [full study plan](Study%20Guides/README.md) for the complete recommended order.

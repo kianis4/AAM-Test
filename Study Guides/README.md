@@ -46,9 +46,23 @@ AAM-Test/
     ├── 10-Never-Eat-Alone.md
     ├── 12-TAM-Program.md
     │
-    └── --- CREDIT & RISK ---
-        └── 14-RAC-Credit-Box.md      <- THE MOST IMPORTANT GUIDE
+    ├── --- CREDIT & RISK ---
+    ├── 14-RAC-Credit-Box.md      <- THE MOST IMPORTANT GUIDE
+    │
+    └── --- OPERATIONS & COMPLIANCE ---
+        ├── 15-Transfer-Process.md
+        ├── 16-Authorized-Signatories.md
+        ├── 17-Bill-96-Quebec-Language-Law.md
+        ├── 18-GAI-Insurance-Program.md
+        ├── 19-Op-Cap-Lease-Restructure.md
+        └── 20-Drivers-License-Validation.md
 ```
+
+---
+
+## START HERE: Master Checklist
+
+**[00 - Master "What You Need To Know"](00-Master-What-You-Need-To-Know.md)** — Every process, situation, concept, number, person, email, and form across all 20 guides on ONE page. Scan this first, study the individual guides second. Designed for ADHD — checkboxes, tables, cross-guide connections, zero fluff.
 
 ---
 
@@ -87,6 +101,17 @@ AAM-Test/
 | # | Guide | What It Covers | Priority |
 | --- | --- | --- | --- |
 | 14 | [**RAC — Credit Box**](14-RAC-Credit-Box.md) | **THE BIBLE.** Risk Acceptance Criteria for ALL 20+ business segments. Deep dives on Construction, Forestry, Transportation (Class 1-7 and Class 8 OTR). Credit ratings, equipment tiers, auto-decision limits, max terms/amortization, down payments, restricted industries, Age Term Matrix | **CRITICAL** |
+
+### Operations & Compliance — How Deals Get Done
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 15 | [Transfer Process](15-Transfer-Process.md) | Lease transfers (assumptions) — change of lessee, equipment changes, payment schedule changes. Step-by-step for Sales, Sales Support, and Validation. Required documents, PPSA amendments, IFL validation, GAI exception | HIGH |
+| 16 | [Authorized Signatories](16-Authorized-Signatories.md) | Who can sign contracts by company type: Inc., Sole Proprietorship, General Partnership, Limited Partnership, Cooperative, Municipality, NPO, Partnership (ROC). Unanimous shareholder agreement exception, Power of Attorney rules | HIGH |
+| 17 | [Bill 96 — Quebec Language Law](17-Bill-96-Quebec-Language-Law.md) | Quebec French language requirements for contracts. French-first process, RDPRM filing rules, equipment descriptions in French, when Bill 96 applies (4 triggers), consequences of non-compliance ($30K fines), translation tools | HIGH |
+| 18 | [GAI Insurance Program](18-GAI-Insurance-Program.md) | Great American Insurance program (launched Dec 2024). Fund without client COI, 4 eligibility requirements (<$1MM, 12-84 months, non-assignment, 100% covered assets), excavator exception, handling COIs pre/post-funding | HIGH |
+| 19 | [Op & Cap Lease Restructure](19-Op-Cap-Lease-Restructure.md) | Refinancing residual values via restructure. OP→CAP lease conversion, PPSA maintenance, Vision integration (Summary/Structure/Invoice tabs), CON15.7 vs CON15.71 forms, common mistakes to avoid | MEDIUM |
+| 20 | [Driver's License Validation](20-Drivers-License-Validation.md) | Province-by-province ID validation guide. License number formats (ON, BC, AB, QC, MB, SK, NB, NS, NL), security features, universal 7-point validation checklist, cross-verification tips | MEDIUM |
 
 ---
 
@@ -134,13 +159,30 @@ AAM-Test/
   - Transport Class 8: NO auto-decision, must be verified homeowner, no first-time owner/operators
   - Comparable Credit thresholds: 50%/75%/100%
 
-### Phase 4 — Supporting Material & Review (Days 7-8)
+### Phase 4 — Operations & Compliance (Days 7-8)
 
-**Step 9:** Skim [09 - Sales EQ](09-Sales-EQ.md), [10 - Never Eat Alone](10-Never-Eat-Alone.md), [12 - TAM Program](12-TAM-Program.md), [07 - AITC](07-AITC-Program.md), [13 - Private Credit](13-Private-Credit-Platform.md)
+**Step 9:** Read [18 - GAI Insurance Program](18-GAI-Insurance-Program.md)
+- Game-changer for funding speed — know the 4 eligibility requirements cold
+- Key takeaway: <$1MM, 12-84 months, non-assignment, 100% covered assets + excavator exception
 
-**Step 10:** Work through [05 - Master Practice Quiz](05-Master-Practice-Quiz.md)
+**Step 10:** Read [17 - Bill 96 — Quebec Language Law](17-Bill-96-Quebec-Language-Law.md)
+- Critical for ANY deal touching Quebec — 4 triggers to remember
+- Key takeaway: French first, explicit English request, RDPRM entirely in French, $30K fines
+
+**Step 11:** Read [16 - Authorized Signatories](16-Authorized-Signatories.md)
+- Know who can sign for each company type — Inc., L.P., Cooperative, etc.
+- Key takeaway: Limited partners (commanditaires) CANNOT sign; check for unanimous shareholder agreements
+
+**Step 12:** Skim [15 - Transfer Process](15-Transfer-Process.md), [19 - Op & Cap Lease Restructure](19-Op-Cap-Lease-Restructure.md), [20 - Driver's License Validation](20-Drivers-License-Validation.md)
+
+### Phase 5 — Supporting Material & Review (Days 9-10)
+
+**Step 13:** Skim [09 - Sales EQ](09-Sales-EQ.md), [10 - Never Eat Alone](10-Never-Eat-Alone.md), [12 - TAM Program](12-TAM-Program.md), [07 - AITC](07-AITC-Program.md), [13 - Private Credit](13-Private-Credit-Platform.md)
+
+**Step 14:** Work through [05 - Master Practice Quiz](05-Master-Practice-Quiz.md)
 - 50 questions covering Week 1 materials
 - Plus the 30 practice questions in the RAC guide
+- Plus 80+ new practice questions across guides 15-20
 
 ---
 
@@ -281,6 +323,31 @@ These are the numbers most likely to come up in a quiz:
 - Analysts have ZERO exception authority
 - ITEC2000 program = dealer UNL for additional risk tolerance (CR4, startups)
 - Seasonal IOP: max 2 months (April/May — spring breakup)
+
+---
+
+## Internal Policy Links Reference
+
+These are the key MHCCA policies available on **Audit Board** (English and French versions). Bookmark them for quick access.
+
+| Policy | Platform |
+| --- | --- |
+| Documentation and Security Policy | Audit Board |
+| Validation Procedure | Audit Board |
+| Document Preparation and Validation Policy | Audit Board |
+| Equipment Description Guidelines | Audit Board |
+| Doc Quality Guidelines | Audit Board |
+| Insurance Policy | Audit Board |
+| Rental House Policy | Audit Board |
+| Third Party Due Diligence | Audit Board |
+| Invoicing Policy | Audit Board |
+| Third Party Banking Information Procedure | Audit Board |
+| Accommodation Sale Policy | Audit Board |
+| Private Sales Policy | Audit Board |
+| E-Signature Procedure | Audit Board |
+| Proof of Payment Policy | Audit Board |
+
+**Non-Audit Board Guidelines:** Driver's Licenses (Guide 20), Authorized Signatories (Guide 16), GAI Validation (Guide 18), Op/Cap Lease Restructure (Guide 19), Transfer Process (Guide 15)
 
 ---
 
