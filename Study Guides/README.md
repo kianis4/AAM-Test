@@ -49,13 +49,19 @@ AAM-Test/
     ├── --- CREDIT & RISK ---
     ├── 14-RAC-Credit-Box.md      <- THE MOST IMPORTANT GUIDE
     │
-    └── --- OPERATIONS & COMPLIANCE ---
-        ├── 15-Transfer-Process.md
-        ├── 16-Authorized-Signatories.md
-        ├── 17-Bill-96-Quebec-Language-Law.md
-        ├── 18-GAI-Insurance-Program.md
-        ├── 19-Op-Cap-Lease-Restructure.md
-        └── 20-Drivers-License-Validation.md
+    ├── --- OPERATIONS & COMPLIANCE ---
+    │   ├── 15-Transfer-Process.md
+    │   ├── 16-Authorized-Signatories.md
+    │   ├── 17-Bill-96-Quebec-Language-Law.md
+    │   ├── 18-GAI-Insurance-Program.md
+    │   ├── 19-Op-Cap-Lease-Restructure.md
+    │   └── 20-Drivers-License-Validation.md
+    │
+    ├── --- CREDIT ANALYSIS ---
+    │   └── 21-Spreads-Cheat-Sheet.md
+    │
+    └── --- STRATEGIC INSIGHTS ---
+        └── 22-Strategic-Insights-Exam-Prep.md
 ```
 
 ---
@@ -112,6 +118,18 @@ AAM-Test/
 | 18 | [GAI Insurance Program](18-GAI-Insurance-Program.md) | Great American Insurance program (launched Dec 2024). Fund without client COI, 4 eligibility requirements (<$1MM, 12-84 months, non-assignment, 100% covered assets), excavator exception, handling COIs pre/post-funding | HIGH |
 | 19 | [Op & Cap Lease Restructure](19-Op-Cap-Lease-Restructure.md) | Refinancing residual values via restructure. OP→CAP lease conversion, PPSA maintenance, Vision integration (Summary/Structure/Invoice tabs), CON15.7 vs CON15.71 forms, common mistakes to avoid | MEDIUM |
 | 20 | [Driver's License Validation](20-Drivers-License-Validation.md) | Province-by-province ID validation guide. License number formats (ON, BC, AB, QC, MB, SK, NB, NS, NL), security features, universal 7-point validation checklist, cross-verification tips | MEDIUM |
+
+### Credit Analysis — How to Spread a Deal
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 21 | [**Spreads Cheat Sheet**](21-Spreads-Cheat-Sheet.md) | **THE SPREADS PLAYBOOK.** Financial analysis for large deals: Revenue & Margins (10% benchmarks), FCCR (1.0x minimum), Liquidity (current ratio, LOC, cash, WIP), Leverage (D/E under 3x, SFD/EBITDA under 3.5x), the 4Bloc format, 15.8 Spreads Template (Income Statement, Liquidity, Balance Sheet/Leverage sections), industry-specific questions for Construction & Forestry, documents to always request, NTR vs Reviewed vs Audited | **CRITICAL** |
+
+### Strategic Insights — The Big Picture
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 22 | [**Strategic Insights — Exam Prep**](22-Strategic-Insights-Exam-Prep.md) | **THE STRATEGY GUIDE.** Everything from the exam prep meetings: ROA as the #1 metric, FMV vs FPO strategic advantage (residual setting, margin optimization, sector practices), Evergreen leases (pure profit), EaaS & usage-based billing, service-based income (the holy grail), ABL positioning between banks & distressed lenders, private credit participation & sponsors, why MHCCA exited factoring, syndication reserve mechanisms, virtual captives & joint ventures (Sani/Housby), securitization basics, scalability philosophy, the complete MHCCA transformation story. Includes what Siraaj wants you to focus on — prioritized by tier | **CRITICAL** |
 
 ---
 
