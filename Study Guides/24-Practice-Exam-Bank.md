@@ -1,6 +1,6 @@
 # PRACTICE EXAM BANK — Fresh Questions From All Source Materials
 
-### These questions go DEEPER than the cram sheet. They test material from the actual training documents, meeting notes, and RAC details that could show up on exam day.
+### 133 questions total. These go DEEPER than the cram sheet — drawn from actual training documents, meeting notes, and RAC details that could show up on exam day.
 
 ---
 
@@ -364,7 +364,1042 @@ This is why programmatic deals with OEMs are preferred — the OEM shares the re
 
 ---
 
-## SALES EXAM — SECTION A: LEAD Deep Dive (15 Questions)
+---
+
+## CREDIT EXAM — SECTION C: PRIMARY SEGMENT SCENARIOS (40 Scenarios)
+
+### Each scenario teaches a DIFFERENT lesson about the RAC. Work through every one — the exam will present deals exactly like these and expect you to spot the issues.
+
+---
+
+### 🔨 CONSTRUCTION SCENARIOS (12)
+
+---
+
+**CS1. The "Older New" Trap**
+
+A dealer calls you about a brand-new CASE excavator — but it's a **2024 model year** (we're in 2026). The customer is CR3 and wants 96-month amortization. Can you offer it?
+
+<details><summary>Answer</summary>
+
+**No — not at 96 months.** The unit is a 2024 model sitting on the lot — an "older new" unit. The RAC rule for older new units states:
+- CR1/CR2 can get **like-new terms and conditions**
+- CR3/CR4 must **deduct at least 12 months of amortization**
+
+Since the customer is CR3, you must deduct 12 months from the standard 96 months → **84 months max amortization.** You'd also need an invoice confirming the unit is genuinely new (never titled/registered). If the unit were 2 model years old as new, deduct 12 months per year.
+
+**Lesson:** "New" doesn't just mean unused — the model year matters for CR3/CR4 clients.
+</details>
+
+---
+
+**CS2. The Attachment Trap**
+
+A CR2 construction client is buying a $400,000 CAT excavator with a $120,000 hydraulic hammer attachment. The dealer submits one invoice for $520,000 total. What's the issue?
+
+<details><summary>Answer</summary>
+
+The attachment is **23% of the total deal value** ($120K / $520K). The RAC rule: **attachments over 20% of the total must be itemized and serialized on a separate invoice.** The dealer needs to split the invoice to show the excavator and the hammer as separate line items with individual serial numbers.
+
+Also verify: does the hammer have its own serial number? If it's a generic bucket or non-serialized attachment, it may not be eligible for separate financing.
+
+**Auto-decision check:** $520K exceeds CR2's $375K auto-decision limit, so this deal requires **manual review** regardless of the attachment issue.
+
+**Lesson:** Always check attachment-to-total ratio. Over 20% = must be separately itemized and serialized.
+</details>
+
+---
+
+**CS3. The Hours vs. Age Conflict**
+
+A customer wants to finance a 2018 Komatsu PC360 excavator (Tier 1). It's 8 model years old with only 6,500 hours. Is it eligible? What's the max amort?
+
+<details><summary>Answer</summary>
+
+**Yes, eligible.** Tier 1/2 construction max is **15 model years** and **15,000 total hours.** At 8 years and 6,500 hours, it passes both tests.
+
+Per the Age Term Matrix, an 8-year-old Tier 1/2 unit gets **72 months max amortization.**
+
+**But wait** — check hours/year: 6,500 ÷ 8 = **812 hours/year.** This is well under the 1,500/year maximum. This is actually a **low-hour unit** for its age, which is a positive signal — the equipment was likely lightly used or sat idle for periods.
+
+**Lesson:** Always check BOTH age AND hours independently. A unit can pass age but fail hours, or vice versa. Low hours for age is a positive indicator.
+</details>
+
+---
+
+**CS4. The Tier 3 Amort Difference**
+
+Two CR2 customers walk in on the same day. Both want to finance brand-new excavators:
+- Customer A: Deere 350G (Tier 1) — $420K
+- Customer B: Liugong 920F (Tier 3) — $180K
+
+Both want 96-month amortization. What do you tell each?
+
+<details><summary>Answer</summary>
+
+- **Customer A (Deere, Tier 1):** Auto-decision = $375K, so $420K exceeds it → **manual review required.** But max amort for new Tier 1/2 at CR2 = **96 months.** The amort request is fine. The deal just needs analyst/manager approval.
+
+- **Customer B (Liugong, Tier 3):** Auto-decision = $375K, so $180K is under → **can be auto-approved.** But max amort for new Tier 3 at CR2 = **84 months, NOT 96.** You must tell the customer the best they can get is 84 months. This changes their monthly payment.
+
+**Lesson:** Tier 3 equipment gets 12 fewer months of amort than Tier 1/2 on new units (84 vs 96 for CR1-3, 60 vs 72 for CR4). Always check the tier before quoting terms.
+</details>
+
+---
+
+**CS5. The CR4 Down Payment Negotiation**
+
+A CR4 construction client wants to finance a $200,000 new Bobcat loader. They offer 10% down ($20,000). Is this enough?
+
+<details><summary>Answer</summary>
+
+**Technically acceptable, but not ideal.** The RAC states CR4 down payment is **10% to 20%, with preference for the higher end (20%).** So:
+- 10% ($20K) is the floor — acceptable
+- 20% ($40K) is preferred — what you should push for
+
+Also: CR4 auto-decision is **$0**, so this deal goes to **manual review.** The credit analyst will likely push for closer to 20% to mitigate risk. Max amort for CR4 on new Tier 1/2 is **72 months** (not 96).
+
+Additionally, at $200K the comparable credit requirement is **100%** (since it's ≥$100K). The client must show existing credit history of at least $200K.
+
+**Lesson:** The RAC gives ranges, not single numbers. Always structure toward the higher end. CR4 = push for 20%, not settle for 10%.
+</details>
+
+---
+
+**CS6. The IOP Timing Violation**
+
+A seasonal excavation company (CR3) wants to finance a new Volvo excavator for $300,000 with 4 months of skip payments in December through March (their off-season). They want the deal funded in October. What's the problem?
+
+<details><summary>Answer</summary>
+
+**The IOP starts in the first 6 months of the contract.** If funded in October, December is only 2 months in. The RAC states: **IOPs are NOT permitted in the first 6 months** unless program-approved or offset by an equivalent upfront payment.
+
+Options to fix:
+1. Fund earlier (April-May) so the December IOP falls outside the 6-month window
+2. Collect an **equivalent upfront payment** to offset the skipped months
+3. Structure the deal with a later commencement date
+
+Also verify: max **4 months IOP** (they want 4, which is at the limit — acceptable) and the IOP **must not extend the amortization.**
+
+**Lesson:** IOPs have a 6-month blackout from funding. Plan the funding date around the seasonal pattern, not the other way around.
+</details>
+
+---
+
+**CS7. The Rental House / DORF Trap**
+
+A broker submits a $180,000 deal for a construction company that rents equipment to other contractors. The broker says "it's under $250K so it should be fine." Is it?
+
+<details><summary>Answer</summary>
+
+**No — this deal is dead on arrival.** While it's true that rental house/DORF deals are restricted above $250K, there's a bigger issue: **NO broker rental house transactions are permitted at all.** This rule applies regardless of deal size.
+
+Rental house deals are **only applicable for MHCC reps** — direct sales team. Even if this were under $250K AND submitted by an MHCC rep, it would still require:
+- Financial statements
+- Personal guarantee
+- Regular rental audits
+- Broad form registration
+- PMSI notices
+- Assignment of lease
+- Doomsday letter
+- Rental floorplan insurance
+
+Cross-border or rent-to-rental-house end-users are also **NOT permitted.**
+
+**Lesson:** Broker + rental house = automatic decline. No exceptions. Know the DORF/rental house restrictions cold.
+</details>
+
+---
+
+**CS8. The Comparable Credit Tiers**
+
+Three construction deals arrive on the same day:
+- Deal A: CR2 customer, $45,000 new Kubota mini excavator
+- Deal B: CR3 customer, $80,000 used Deere backhoe
+- Deal C: CR2 customer, $150,000 new Hitachi excavator
+
+What comparable credit does each need?
+
+<details><summary>Answer</summary>
+
+- **Deal A ($45K):** Under $50K → needs **50% comparable credit** → must show at least **$22,500** in existing credit lines
+- **Deal B ($80K):** Under $100K → needs **75% comparable credit** → must show at least **$60,000** in existing credit lines
+- **Deal C ($150K):** Over $100K → needs **100% comparable credit** → must show at least **$150,000** in existing credit lines
+
+**What if they don't have CC?** For CR3/CR4 (Deal B), a **PG + Signed PNW** is required if no comparable credit exists. Bank statements/FS may also be required. For CR2 (Deals A & C), PG is at credit discretion but bank statements over $250K are required if no CC.
+
+**Lesson:** The 50/75/100 thresholds are universal across most segments. Memorize them: $50K = 50%, $100K = 75%, $100K+ = 100%.
+</details>
+
+---
+
+**CS9. The Soft Cost Limit**
+
+A CR2 customer is buying a $350,000 CAT 320 excavator. They also want to finance $45,000 in GPS telematics, extended warranty, and delivery charges. Can you include the soft costs?
+
+<details><summary>Answer</summary>
+
+**No — the soft costs are too high.** Soft costs must be **less than 10% of the equipment cost.** $45,000 / $350,000 = **12.9%** — exceeds 10%.
+
+The maximum allowable soft cost on this deal is $35,000 (10% of $350K). The client needs to either:
+1. Pay $10,000 of the soft costs out of pocket, or
+2. Reduce the soft cost items to fit under $35K
+
+Note: the total deal ($395K) also exceeds CR2's $375K auto-decision, so it goes to manual review.
+
+**Lesson:** Soft costs are capped at <10% of equipment cost. GPS, warranties, freight, and installation all count. Calculate the percentage before quoting.
+</details>
+
+---
+
+**CS10. The ZAXIS vs. Standard Construction Trap**
+
+A CR3 customer wants to buy a new Hitachi ZX350 excavator through Wajax for $380,000. They want 96-month terms and no down payment. Can you do this under the ZAXIS program?
+
+<details><summary>Answer</summary>
+
+This is a **great ZAXIS deal** — but with adjustments:
+
+**What works:**
+- Hitachi equipment through Wajax → eligible for ZAXIS
+- CR3 → eligible for subsidized rates under ZAXIS
+- **Max term under ZAXIS = 96 months** (vs. 72 standard construction) ✅
+- App-only up to $650K under ZAXIS (vs. needing FS at $500K standard) ✅
+
+**What doesn't work:**
+- **Down payment:** ZAXIS requires **no advance payments for CR1-CR3.** So actually, **no down payment IS allowed** ✅ — this is MORE generous than standard construction where CR3 needs 5-10%
+- Auto-decision is same as standard: $375K for CR1/CR2, $200K for CR3. At $380K and CR3, auto-decision is $200K → **manual review required**
+
+**Key ZAXIS advantages over standard:** Higher app-only threshold ($650K), max 96 months, CR3 gets subsidized rates, no advance payment required for CR1-CR3.
+
+**Lesson:** Always check if a deal qualifies for a special program (ZAXIS, ITEC2000, Route One) — the terms can be significantly better than the standard RAC.
+</details>
+
+---
+
+**CS11. The "Older New" CR1 vs. CR3 Split**
+
+A dealer has two brand-new 2024 CASE excavators (same model, same price: $280K each). Customer A is CR1, Customer B is CR3. Both want max amort. What does each get?
+
+<details><summary>Answer</summary>
+
+Both units are 2 model years old as "new" inventory (2024 models in 2026):
+
+- **Customer A (CR1):** The RAC says CR1/CR2 can get **like-new terms and conditions** for older new units. Max amort = **96 months** (full new Tier 1/2 rate). No deduction required.
+
+- **Customer B (CR3):** The RAC says CR3/CR4 must **deduct at least 12 months per model year.** Since the unit is 2 model years behind → deduct 24 months from 96 = **72 months max amortization.**
+
+Same equipment, same price, same dealer — but **24 months less amortization** for the CR3 customer. This significantly affects monthly payment.
+
+**Auto-decision:** Both at $280K — CR1 auto-approves ($375K limit), CR3 exceeds its $200K limit → manual review.
+
+**Lesson:** "Older new" units penalize CR3/CR4 with amort deductions but not CR1/CR2. This is a common exam trap.
+</details>
+
+---
+
+**CS12. The Exception Authority Scenario**
+
+An analyst is reviewing a CR2 construction deal. The customer has excellent financials and wants a 108-month amortization on a used 3-year-old Tier 1 excavator. The Age Term Matrix shows 72 months max. Can the analyst approve this?
+
+<details><summary>Answer</summary>
+
+**Partially — but not to 108 months.** Construction analysts CAN make exceptions for CR1/CR2 clients, including extending max amort by **up to 12 months for USED equipment only** on an exceptional basis with strong arguments documented in VISION comments.
+
+So: 72 months (Age Term Matrix) + 12 months (max analyst extension) = **84 months maximum** the analyst could approve. 108 months is **well beyond** analyst authority.
+
+For 108 months, the analyst would need **Next Level Approval Authority** — escalation to Credit Manager or above. Even then, 108 months on a used unit would be very unusual and would need extraordinarily strong justification.
+
+**Lesson:** Analyst exceptions in Construction are limited to +12 months on used equipment for CR1/CR2. Anything beyond that requires escalation.
+</details>
+
+---
+
+### 🌲 FORESTRY SCENARIOS (10)
+
+---
+
+**FS1. The CR3 Tier 3 Kill**
+
+A CR3 logging company wants to finance a new Barko 595B forestry processor for $320,000. They have 5 years in business, 710 PG score, and decent financials. Can you do this deal?
+
+<details><summary>Answer</summary>
+
+**No. This deal is dead.** The fatal issue: Barko is a **Tier 3** brand in forestry. The RAC states for CR3 customers: **only Tier 1 and Tier 2 equipment is eligible.** No Tier 3 for CR3 — period.
+
+The customer's options:
+1. Finance a **Tier 1 or Tier 2** equivalent (e.g., Tigercat, Ponsse, John Deere, Weiler)
+2. If they're set on the Barko, they would need to improve to **CR1 or CR2** credit rating to qualify
+
+Even their decent PG score (710) and 5 years in business don't help — the tier restriction is absolute for CR3.
+
+**Lesson:** In forestry, CR3 = Tier 1 & 2 ONLY. This is one of the strictest tier restrictions in the RAC.
+</details>
+
+---
+
+**FS2. The PG Score Tiers**
+
+Three forestry applications arrive:
+- Customer A: $200K deal, PG score 685
+- Customer B: $400K deal, PG score 700
+- Customer C: $750K deal, PG score 720
+
+Which ones meet the PG threshold?
+
+<details><summary>Answer</summary>
+
+Forestry has **higher PG requirements than any other segment** and they escalate with deal size:
+
+- **Customer A ($200K, PG 685):** Under $250K requires PG **above 680.** Score is 685 → **PASSES** ✅
+- **Customer B ($400K, PG 700):** $250K-$650K doesn't have a specific higher PG threshold — the 680 minimum still applies. Score is 700 → **PASSES** ✅ But at this exposure, bank statements and FS are **required — no exceptions.**
+- **Customer C ($750K, PG 720):** $650K-$1M requires PG **above 725.** Score is 720 → **FAILS** ❌ by 5 points. This deal cannot proceed. The customer also needs **7 years in business** at this exposure level.
+
+**Lesson:** Forestry PG scores ratchet up: 680 for under $250K, 725 for $650K-$1M. Most other segments just need 650. Forestry is the strictest.
+</details>
+
+---
+
+**FS3. The Double-Shift Amort Adjustment**
+
+A CR2 customer wants to finance a new Tigercat 875 logger buncher for $480,000. They run a 2-shift operation (16 hours/day). They want 60-month amortization. Is this appropriate?
+
+<details><summary>Answer</summary>
+
+**Technically allowed but not recommended.** While 60 months is the **max term/amort** for forestry (new or used), the RAC states that for **2-shift operations**, the **target amortization should be 48-54 months** on new units.
+
+Why? A 2-shift unit accumulates **4,000 hours/year** (vs. 2,000 for single shift). After 5 years at 2 shifts = 20,000 hours — which is the **absolute max hours allowed** in forestry. The equipment will be at end-of-life by the time the lease ends.
+
+The credit analyst will likely push for **48-54 months** to ensure the deal amortizes before the equipment is worn out. The deal could still be structured at 60 months, but it would likely require Next Level Approval.
+
+**Also note:** At $480K, this is in the $250K-$650K bracket — FS, PG + Signed PNW, and bank statements are **required — no exceptions.**
+
+**Lesson:** 2-shift forestry = target 48-54 months, even though 60 is the technical max. The shift pattern directly impacts asset life.
+</details>
+
+---
+
+**FS4. The Spring Breakup IOP**
+
+A forestry client asks for 4 months of skip payments (March through June — spring breakup and mud season). Is this allowed?
+
+<details><summary>Answer</summary>
+
+**No — exceeds the maximum.** Forestry IOP is limited to **max 2 months** (April and May — spring breakup). The client is asking for 4 months, which is double the allowed amount.
+
+Compare to Construction, which allows **max 4 months IOP.** Forestry is more restricted because:
+1. Forestry margins are tighter
+2. Equipment life is shorter
+3. The RAC is stricter overall in forestry
+
+The client can get April and May as IOP but must make payments in March and June. Same universal IOP rules apply: not in first 6 months unless offset by equivalent upfront payment, and IOP must not extend amortization.
+
+**Lesson:** Forestry = 2-month IOP max. Construction = 4-month IOP max. Don't mix them up.
+</details>
+
+---
+
+**FS5. The ITEC2000 Startup Opportunity**
+
+A 2-year-old logging startup with a CR4 rating wants to buy a $180,000 new Tigercat skidder through an ITEC2000 dealer. Under normal forestry rules, can this deal happen? What about through ITEC2000?
+
+<details><summary>Answer</summary>
+
+**Under normal forestry rules: NO.** Two problems:
+1. Only **3+ years in business** required (they're at 2 — fails)
+2. CR4 in forestry is extremely difficult — all deals are manual ($0 auto-decision), down payment requires **20%+ with dealer support**
+
+**Under ITEC2000: POSSIBLY YES.** The ITEC2000 program provides a **dealer UNL (Unlimited Guarantee)** that gives MHCCA additional comfort. This specifically allows MHCCA to take **additional risk** on:
+- CR4 customers ✅
+- **Startup businesses** ✅
+
+The dealer acknowledges the risk and has skin in the game through the unlimited guarantee. The deal would still need manual review and Next Level Approval (forestry has zero analyst exception authority), but the ITEC2000 UNL makes it possible when it otherwise wouldn't be.
+
+**Lesson:** ITEC2000 is the lifeline for marginal forestry deals — CR4 and startups that would normally be declined can go through if the dealer backs them.
+</details>
+
+---
+
+**FS6. The Asset Age + Hours Calculation**
+
+A customer wants to finance a used Ponsse Scorpion King harvester that is 6 years old with 15,000 hours. Is it eligible? What max amort can you offer?
+
+<details><summary>Answer</summary>
+
+Check both limits:
+- **Age:** 6 years ≤ 8-year max → **PASSES** ✅
+- **Hours:** 15,000 ≤ 20,000 max → **PASSES** ✅
+- **Hours/year check:** 15,000 ÷ 6 = 2,500 hours/year. For a single-shift operation (2,000/year), this is HIGH — indicates the machine may have run extended shifts. For a 2-shift operation (4,000/year), it's well within range.
+
+**Max amort:** Forestry max is **60 months** for both new and used. But since this is a used unit with high utilization (2,500 hrs/yr), the credit analyst will likely want **shorter than 60 months** to avoid financing beyond the equipment's remaining useful life. With only 5,000 hours of remaining life (20,000 max - 15,000 current), at 2,500 hrs/year, the machine has roughly **2 years of life left.** A 60-month amort would be irresponsible.
+
+Expect the analyst to cap this at **24-36 months** maximum.
+
+**Lesson:** Even when a unit passes the technical age/hours limits, you need to think about remaining useful life. Don't just check the box — use judgment.
+</details>
+
+---
+
+**FS7. The Job Letter Requirement**
+
+A forestry deal for $180,000 (CR3 customer, 4 years in business, PG 695) is submitted without a job letter. The analyst sends it back. What exactly needs to be in the job letter?
+
+<details><summary>Answer</summary>
+
+The forestry RAC specifically requires a **job letter** with three pieces of information:
+
+1. **Number of shifts per day** — single shift (8 hrs) or double shift (16 hrs). This directly affects equipment life calculations and target amortization
+2. **Annual wood production** — measured in cubic meters (m³). Shows the scale and viability of the operation
+3. **Wood price in $/m³** — demonstrates revenue potential and whether the operation can support the payments
+
+**Why all three matter:**
+- Shifts → determines how fast the equipment wears out → affects amort
+- Production × price = revenue → determines debt service capability
+- Low production + low price = marginal operation = higher risk
+
+Without the job letter, the analyst cannot properly assess whether the deal is viable. This requirement exists **for all forestry deals under $250K** (app-only bracket).
+
+**Lesson:** Forestry is the only segment requiring a "job letter" with specific operational data. Don't skip it — it's mandatory, not optional.
+</details>
+
+---
+
+**FS8. The 7-Year Business Requirement**
+
+A CR2 forestry company that's been in business for 5 years wants to finance $800,000 in new John Deere equipment. They have excellent PG (740), strong financials, and full comparable credit. Can you proceed?
+
+<details><summary>Answer</summary>
+
+**No — they fail the time-in-business requirement.** For forestry exposure of **$650K-$1M**, the customer must have **7 years in business.** This company only has 5 years. Even though everything else is excellent (PG 740 > 725 requirement, strong FS, full CC), the 7-year TIB requirement is non-negotiable at this exposure level.
+
+**Options:**
+1. **Split the deal:** Finance $640K now (stays in the $250K-$650K bracket which only needs 3 years TIB) and wait for the remaining equipment
+2. **Wait 2 years:** Come back when they hit 7 years in business
+3. **Escalate:** Request Next Level Approval as an exception — but remember, forestry has **ZERO analyst exception authority.** Even the Credit Manager would need strong justification
+
+**Lesson:** Forestry has the longest TIB requirement of any segment at the $650K+ level. 7 years is unique to forestry — most other segments only need 3-5 years.
+</details>
+
+---
+
+**FS9. The Analyst Exception Trap**
+
+An analyst is reviewing a CR1 forestry deal. The customer is flawless — 15 years in business, 780 PG, perfect payment history, $2M in comparable credit. The deal is for $300K in new Tigercat equipment. The analyst wants to extend amort from 60 to 66 months as a small exception. Can they?
+
+<details><summary>Answer</summary>
+
+**NO. Absolutely not.** Forestry has the **strictest exception policy in the entire RAC:** analysts have **ZERO exception authority regardless of credit rating.** This applies to CR1, CR2, CR3, CR4 — all of them.
+
+Compare to Construction, where analysts CAN make exceptions for CR1/CR2 (including extending amort by up to 12 months on used equipment). **This does NOT apply to forestry.**
+
+The analyst must escalate to **Next Level Approval Authority** even for this seemingly minor 6-month extension on an otherwise perfect deal. Credit Manager/Leader and above can self-approve.
+
+**Lesson:** "Zero analyst exception authority" means zero — not "zero unless the customer is amazing." Forestry = always escalate for any RAC deviation. This is the #1 forestry trap on the exam.
+</details>
+
+---
+
+**FS10. The Forestry Equipment in Construction**
+
+A construction company (rated under the Construction RAC) wants to buy a Tigercat mulcher for land clearing on a construction site. Do you use the Forestry RAC or the Construction RAC?
+
+<details><summary>Answer</summary>
+
+This is a **grey area** that depends on the customer's primary business, not the equipment brand:
+
+- If the customer is a **construction company** (rated under Construction RAC) using the Tigercat for **land clearing as part of construction work**, the deal falls under the **Construction RAC.** The customer's segment determines the rules.
+
+- If the customer is a **forestry/logging company** using the Tigercat for **harvesting timber**, it falls under the **Forestry RAC.**
+
+**However:** The equipment tier classification matters. Tigercat is **Tier 1 in Forestry** but would likely be assessed as a **specialty/niche brand in Construction** (not on the Construction Tier 1 list). This could affect available terms.
+
+The credit analyst will look at: (1) the customer's industry classification, (2) how the equipment will be used, and (3) which RAC provides the most appropriate risk framework. When in doubt, apply the **more restrictive RAC.**
+
+**Lesson:** The customer's business segment determines the RAC — not the equipment brand. But tier classifications differ between segments, which affects terms.
+</details>
+
+---
+
+### 🚛 TRANSPORTATION CLASS 1-7 SCENARIOS (9)
+
+---
+
+**T1. The First-Time Owner/Operator Kill**
+
+An accountant refers you to her client — a successful real estate investor with an 800 PG score, $5M net worth, who wants to buy his first dump truck ($120,000 new Ford F-650) to start a hauling side business. Can you finance this?
+
+<details><summary>Answer</summary>
+
+**Absolutely not.** The RAC has an **absolute rule** for ALL transportation segments (Class 1-7 AND Class 8): **No first-time owner/operators, regardless of the situation.**
+
+The customer's 800 PG score, $5M net worth, and real estate success are irrelevant. This is not a financial strength question — it's a policy prohibition. No exceptions, no escalation path, no manager override.
+
+**Why the rule exists:** Operating a trucking business requires specific industry knowledge — DOT compliance, driver management, maintenance programs, insurance requirements, route management. Financial strength alone doesn't prove ability to run a transport operation. The failure rate for first-time O/Os is extremely high.
+
+**What to tell the accountant:** "We're unable to finance first-time owner/operators in transportation. If your client operates for 3+ years through another arrangement (leasing from someone else, working as an O/O for an existing carrier), we'd be happy to look at them then."
+
+**Lesson:** First-time O/O = automatic decline in all transportation segments. The rule is absolute — no PG score, net worth, or credit rating overrides it.
+</details>
+
+---
+
+**T2. The Used Pickup Age Term Calculation**
+
+A CR3 customer wants to finance a 4-year-old Ford F-350 (pickup/cargo class) with 180,000 km. What's the max term and amort?
+
+<details><summary>Answer</summary>
+
+**Step 1: Check eligibility**
+- Pickup max age = **8 model years** → 4 years → **PASSES** ✅
+- Pickup max KMs = **250,000 total** → 180,000 → **PASSES** ✅
+- KMs/year: 180,000 ÷ 4 = 45,000/year (max is 50,000/year) → **PASSES** ✅
+
+**Step 2: Calculate max term**
+Max term = 72 months, then **deduct 12 months per model year:**
+72 - (4 × 12) = **24 months max term**
+
+**Step 3: Check KMs deduction**
+Also deduct for KMs when max per class is hit. Pickup max is 250K total. The truck isn't over 250K yet, but the RAC says deduct per 200,000 km: 180,000 / 200,000 = 0.9 → no full deduction yet.
+
+**Take the lower:** Max term = **24 months.**
+
+**Step 4: Age Term Matrix confirmation**
+Per the pickup Age Term Matrix: 4-year-old pickup = **48 months max amort.** But max TERM after deduction = 24 months. Term ≤ Amort, so effective max = **24 months.**
+
+This is a short deal. The customer should consider whether it's worth financing for only 2 years.
+
+**Lesson:** Used pickups depreciate fast in the term calculation. Each model year costs 12 months. A 4-year-old pickup only gets 24 months — always run the math before quoting.
+</details>
+
+---
+
+**T3. The Bus = Loan Only Rule**
+
+A school board's contracted bus operator (CR2) wants to lease 5 new Blue Bird school buses worth $650,000 total. They want a capital lease with a $1 buyout. Any issues?
+
+<details><summary>Answer</summary>
+
+**Yes — buses must be documented as a LOAN, not a lease.** The RAC states: **All buses & hazmat transactions must be treated as a LOAN** with increased insurance.
+
+This means:
+- No capital lease structure
+- No operating/FMV lease
+- Must be a **loan (installment sale)** only
+- **Increased insurance** required (higher liability coverage)
+
+Additional requirements for school buses:
+- The transaction should be directly tied to a **contract with the local school board** — verify the contract exists and its duration
+- CR2 at $650K → manual review required (exceeds $375K auto-decision)
+- **Call to verify work program** required for transactions over $650K
+
+Electric bus exception: If these are electric buses, investment-grade borrowers can get up to **120 months** amort.
+
+**Lesson:** Buses and hazmat = LOAN ONLY, with increased insurance. Never structure these as leases. This catches people who default to "everything is a lease."
+</details>
+
+---
+
+**T4. The Electric Bus Amort Advantage**
+
+A large municipal transit operator (investment-grade, CR1) wants to finance 10 new electric buses through a loan (they know about the loan-only rule). What's the maximum amort?
+
+<details><summary>Answer</summary>
+
+**120 months.** For **investment-grade** borrowers financing electric buses/trucks, the RAC allows up to **120 months amortization.** This is the longest amort in the entire Class 1-7 segment.
+
+Comparison of EV amort tiers:
+- **Investment Grade:** 120 months
+- **Standard CR1-CR3:** 84 months
+- **Young Business / CR4:** 72 months (bus only)
+
+The deal must still be structured as a **LOAN** (buses = loan only). Product type: **Trucks = Lease or Loan**, but **Buses = Loan only.**
+
+The transit operator may also qualify for government grants: federal iMHZEV/iZEV and provincial programs. If **Investment Bank of Canada (BIC)** is involved, an **intercreditor agreement** is required.
+
+Tier 1 EV OEMs: Ford, GM, Volvo, BlueBird. Tier 2 (max 60 months): Workhorse, Battlemotors, Nikola.
+
+**Lesson:** EV incentives make electric buses the longest-term product in Class 1-7. Know the three amort tiers: 120/84/72.
+</details>
+
+---
+
+**T5. The Homeownership Verification**
+
+A CR3 customer with a PG score of 680 is applying for a $200,000 used medium-duty truck deal. Everything looks good on paper. What critical verification must happen before funding?
+
+<details><summary>Answer</summary>
+
+**Homeownership must be verified prior to funding.** The RAC states for Class 1-7: PG is **required for CR3 to CR5**, and **homeownership must be verified prior to funding.** This is also required for Class 8 (where ALL borrowers must be verified homeowners).
+
+This means:
+- Confirm the guarantor owns their primary residence
+- This can be verified through the Signed PNW statement, property tax records, or title search
+- If the guarantor is a **renter**, this creates a problem — the deal may need additional security or restructuring
+
+Also check: PG score of 680 meets the **650 minimum** for Class 1-7. But if this were forestry, they'd need 680+ (and 725+ for larger deals).
+
+The $200K deal is under the CR3 auto-decision of $200K — so it **could potentially be auto-approved** if all other criteria are met. But comparable credit at 100% ($200K ≥ $100K threshold) must be verified.
+
+**Lesson:** Homeownership verification is required for ALL transportation PG guarantors before funding. Don't skip this step — it's a funding prerequisite, not just a nice-to-have.
+</details>
+
+---
+
+**T6. The Specialized Vehicle Age Advantage**
+
+A customer wants to finance a 13-year-old crane truck. Another wants to finance a 6-year-old cargo van. Which one has a longer max term potential?
+
+<details><summary>Answer</summary>
+
+**The crane truck wins — by a lot.**
+
+**Cargo van (6 years old):**
+- Pickup/cargo max age = 8 years → eligible
+- Max term: 72 - (6 × 12) = **0 months.** Wait — that's zero! Actually, at 6 years, the Age Term Matrix shows **24 months** max amort for pickups/cargo.
+
+**Crane truck (13 years old):**
+- Specialized/vocational max age = **15 years** → 13 years → still eligible
+- But there's a special rule: **max 24 months after 10 years** for dump trucks. Crane trucks (specialized) may have different treatment — their depreciation is based on engine hours (max 1,500/year) and crane hours (max 1,500/year)
+- At 13 years, the max term would be approximately **24 months**
+
+Both end up around 24 months, but the crane truck is **7 years older** and still eligible. This is because specialized/vocational equipment (crane trucks, cement trucks, tow trucks) has a **15-year max age** vs. only **8 years for pickups.**
+
+**Lesson:** Vehicle class dramatically affects max age limits. Pickups age out at 8 years; specialized/vocational vehicles last until 15. Know which class your asset falls into.
+</details>
+
+---
+
+**T7. The Hazmat = Loan Trap**
+
+A CR2 customer wants to lease a new fuel tanker truck for $180,000 as a capital lease. They're well within all credit parameters. What's the critical issue?
+
+<details><summary>Answer</summary>
+
+**Hazmat vehicles must be structured as LOANS, not leases.** Fuel tanker = hazmat transportation. Same rule as buses: **All buses & hazmat transactions must be treated as a LOAN with increased insurance.**
+
+This means:
+- Reject the capital lease request
+- Restructure as a **loan (installment sale)**
+- Require **increased insurance** coverage (higher limits than standard transport)
+- The increased insurance requirement is separate from standard insurance — verify the policy meets the elevated coverage amounts
+
+The customer may push back ("but I want the tax benefits of a lease"). Explain that this is a **regulatory and policy requirement**, not a financial preference. Hazmat creates elevated liability risk that requires the loan structure.
+
+**Lesson:** The hazmat/bus = loan rule is one of the most commonly tested OPS/credit traps. Always ask: does this vehicle carry hazardous materials? If yes → loan only.
+</details>
+
+---
+
+**T8. The Route One Residual Comparison**
+
+A CR2 customer is considering a Route One deal on a new Class 1-7 vehicle. They're deciding between a 48-month and 72-month term. What residual values apply under Route One, and why does the difference matter?
+
+<details><summary>Answer</summary>
+
+**Route One residual values (CR1/CR2/CR3):**
+- 72 months = **20%** residual
+- 60 months = **30%** residual
+- 48 months = **40%** residual
+- 36 months = **50%** residual
+- 24 months = **60%** residual
+
+**48 months → 40% residual vs. 72 months → 20% residual.**
+
+**Why it matters:**
+- **Higher residual = lower monthly payment** (the client is financing less of the equipment's cost)
+- At 48 months / 40% residual on a $100K vehicle: financing $60K over 48 months
+- At 72 months / 20% residual on $100K: financing $80K over 72 months
+- The 48-month option has **higher monthly payments** (shorter term) but the client retains more flexibility at end of term
+
+**CR4 exception:** Max 60 months, and residual is **$0** — no residual value. CR4 finances the full equipment cost.
+
+**Lesson:** Route One residuals decrease with longer terms. Shorter terms = higher residuals = lower total financing cost. But monthly payments are higher. Help the client understand the trade-off.
+</details>
+
+---
+
+**T9. The Coach Bus Exception**
+
+A CR2 charter bus company wants to finance a new MCI coach bus for $500,000. They have 10 years in business and excellent financials. Is this straightforward?
+
+<details><summary>Answer</summary>
+
+**No — coach buses are exception-only.** The RAC states: **Coach buses: exception basis only, reviewed by Manager.** This means:
+
+1. The deal **cannot be auto-approved** regardless of credit rating
+2. It requires a **Manager review** — not just analyst
+3. Must be documented as a **LOAN** (buses = loan only)
+4. Requires **increased insurance**
+5. At $500K, it exceeds the $375K auto-decision anyway → manual review
+
+Compare to school buses, which are permitted as long as there's a **contract with the local school board.** Coach buses don't have that institutional backing — charter/tour operations are inherently more volatile.
+
+The deal is doable, but expect extra scrutiny. The Manager will want to see: route/contract details, insurance confirmation, financials showing stable charter revenue, and the work program.
+
+**Lesson:** Not all buses are equal. School buses with board contracts are standard. Coach buses are exception-only with Manager review. Know the difference.
+</details>
+
+---
+
+### 🚚 TRANSPORTATION CLASS 8 OTR SCENARIOS (9)
+
+---
+
+**C8-1. The Geographic Eligibility Trap**
+
+A CR4 customer in Toronto wants to finance a used 2023 Kenworth T680. A CR4 customer in Montreal wants to finance the same truck (same year, same model, same mileage). Do you approve both?
+
+<details><summary>Answer</summary>
+
+**Toronto (Ontario) → DECLINED. Montreal (Quebec) → POSSIBLE.**
+
+The RAC has a **critical geographic split** for CR4 used Class 8:
+
+- **Ontario & Western Provinces:** CR4 customers are **NOT ELIGIBLE for used Class 8 trucks at all.** Not eligible for new either. Complete prohibition.
+- **Quebec & Maritimes:** CR4 **CAN get used trucks** but only with a **3-year countback** from current year. A 2023 truck in 2026 = 3 years → just barely qualifies.
+
+The Montreal CR4 customer would also need:
+- 5 years in business (Class 8 requires 5, not 3)
+- Verified homeowner
+- PG + Signed PNW
+- 10-15% down payment
+- Max 60-month amort, with deductions for age/KMs
+
+**Lesson:** Class 8 CR4 eligibility is geography-dependent. Ontario/West = total CR4 ban. Quebec/Maritimes = CR4 allowed with restrictions. This is one of the most common exam traps.
+</details>
+
+---
+
+**C8-2. The Age + KM Double Deduction**
+
+A CR2 customer wants to finance a 2022 Peterbilt 579 (Tier 1) with 450,000 km. We're in 2026. What is the maximum term?
+
+<details><summary>Answer</summary>
+
+**Calculate both deductions and take the LOWER:**
+
+**By age:**
+- 2022 model in 2026 = 4 years old
+- 60 - (4 × 12) = 60 - 48 = **12 months**
+
+**By KMs:**
+- 450,000 ÷ 200,000 = 2.25 → round down to 2 full deductions
+- 60 - (2 × 12) = 60 - 24 = **36 months**
+
+**Take the lower: 12 months.**
+
+This is barely financeable. A 12-month term means the customer is essentially paying cash over 12 months — the monthly payment would be enormous. Most customers wouldn't proceed at this term. The deal is technically possible but commercially unattractive.
+
+**Also check:** CR1/CR2 used max is 7 years and 700,000 km. At 4 years and 450K km → PASSES both limits.
+
+**Lesson:** In Class 8, always calculate BOTH age and KM deductions independently, then take the lower. A truck can pass eligibility but end up with such a short term that the deal is commercially unviable.
+</details>
+
+---
+
+**C8-3. The 5-Year TIB vs. 3-Year Split**
+
+A trucking company has been operating for 4 years. They want to finance a new Kenworth. Do they qualify for Class 1-7 trucks AND Class 8 trucks?
+
+<details><summary>Answer</summary>
+
+- **Class 1-7:** Requires **3 years in business** → 4 years → **QUALIFIES** ✅
+- **Class 8:** Requires **5 years in business** → 4 years → **DOES NOT QUALIFY** ❌
+
+The company can finance Class 1-7 vehicles (pickups, medium-duty, specialized) but **cannot finance Class 8 OTR trucks** for another year.
+
+This is a common real-world scenario — a growing transport company can finance medium-duty equipment but has to wait before graduating to Class 8 OTR financing.
+
+**Remember:** Class 8 also requires ALL borrowers to be **verified homeowners** — a requirement that doesn't exist for Class 1-7 (where homeownership is only verified for PG guarantors).
+
+**Lesson:** Class 8 TIB is 5 years — 2 years longer than Class 1-7's 3-year requirement. A company that qualifies for one doesn't automatically qualify for the other.
+</details>
+
+---
+
+**C8-4. The Volvo Tier Shock**
+
+A customer is comparing two new Class 8 trucks:
+- Option A: Kenworth W990 — $220,000
+- Option B: Volvo VNL 860 — $195,000
+
+They assume both are treated equally since they're both major brands. What's the critical difference?
+
+<details><summary>Answer</summary>
+
+**They are NOT treated equally. The tier classification is dramatically different:**
+
+- **Kenworth = Tier 1** (only Kenworth and Peterbilt are Tier 1 in Class 8)
+- **Volvo = Tier 3** (along with Freightliner and International)
+
+This matters because:
+- Tier affects **resale value assumptions** — Tier 1 holds value better
+- **Remarketing** for used assets is based on orderly liquidation or auction value, with **conservative LTV for Tier 2 & 3 brands**
+- Tier may impact the credit analyst's willingness to approve longer terms or lower down payments
+
+Many customers (and even new associates) are shocked that Volvo — one of the world's most recognized truck brands — is Tier 3 in the OTR segment. The reason: in the **North American long-haul resale market**, Kenworth and Peterbilt command significantly higher prices than Volvo and Freightliner.
+
+**Western Star and MACK are Tier 2** — they fall between.
+
+**Lesson:** Volvo and Freightliner are Tier 3 in Class 8 OTR. This surprises everyone. Memorize: Tier 1 = Kenworth + Peterbilt ONLY.
+</details>
+
+---
+
+**C8-5. The All-Manual Review Reality**
+
+A flawless CR1 customer with 20 years in business, $10M in assets, and a 790 PG score submits a $150,000 deal for a new Peterbilt. Can this be auto-approved?
+
+<details><summary>Answer</summary>
+
+**No. NEVER in Class 8.** Auto-decision for Class 8 is **N/A — there are NO auto-decisions.** Every single deal is manually reviewed regardless of:
+- Credit rating (even CR1)
+- Deal size (even $10,000)
+- Customer quality (even perfect credit)
+
+This is unique to Class 8. Compare:
+- Class 1-7: CR1/CR2 auto-decision up to **$375K**
+- Construction: CR1/CR2 auto-decision up to **$375K**
+- **Class 8: $0 / N/A — all manual, always**
+
+The reason: Class 8 OTR is considered the **highest risk** transportation segment. Long-haul trucking has high insurance costs, volatile freight rates, driver turnover, and regulatory burden. Even excellent customers can face sudden industry downturns.
+
+**Lesson:** Class 8 = ALL manual, ALL the time. No auto-decisions exist. Don't confuse this with segments where CR4 is $0 auto-decision — in those segments, CR1/CR2 still gets auto-decision. Class 8 is truly N/A for everyone.
+</details>
+
+---
+
+**C8-6. The CR3 Used "3-Year Countback" Rule**
+
+A CR3 customer in Ontario wants a used 2024 Kenworth T680. We're in 2026. The truck has 200,000 km. Is it eligible?
+
+<details><summary>Answer</summary>
+
+**For CR3 in Ontario:** Used Class 8 eligibility uses the **3-year countback** from current year. 2026 - 3 = 2023 minimum. The 2024 truck is within the 3-year window → **ELIGIBLE** ✅.
+
+Compare to CR1/CR2 who get **7 years max vintage and 700,000 km max.** CR3 is much more restricted.
+
+**Max term calculation:**
+- Age: 2024 in 2026 = 2 years old
+- 60 - (2 × 12) = **36 months max**
+- KMs: 200,000 / 200,000 = 1 → deduct 12 → 60 - 12 = **48 months**
+- Take the lower: **36 months**
+
+**Down payment:** CR3 = **10% minimum.**
+
+**If this truck were a 2022 model:** 2026 - 3 = 2023. A 2022 model is **outside** the 3-year countback → **NOT ELIGIBLE** for CR3.
+
+**Lesson:** CR3 "3-year countback" means only very recent used trucks qualify. It's dramatically more restrictive than CR1/CR2's 7-year window. Calculate from current year, not purchase date.
+</details>
+
+---
+
+**C8-7. The Down Payment Destination Rule**
+
+A CR3 customer's $300,000 Class 8 deal is approved with 10% down ($30,000). The dealer offers to collect the down payment and apply it against the invoice. Is this acceptable?
+
+<details><summary>Answer</summary>
+
+**NO.** The Class 8 RAC has a specific rule: **All down payments must be paid directly to MHCCA — no down payments to suppliers will be accepted.**
+
+This rule exists to prevent:
+1. Dealers inflating invoices to absorb the down payment
+2. Down payments being diverted or misapplied
+3. Documentation fraud where the down payment is on paper but never actually collected
+
+The customer must write the check / wire / PAP directly to MHCCA. If the dealer collects it, the deal cannot proceed until the down payment is re-routed.
+
+This rule is **specific to Class 8.** In other segments (Construction, Class 1-7), down payments can sometimes be applied through the dealer against the invoice. Class 8 is stricter.
+
+**Lesson:** Class 8 down payments go to MHCCA directly — never to the dealer/supplier. This is a unique Class 8 rule and a common exam trap.
+</details>
+
+---
+
+**C8-8. The Dry Van Risk Warning**
+
+Two CR2 Class 8 deals arrive. Both are 5-year-old trucks with identical financials:
+- Deal A: Flatbed hauling (steel/lumber)
+- Deal B: Dry van hauling (general freight)
+
+Should you treat them the same?
+
+<details><summary>Answer</summary>
+
+**No — they carry different risk profiles.** The RAC specifically notes: **dry van/reefer hauling is higher risk** compared to flat deck or western oil-related heavy haul.
+
+Why dry van is riskier:
+- **Highly commoditized** — there are thousands of dry van operators competing on price
+- **Volatile freight rates** — spot rates can crash during economic downturns
+- **Low barriers to entry** — anyone with a truck can haul dry van
+- **Higher insurance costs** — cargo diversity means more claims
+
+Flatbed hauling (steel, lumber, heavy equipment) is lower risk because:
+- More **specialized** — requires specific equipment and expertise
+- Higher **barriers to entry** — not every driver/company can do it
+- More **stable rates** — less competition for specialized loads
+- Often tied to **industrial/construction contracts** — steadier work
+
+The credit analyst should **apply more scrutiny to Deal B** (dry van) — potentially requiring stronger financials, more down payment, or shorter terms even though the credit rating is the same.
+
+**Lesson:** Not all Class 8 freight is equal. Dry van/reefer = higher risk. Flatbed/specialized = lower risk. The RAC explicitly flags this distinction.
+</details>
+
+---
+
+**C8-9. The Complete Class 8 Checklist**
+
+A new sales rep asks you: "What makes Class 8 different from every other segment?" List ALL the unique Class 8 rules.
+
+<details><summary>Answer</summary>
+
+Class 8 OTR has **more unique restrictions than any other segment.** Here's the complete list:
+
+1. **$0 / N/A auto-decision** — every deal is manual, even CR1
+2. **5 years in business** required (vs. 3 years for most segments)
+3. **ALL borrowers must be verified homeowners** (not just PG guarantors)
+4. **No first-time owner/operators** (shared with Class 1-7)
+5. **60 months max term AND max amort** (no stretching to 72 or 84)
+6. **Deduct 12 months per model year AND per 200,000 km** (take the lower)
+7. **Geographic eligibility split** — CR4 in Ontario/West can't get used trucks at all; CR4 in Quebec/Maritimes can (3-year countback)
+8. **Down payments must go directly to MHCCA** (not to dealers)
+9. **Tier 1 = only Kenworth and Peterbilt** (Volvo/Freightliner are Tier 3!)
+10. **Zero analyst exception authority** (same as Forestry)
+11. **Dry van/reefer flagged as higher risk** than flatbed
+12. **$500K-$1M preferred CR2 or better** (stricter than Class 1-7 which is credit discretion)
+13. **Must have clear yard and office location** visible online or via site visit
+
+**Lesson:** Class 8 is the most restricted non-niche segment in the RAC. If you're going to memorize one segment's quirks for the exam, Class 8 has the most unique rules to trip you up.
+</details>
+
+---
+
+### 🔀 CROSS-SEGMENT COMPARISON SCENARIOS (5)
+
+---
+
+**XS1. Same Equipment, Different Segment**
+
+A Volvo excavator is being financed for a construction company. A Volvo truck is being financed for a transport company. Both are Volvo. Are the tiers the same?
+
+<details><summary>Answer</summary>
+
+**No — Volvo's tier changes by segment:**
+
+- **Construction:** Volvo is **Tier 1** (alongside Deere, CAT, Komatsu, etc.)
+- **Class 8 OTR:** Volvo is **Tier 3** (only Kenworth and Peterbilt are Tier 1)
+
+This means:
+- The Volvo excavator gets **96 months max amort** (new, CR1-3, Tier 1)
+- The Volvo truck gets **60 months max amort** (Class 8 max regardless of tier) — but the Tier 3 classification affects resale value assumptions and LTV calculations
+
+Same manufacturer, completely different treatment. Tier classifications are **segment-specific**, not universal across the RAC.
+
+**Lesson:** A brand's tier can be different in every segment. Volvo = Tier 1 in Construction, Tier 3 in Class 8. Never assume a brand carries the same tier across segments.
+</details>
+
+---
+
+**XS2. The Amort Spectrum**
+
+Rank these segments by max amortization for new Tier 1 equipment (CR1-CR3), from longest to shortest:
+
+Construction, Forestry, Class 1-7, Class 8, Agriculture (SP), Healthcare, Technology
+
+<details><summary>Answer</summary>
+
+From **longest to shortest:**
+
+1. **Agriculture (Tier 1 Self-Propelled):** **180 months** (15 years!)
+2. **Construction (Tier 1/2):** **96 months** (8 years)
+3. **Class 1-7 (CR1-CR3):** **84 months** (7 years)
+4. **Healthcare:** **66 months** (~5.5 years)
+5. **Forestry:** **60 months** (5 years)
+6. **Class 8 OTR:** **60 months** (5 years)
+7. **Technology:** **60 months** (5 years)
+
+**Key insight:** Agriculture SP at 180 months is **3x longer** than Forestry/Class 8/Technology at 60 months. This reflects the dramatically longer useful life of agricultural equipment (tractors can last 20+ years) versus equipment that depreciates fast (forestry gear, trucks, IT equipment).
+
+**Lesson:** Amort limits reflect asset life and risk, not customer quality. Even a CR1 customer in forestry maxes at 60 months because the equipment can't last longer.
+</details>
+
+---
+
+**XS3. The Auto-Decision Comparison**
+
+Match each auto-decision profile to the correct segment(s):
+- A: $375K / $200K / $0
+- B: $0 for all credit ratings
+- C: N/A (no auto-decisions exist)
+- D: $350K / $150K / $0
+
+<details><summary>Answer</summary>
+
+- **A ($375K / $200K / $0):** **Construction, Transport Class 1-7, ZAXIS** — the standard tiered auto-decision for these primary segments (CR1/CR2, CR3, CR4)
+
+- **B ($0 for all):** **Forestry, Agriculture, SDG-Energy, Hospitality, Manufacturing, Industrial, Lawn & Garden, MUSH, Office Equipment, Technology** — every deal is manual, but CR1/CR2 analysts may still have exception authority in some of these
+
+- **C (N/A — none exist):** **Transport Class 8 OTR** — the only segment where auto-decisions truly don't exist at any level. Even in "$0 auto-decision" segments, the concept of auto-decision exists but is set to zero. In Class 8, the field is literally N/A
+
+- **D ($350K / $150K / $0):** **Healthcare** — the only segment with unique auto-decision amounts different from the standard $375K/$200K pattern
+
+**Lesson:** Most segments are either $375K/$200K/$0 or $0-across-the-board. Healthcare is the outlier with its own numbers. Class 8 is the only true "N/A."
+</details>
+
+---
+
+**XS4. The Exception Authority Map**
+
+An analyst is processing four deals across different segments. In which ones can they approve a RAC exception for a CR1 client?
+
+- Deal A: Construction, CR1
+- Deal B: Forestry, CR1
+- Deal C: Transport Class 1-7, CR1
+- Deal D: Transport Class 8, CR1
+
+<details><summary>Answer</summary>
+
+- **Deal A (Construction, CR1):** ✅ **YES** — Analysts CAN make exceptions for CR1/CR2, documented in VISION. Can even extend amort by up to 12 months on used equipment.
+
+- **Deal B (Forestry, CR1):** ❌ **NO** — Forestry has **ZERO analyst exception authority** regardless of credit rating. Must escalate to Next Level Approval.
+
+- **Deal C (Class 1-7, CR1):** ✅ **YES** — Same policy as Construction. Analysts can approve exceptions for CR1/CR2.
+
+- **Deal D (Class 8, CR1):** ❌ **NO** — Class 8 has **ZERO analyst exception authority**, same strict policy as Forestry. Must escalate.
+
+**The four "zero exception" segments:** Forestry, Class 8, SDG-Energy, Hospitality. Everything else allows analyst exceptions for CR1/CR2.
+
+**Lesson:** The "zero exception" segments are the ones with the highest inherent risk. Memorize all four — the exam will test whether you know which segments strip analyst authority.
+</details>
+
+---
+
+**XS5. The Down Payment Matrix**
+
+A CR3 customer is doing deals in four segments simultaneously (separate companies under the same ownership group). What down payment applies to each?
+
+<details><summary>Answer</summary>
+
+| Segment | CR3 Down Payment | Preferred |
+|---------|-----------------|-----------|
+| **Construction** | 5% to 10% | Push for 10% |
+| **Forestry** | 10% to 15% | Push for 15% |
+| **Transport Class 1-7** | 5% to 10% | Push for 10% |
+| **Transport Class 8** | 10% minimum | 10% (firm floor) |
+
+**Key observations:**
+- Forestry is the **most demanding** — 10-15% for CR3 vs. 5-10% in Construction/Class 1-7
+- Class 8 has a **firm 10% floor** — there's no 5% option
+- Construction and Class 1-7 share the same structure (5-10%)
+- The RAC always says **"prefer the higher end"** — so in practice, push for 10% in Construction/Class 1-7 and 15% in Forestry
+
+**For CR4:**
+- Construction: 10-20% (prefer 20%)
+- Forestry: 20%+ with dealer support
+- Class 1-7: 10-20% (prefer 20%)
+- Class 8: 10-15% (Quebec/Maritimes only — CR4 not eligible Ontario/West)
+
+**Lesson:** Down payments escalate with risk. Forestry > Class 8 > Construction = Class 1-7 for the same credit rating. Always push toward the upper end of the range.
+</details>
 
 These test the frameworks, acronyms, and concepts from the LEAD training that go beyond "what does LEAD stand for."
 

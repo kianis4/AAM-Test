@@ -149,7 +149,7 @@ AAM-Test/
 
 | # | Guide | What It Covers | Priority |
 | --- | --- | --- | --- |
-| 24 | [**Practice Exam Bank**](24-Practice-Exam-Bank.md) | **93 QUESTIONS FROM SOURCE MATERIAL.** Deep-cut questions NOT in the cram sheet — drawn from all 23 source guides. Credit: 20 RAC deep-cuts (Agriculture, Healthcare, MUSH, SDG-Energy, Technology, Manufacturing segments + WIP, SFD/EBITDA, CCC, LOC analysis) + 10 Products & Tax. Sales: 12 LEAD deep-dive (BRAIN, ISAQ, OPA, PIVAS, traffic light system) + 11 Sales EQ/TAM/Networking. OPS: 15 deep policy (restructure forms, PPSA, license encoding, GAI edge cases). Plus 10 mixed curveball scenarios | **CRITICAL** |
+| 24 | [**Practice Exam Bank**](24-Practice-Exam-Bank.md) | **133 QUESTIONS FROM SOURCE MATERIAL.** Deep-cut questions NOT in the cram sheet — drawn from all 23 source guides. Credit: 20 RAC deep-cuts (Agriculture, Healthcare, MUSH, SDG-Energy, Technology, Manufacturing segments + WIP, SFD/EBITDA, CCC, LOC analysis) + 10 Products & Tax. Sales: 12 LEAD deep-dive (BRAIN, ISAQ, OPA, PIVAS, traffic light system) + 11 Sales EQ/TAM/Networking. OPS: 15 deep policy (restructure forms, PPSA, license encoding, GAI edge cases). Plus 10 mixed curveball scenarios | **CRITICAL** |
 
 ---
 
@@ -223,7 +223,7 @@ AAM-Test/
 - Plus 80+ new practice questions across guides 15-20
 
 **Step 15:** Work through [24 - Practice Exam Bank](24-Practice-Exam-Bank.md) **<-- FINAL BOSS**
-- 93 deep-cut questions from source material NOT in the cram sheet
+- 133 deep-cut questions from source material NOT in the cram sheet
 - Covers less-tested RAC segments, LEAD internals, Sales EQ frameworks, OPS edge cases
 - 10 curveball mixed scenarios that combine multiple concepts
 
