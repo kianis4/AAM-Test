@@ -63,8 +63,11 @@ AAM-Test/
     ├── --- STRATEGIC INSIGHTS ---
     │   └── 22-Strategic-Insights-Exam-Prep.md
     │
-    └── --- EXAM DAY ---
-        └── 23-Exam-Day-OPS-Credit-Sales.md
+    ├── --- EXAM DAY ---
+    │   └── 23-Exam-Day-OPS-Credit-Sales.md
+    │
+    └── --- PRACTICE EXAMS ---
+        └── 24-Practice-Exam-Bank.md
 ```
 
 ---
@@ -142,6 +145,12 @@ AAM-Test/
 | --- | --- | --- | --- |
 | 23 | [**Exam Day — OPS, Credit & Sales**](23-Exam-Day-OPS-Credit-Sales.md) | **THE OPS & EXAM BIBLE.** All 3 exam structures (credit: 25 MC + 5 short answer + 2 case studies, sales: scenario-based, OPS: policy-based trick questions). Complete document validation checklist (void cheque, contract, BOS/SAF, insurance, ID). Insurance requirements by product type (lease vs loan entity names, additional insured vs loss payee, 5A endorsement, $2M liability, <$25K deductible). BOS billing rules (MHCCL vs client). Ship-to address tax jurisdiction. Hazmat/bus = loan only. 20% residual rule. $3M legal review threshold. Third-party due diligence. KYC/fraud prevention. Lessee vs guarantor by jurisdiction. 8 common OPS exam traps. Case study approach guide. Practice questions with full scenarios | **CRITICAL** |
 
+### Practice Exams — Deep-Cut Question Bank
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 24 | [**Practice Exam Bank**](24-Practice-Exam-Bank.md) | **93 QUESTIONS FROM SOURCE MATERIAL.** Deep-cut questions NOT in the cram sheet — drawn from all 23 source guides. Credit: 20 RAC deep-cuts (Agriculture, Healthcare, MUSH, SDG-Energy, Technology, Manufacturing segments + WIP, SFD/EBITDA, CCC, LOC analysis) + 10 Products & Tax. Sales: 12 LEAD deep-dive (BRAIN, ISAQ, OPA, PIVAS, traffic light system) + 11 Sales EQ/TAM/Networking. OPS: 15 deep policy (restructure forms, PPSA, license encoding, GAI edge cases). Plus 10 mixed curveball scenarios | **CRITICAL** |
+
 ---
 
 ## Recommended Study Order
@@ -212,6 +221,11 @@ AAM-Test/
 - 50 questions covering Week 1 materials
 - Plus the 30 practice questions in the RAC guide
 - Plus 80+ new practice questions across guides 15-20
+
+**Step 15:** Work through [24 - Practice Exam Bank](24-Practice-Exam-Bank.md) **<-- FINAL BOSS**
+- 93 deep-cut questions from source material NOT in the cram sheet
+- Covers less-tested RAC segments, LEAD internals, Sales EQ frameworks, OPS edge cases
+- 10 curveball mixed scenarios that combine multiple concepts
 
 ---
 

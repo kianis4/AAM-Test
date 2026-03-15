@@ -33,7 +33,8 @@ AAM-Test/
     ├── 15 to 20                 <- Operations & Compliance
     ├── 21                       <- Credit Analysis (Spreads)
     ├── 22                       <- Strategic Insights (Exam Prep)
-    └── 23                       <- Exam Day (OPS, Credit & Sales)
+    ├── 23                       <- Exam Day (OPS, Credit & Sales)
+    └── 24                       <- Practice Exam Bank (93 deep-cut questions)
 ```
 
 ---
@@ -49,9 +50,10 @@ AAM-Test/
 | **Credit Analysis** | 21 | **Spreads Cheat Sheet** — Financial analysis playbook for large deals, 4Bloc format, key benchmarks, industry questions |
 | **Strategic Insights** | 22 | **Exam Prep Deep Dive** — ROA, FMV strategy, evergreen leases, EaaS, service income, ABL positioning, factoring exit, virtual captives, scalability, transformation story |
 | **Exam Day** | 23 | **OPS & Exam Bible** — All 3 exam structures, document validation checklist, insurance requirements, BOS billing rules, hazmat = loan, 20% residual rule, $3M legal threshold, OPS exam traps |
+| **Practice Exams** | 24 | **Practice Exam Bank** — 93 deep-cut questions from source material NOT in the cram sheet. RAC deep-cuts, LEAD internals, Sales EQ frameworks, OPS edge cases, curveball mixed scenarios |
 | **Operations & Compliance** | 15-20 | Transfer Process, Authorized Signatories, Bill 96, GAI Insurance, Lease Restructure, Driver's License Validation |
 
-**23 study guides** covering every provided training document plus exam prep meeting insights, with 190+ practice questions total.
+**24 study guides** covering every provided training document plus exam prep meeting insights, with 280+ practice questions total.
 
 ---
 
