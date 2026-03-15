@@ -31,11 +31,17 @@
 | [11](#part-11-aitc-) | **AITC** | [!] | Atlantic Investment Tax Credit |
 | [12](#part-12-case-study-framework-) | **Case Study Framework** | [!!!] | 5-step method + 3 full worked examples |
 | [13](#part-13-sample-multiple-choice--short-answer-full-marks-answers-) | **Practice Questions** | [!!!] | 8 MC + 5 short answer with full-marks answers |
+| [14](#part-14-more-credit-case-studies-) | **More Credit Case Studies** | [!!!] | 4 more cases: Construction T3, Transport 1-7, Class 8 Decline, Industrial |
+| [15](#part-15-sales-exam--full-practice-scenarios-) | **Sales Exam Practice** | [!!] | 6 full scenarios: cold calls, LEAD meetings, APEP, cross-sell, product recs |
+| [16](#part-16-ops-exam--full-practice-scenarios-) | **OPS Exam Practice** | [!!!] | 6 full scenarios: doc review, insurance, transfers, signatories, Bill 96, GAI |
+| [17](#part-17-more-multiple-choice--all-3-exams-) | **30 More MC Questions** | [!!!] | 10 credit + 10 sales + 10 OPS multiple choice |
+| [18](#part-18-short-answer--all-3-exams-full-marks-answers-) | **10 More Short Answer** | [!!!] | Full-marks answers for all 3 exam types |
 
 **Quick links by exam:**
-- **CREDIT EXAM** → [Part 2 (RAC)](#part-2-the-rac--credit-box-) → [Part 3 (Products)](#part-3-the-4-products-) → [Part 8 (Spreads)](#part-8-financial-analysis-spreads-) → [Part 12 (Case Studies)](#part-12-case-study-framework-)
-- **SALES EXAM** → [Part 4 (Sales)](#part-4-sales-) → [Part 9 (Strategy)](#part-9-strategic-concepts-)
-- **OPS EXAM** → [Part 5 (Document Validation)](#part-5-ops--document-validation-) → [Part 6 (KYC)](#part-6-kyc--fraud-prevention-) → [Part 7 (Compliance)](#part-7-operations--compliance-)
+- **CREDIT EXAM** → [Part 2 (RAC)](#part-2-the-rac--credit-box-) → [Part 3 (Products)](#part-3-the-4-products-) → [Part 8 (Spreads)](#part-8-financial-analysis-spreads-) → [Part 12 (Case Studies)](#part-12-case-study-framework-) → [Part 14 (More Cases)](#part-14-more-credit-case-studies-)
+- **SALES EXAM** → [Part 4 (Sales)](#part-4-sales-) → [Part 9 (Strategy)](#part-9-strategic-concepts-) → [Part 15 (Sales Scenarios)](#part-15-sales-exam--full-practice-scenarios-)
+- **OPS EXAM** → [Part 5 (Document Validation)](#part-5-ops--document-validation-) → [Part 6 (KYC)](#part-6-kyc--fraud-prevention-) → [Part 7 (Compliance)](#part-7-operations--compliance-) → [Part 16 (OPS Scenarios)](#part-16-ops-exam--full-practice-scenarios-)
+- **ALL EXAMS** → [Part 17 (30 MC Questions)](#part-17-more-multiple-choice--all-3-exams-) → [Part 18 (10 Short Answer)](#part-18-short-answer--all-3-exams-full-marks-answers-)
 
 ---
 
@@ -1697,19 +1703,1249 @@ d) No comparable credit required
 
 ---
 
+# PART 14: MORE CREDIT CASE STUDIES [!!!]
+
+> Practice these the same way as Part 12. Cover the answer, work through the 5 steps yourself, then check.
+
+---
+
+## Practice Case Study #4 — CONSTRUCTION (Used Tier 3 Equipment)
+
+**The Scenario:**
+
+> BétonPlus Inc. is a concrete pumping company in Laval, Quebec. Owner Claude Gagnon has been in business for 12 years with a credit score of 730. He wants to finance a **used 2020 Zoomlion 56X-6RZ concrete pump** for **$195,000.** The unit has 6,200 hours on it. Revenue is $4.2M, net margin 9%, EBITDA margin 13%, FCCR 1.3x, current ratio 1.2x, D/E of 2.5x. Financials are Reviewed. He has an existing $120K capital lease with MHCCA in good standing. He also wants seasonal payments because his work slows down in winter.
+
+<details><summary>Full-Marks Answer</summary>
+
+**Step 1 — Identify the Basics:**
+- Industry: **Construction**
+- Credit Rating: 12 years TIB, 730 score, solid financials → likely **CR2**
+- Asset: Zoomlion 56X-6RZ concrete pump → **Tier 3** (Zoomlion is listed under T3 construction)
+- Dollar Amount: **$195,000**
+
+**Step 2 — Apply the RAC:**
+- Auto-decision for CR2 Construction: **$375,000** → This $195K deal is within auto-decision → can be auto-approved
+- Used equipment age (Tier 3): Max **10 model years, 10,000 hours.** Unit is 2020 (6 years old) with 6,200 hours → **PASSES** both limits
+- Max amort for used Tier 3 equipment, CR2: Start from **84 months** max for T3, then adjust for age. 6 years old → shorter term recommended. Suggest **48-60 months**
+- Down payment for CR2: First payment only (no required down payment)
+- PG: Score 730 → strong, no concern
+- Total exposure: $195K + $120K existing = $315K → under $1M, no org chart required
+- Quebec location → **Bill 96 applies.** French-first contract, RDPRM in French
+- Seasonal payments requested: IOP max **4 months**, **NOT in the first 6 months** of the lease
+
+**Step 3 — Determine Structure:**
+- Not hazmat/bus → lease is fine
+- Recommend **capital lease, 54 months**
+- No down payment required (CR2)
+- Seasonal IOP: Can accommodate up to 4 months interest-only, but NOT in the first 6 months. Client needs to plan around this — seasonal payments can start month 7 at earliest
+
+**RECOMMENDATION:** Approve
+
+**DEAL SUMMARY:**
+- Client: BétonPlus Inc., Construction, 12 years TIB, Laval, Quebec
+- Asset: Used 2020 Zoomlion 56X-6RZ Concrete Pump (6,200 hrs) — **Tier 3**
+- Amount: $195,000 | CR2
+- Structure: Capital lease, 54 months, no down payment, IOP seasonal payments (4 months max, starting month 7+)
+
+**RAC COMPLIANCE:**
+- Auto-decision for CR2 Construction: $375K → $195K is within limit → auto-approved
+- Used Tier 3 asset: Max 10 years / 10,000 hours → 2020 unit (6 years) with 6,200 hours passes both
+- Seasonal IOP: 4 months max, not in first 6 months — confirmed client understands
+- Bill 96: Quebec-based → French-first contract, RDPRM filed in French
+
+**KEY STRENGTHS:**
+- 12 years TIB — well-established operator
+- PG score of 730 — strong personal credit
+- EBITDA margin 13% and FCCR 1.3x — healthy operations
+- Existing MHCCA relationship in good standing ($120K, no delinquency)
+- D/E at 2.5x — within the 3.0x benchmark
+
+**KEY CONCERNS + MITIGANTS:**
+- Tier 3 equipment (Zoomlion) — lower resale value than Tier 1/2 brands → Concrete pumps are specialized; resale is driven by condition and demand rather than brand alone. 6,200 hours is moderate. 54-month term ensures paydown before asset value drops significantly
+- Net margin of 9% — slightly below the 10% benchmark → EBITDA of 13% is above 10%. Depreciation on existing fleet likely depresses net margin. Strong operational profitability
+- Seasonal business → IOP payments accommodate cash flow patterns. Client has managed 12 winters successfully — proven seasonal management
+
+**CONDITIONS:**
+- Bill 96 compliance: French-first documentation
+- IOP seasonal payments structured per RAC rules (max 4 months, not in first 6 months)
+</details>
+
+---
+
+## Practice Case Study #5 — TRANSPORT CLASS 1-7 (Medium Duty Fleet)
+
+**The Scenario:**
+
+> Wellington Waste Services Ltd. operates a fleet of roll-off trucks and hook lifts in Hamilton, Ontario. Owner Dave Wellington has been in business for 15 years, credit score 745. He wants to finance **3 new 2026 Peterbilt 548 hook lift trucks** at **$130,000 each = $390,000 total.** Revenue is $8.5M, EBITDA margin 15%, FCCR 1.6x, D/E 2.2x. Financials are Audited. He has $200K existing exposure with MHCCA (current, no delinquency). The trucks will haul **non-hazardous construction waste** (drywall, concrete, wood).
+
+<details><summary>Full-Marks Answer</summary>
+
+**Step 1 — Identify the Basics:**
+- Industry: **Transport Class 1-7** (medium duty — these are NOT Class 8 OTR)
+- Credit Rating: 15 years TIB, 745 score, strong financials, audited → likely **CR1**
+- Asset: Peterbilt 548 hook lift trucks → Medium duty Class 5-7 trucks
+- Dollar Amount: **$390,000 total**
+- Key detail: **Non-hazardous** waste → lease structure is acceptable (hazmat would force a loan)
+
+**Step 2 — Apply the RAC:**
+- Auto-decision for CR1 Transport 1-7: **$375,000** → This $390K deal exceeds the limit → goes to analyst for manual review
+- Max asset age: New equipment → no concern
+- Max term: Check vehicle type. Medium Duty → max 10 years / 400,000 km on used. For new, comfortable with longer terms
+- Down payment for CR1: First payment only
+- Comparable credit: $390K deal requires **100% CC.** Client has $200K existing + 15 years in business → likely has ample comparable credit from bank facilities
+- Total exposure: $390K + $200K = $590K → under $1M, no org chart required
+- NOT hazmat → lease is fine (non-hazardous waste confirmed)
+
+**Step 3 — Determine Structure:**
+- Non-hazardous → lease is acceptable (if it were hazmat = LOAN mandatory)
+- Recommend **capital lease, 72 months**
+- No down payment required (CR1)
+
+**RECOMMENDATION:** Approve
+
+**DEAL SUMMARY:**
+- Client: Wellington Waste Services Ltd., Transport Class 1-7, 15 years TIB, Hamilton, Ontario
+- Asset: 3x New 2026 Peterbilt 548 Hook Lift Trucks — Medium Duty
+- Amount: $390,000 ($130K each) | CR1
+- Structure: Capital lease, 72 months, no down payment
+
+**RAC COMPLIANCE:**
+- Auto-decision for CR1 Transport 1-7: $375K → $390K exceeds limit → analyst review required
+- Non-hazardous waste → lease structure permitted. If hazmat, would require loan
+- Comparable credit: 100% required for $390K. Client has $200K MHCCA exposure + 15 years TIB → ample CC expected
+- Total exposure: $590K — under $1M
+
+**KEY STRENGTHS:**
+- 15 years TIB — long-established operation
+- PG score 745 — excellent personal credit
+- Audited financials — highest reliability
+- FCCR 1.6x — comfortably covers fixed charges
+- EBITDA 15%, D/E 2.2x — strong across all benchmarks
+- Existing MHCCA relationship, clean payment history
+
+**KEY CONCERNS + MITIGANTS:**
+- Adding 3 trucks at once increases fleet risk → Client runs a $8.5M operation — 3 trucks is proportionate fleet expansion. 15 years TIB shows proven scaling ability
+- Waste services is construction-adjacent and can be cyclical → Non-hazardous construction waste has consistent demand. Diversified revenue base at $8.5M
+
+**CONDITIONS:**
+- None beyond standard documentation
+</details>
+
+---
+
+## Practice Case Study #6 — TRANSPORT CLASS 8 (The Decline)
+
+**The Scenario:**
+
+> Maple Route Trucking is a brand-new company registered 8 months ago in Mississauga, Ontario. The owner, Rajesh Patel, has a credit score of 790 and is a verified homeowner. He previously worked as a driver for a large fleet for 6 years. He wants to finance a **new 2026 Peterbilt 579** for **$210,000** to start his own trucking business. He has $80,000 cash for a down payment.
+
+<details><summary>Full-Marks Answer</summary>
+
+**Step 1 — Identify the Basics:**
+- Industry: **Transport Class 8 OTR**
+- Asset: Peterbilt 579 → **Tier 1**
+- Dollar Amount: **$210,000**
+
+**Step 2 — Check Hard Rules FIRST:**
+
+| Hard Rule | Requirement | Rajesh | Pass/Fail |
+|---|---|---|---|
+| First-time owner/operator? | NOT eligible — ever | **YES — this is his first business** | **FAIL** |
+| Min 5 years in business? | 5 years | 8 months | **FAIL** |
+| Verified homeowner? | Required | Yes | PASS |
+
+**RECOMMENDATION: DECLINE**
+
+This deal must be declined based on two hard rules:
+
+1. **First-time owner/operator** — Rajesh has never owned his own trucking company. He was an employee driver. The RAC has a hard rule: first-time owner/operators are NOT eligible in Class 8, regardless of credit score, down payment, or any other factor. This is absolute with no exceptions.
+
+2. **Minimum 5 years in business** — The company is 8 months old. The RAC requires 5 years minimum. This alone would be a decline.
+
+The 790 credit score and $80K cash down payment are irrelevant — hard rules cannot be overcome with strong credit or large down payments.
+
+**What to tell the client:** Do NOT just say "no." Per Siraaj's guidance and the TAM program, when MHCCA declines a deal, offer alternatives:
+- Refer the deal through Capital Markets / TAM program to a third-party funder
+- This preserves the relationship and generates fee income for MHCCA
+- Rajesh could come back in 4+ years once he has 5 years TIB and is no longer a first-time O/O
+</details>
+
+---
+
+## Practice Case Study #7 — INDUSTRIAL (The Quick One)
+
+**The Scenario:**
+
+> Metro Distribution Centre Inc. in Vaughan, Ontario has been in business for 20 years. CR1 client, credit score 760. They want to finance **4 new Toyota 8FBN25 electric forklifts** at **$45,000 each = $180,000 total.** Revenue $22M, all financial metrics excellent. Existing MHCCA exposure: $500K, clean history.
+
+<details><summary>Full-Marks Answer</summary>
+
+**Step 1 — Identify the Basics:**
+- Industry: **Industrial** (Forklifts & Material Handling)
+- CR: **CR1** — established, strong credit
+- Asset: Toyota 8FBN25 → **Tier 1** (Toyota is Tier 1 in Industrial)
+- Amount: **$180,000**
+
+**Step 2 — Apply the RAC:**
+- Auto-decision for Industrial: **$0 — all industrial deals are manual.** Even though this is a strong CR1, it still goes to analyst
+- Max amort: **96 months** for Tier 1 new equipment
+- Down payment: CR1 → first payment only
+- Total exposure: $180K + $500K = $680K → under $1M
+
+**RECOMMENDATION:** Approve
+
+**DEAL SUMMARY:**
+- Client: Metro Distribution Centre Inc., Industrial, 20 years TIB, Vaughan, Ontario
+- Asset: 4x New Toyota 8FBN25 Electric Forklifts — **Tier 1**
+- Amount: $180,000 | CR1
+- Structure: Capital lease, 72 months (or FMV lease if client wants off-balance sheet), no down payment
+
+**Note:** This is a straightforward deal. Siraaj said Industrial might be 1 question on the exam. The key things to remember: (1) auto-decision is $0 for industrial, (2) Toyota is Tier 1, (3) max amort is 96 months for T1/T2 new.
+
+**Bonus — FMV option:** If the client is a large company and wants off-balance sheet treatment, offer an **FMV operating lease.** Electric forklifts are good FMV candidates — they have predictable residual values and the technology refresh cycle means clients may want to upgrade in 5-7 years. Check the 4 off-balance sheet criteria and ensure residual > 20%.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
+# PART 15: SALES EXAM — FULL PRACTICE SCENARIOS [!!]
+
+> The sales exam is scenario-based. "You're sitting in front of a client — what do you do?" These practice scenarios test LEAD, objection handling, product knowledge, and strategic thinking.
+
+---
+
+## Sales Scenario #1 — The Cold Call That Got Through
+
+**The Scenario:**
+
+> You cold-call a construction equipment dealer in Thunder Bay, Ontario. The owner, Mike, picks up. He says: "Look, I've got 3 finance companies already. I don't need another one. What's your rate?"
+
+**Write your response (full marks):**
+
+<details><summary>Full-Marks Answer</summary>
+
+**Handle BOTH objections in order:**
+
+**Objection 1 — "I already have finance companies":**
+"That's great, Mike — I wouldn't expect a dealer of your size to work with just one. The best dealers I work with typically have 3-4 options because it allows them to offer more to their customers. MHCCA specializes in areas that might complement what you already have — for example, do any of your current lenders offer floorplan financing at 100% advance with 24-hour funding?"
+
+**Objection 2 — "What's your rate?":**
+"That's exactly why I'd love to sit down with you. We offer tailor-made financing solutions rather than flat rates — our pricing depends on the deal structure, the equipment type, the customer's credit profile, and the term. I'd need to understand your business and your customers to give you a meaningful answer. Would you be available Thursday morning or Friday afternoon for 30 minutes?"
+
+**Why this works:**
+- Follows the 3-step pattern: Acknowledge → Reframe → Close for meeting
+- Uses the **alternative close** (Thursday or Friday — both are yes)
+- Drops a **product hook** (floorplan at 100% / 24-hour funding) that he likely doesn't get from his other lenders
+- Doesn't give a rate — positions MHCCA as custom, not commodity
+</details>
+
+---
+
+## Sales Scenario #2 — The LEAD Framework Meeting
+
+**The Scenario:**
+
+> You've secured a first meeting with a mid-sized transportation company that runs 25 Class 8 trucks and 10 trailers. They currently finance everything through their bank. Walk through how you'd run this meeting using the LEAD framework.
+
+**Write your approach (full marks):**
+
+<details><summary>Full-Marks Answer</summary>
+
+**L — LEGITIMIZE (first 5 minutes):**
+"Thank you for your time. I'm [Name] from Mitsubishi HC Capital Canada — we're one of the largest non-bank commercial equipment finance companies in Canada, backed by the Mitsubishi brand globally. I'd like to take about 40 minutes to understand your fleet operations and show you how we might be able to add value beyond what your bank currently provides. Fair?"
+
+Set the agenda. Earn the right to be there. Key: mention the **40-minute** timeframe (from LEAD training).
+
+**E — EXPLORE (next 15-20 minutes — listen more than you talk):**
+Ask open-ended questions:
+- "Tell me about your fleet — what routes do you run? What's your growth plan?"
+- "How does your current financing work? What do you like about it? What frustrates you?"
+- "When you need to add trucks, how fast can your bank turn it around?"
+- "Have you ever had a deal your bank couldn't do?"
+- "What happens when one of your drivers wants to buy their own truck and leave your fleet?"
+- "Do you lease or buy? Have you considered the difference?"
+
+**Listen for pain points:** Slow bank turnaround, rigid terms, inability to finance used equipment, no seasonal payment flexibility, drivers wanting to become O/Os.
+
+**A — ACCENTUATE (next 10-15 minutes):**
+Tailor your pitch based on what you heard:
+- If they want **speed**: "We can turn around decisions in 24-48 hours vs. weeks at a bank"
+- If they want **flexibility**: "We can structure seasonal payments, skip payments, step-up/step-down payments"
+- If **drivers want to become O/Os**: "We have programs for experienced owner-operators — though we require 5 years TIB and verified homeownership, we can help your best drivers transition"
+- If they want **off-balance sheet**: "Our FMV leases keep equipment off your balance sheet — improves your debt ratios for your bank relationship"
+- If they carry **inventory** (dealer element): "Our floorplan financing offers 100% advance with 24-hour funding"
+
+Mention MHCCA's **6 value props**: One-stop-shop, industry expertise, tailored financing, global reach, agility, dealer partnerships.
+
+**D — DECIDE (final 5 minutes):**
+"Based on what you've told me, I think there's a clear fit — especially around [the pain point they expressed]. Here's what I'd suggest as a next step: send me the details on the next truck you're looking to add, and I'll turn around a competitive structure within 48 hours so you can compare it side-by-side with your bank. Can we do that?"
+
+Close for a **concrete action** — a deal submission, not just "let's stay in touch."
+</details>
+
+---
+
+## Sales Scenario #3 — The Client Who Doesn't Express Needs (APEP)
+
+**The Scenario:**
+
+> You're meeting with a well-established industrial client. They say: "Honestly, everything's fine. Our equipment is working, our current leasing company is fine, we don't really need anything right now."
+
+**How do you uncover hidden needs?**
+
+<details><summary>Full-Marks Answer</summary>
+
+Use the **APEP method** (for clients who don't express needs):
+
+**A — Affirm:**
+"That's great to hear — it sounds like you've built a solid operation. Not everyone can say that."
+
+**P — Probe:**
+"Just out of curiosity — how old is your forklift fleet? When was the last time you refreshed? ... Are any of your units starting to cost more in maintenance than they used to? ... Have you looked at the newer electric models? ... What's your current financing structured as — do you own outright, lease, or finance?"
+
+**E — Empathize (Emphasize Pain):**
+"A lot of the companies I work with said the same thing until they realized their 8-year-old forklifts were costing them $15K/year in maintenance each. When they switched to a **FMV lease with a 5-year refresh cycle**, their total cost of ownership actually dropped — and the new electric units cut their energy costs by 40%. Plus they got off-balance sheet treatment."
+
+**P — Propose:**
+"What if I put together a quick comparison — your current fleet costs vs. what a refresh program would look like with our FMV leases? No obligation. If the numbers don't work, I'll tell you that myself. Can I send that over by next week?"
+
+**Why this works:**
+- Doesn't argue with "everything's fine"
+- Probes to find a hidden pain (aging equipment, rising maintenance costs)
+- Quantifies the pain ($15K/year maintenance)
+- Proposes a solution tied to a specific product (FMV lease)
+- Low-pressure close (comparison, no obligation)
+</details>
+
+---
+
+## Sales Scenario #4 — The Cross-Sell Opportunity
+
+**The Scenario:**
+
+> You already have a good relationship with a construction equipment dealer who sends you 10-15 capital lease deals per year. At a lunch meeting, they mention: "We're thinking about starting a rental fleet — maybe 20 excavators. Also, our cash flow has been tight because our customers are slow to pay."
+
+**What products do you recommend?**
+
+<details><summary>Full-Marks Answer</summary>
+
+This is a **cross-sell opportunity** across multiple MHCCA business lines:
+
+**1. For the rental fleet → DORF (Dealer Owned Rental Fleet Financing)**
+"We have a program designed exactly for this — Dealer Owned Rental Fleet financing. We can finance the 20 excavators for your rental fleet with terms tailored to rental economics. You buy the equipment, put it on rent, and the rental income covers the financing payments. When a rental unit is sold, we convert or pay out that unit."
+
+**2. For slow-paying customers → ABL (Asset-Based Lending)**
+"For the cash flow issue — if your customers owe you money and it's sitting in accounts receivable, we can set up an Asset-Based Lending facility. We advance up to **90% on your A/R** and **70-80% on your inventory.** Range is $1M-$10M. This gives you immediate cash against money you're already owed — it's like turning your A/R into a revolving credit line. We're faster and more flexible than your bank."
+
+**3. Continue the existing relationship → Equipment Finance**
+"And obviously we keep doing what we're doing on the retail side — capital leases for your end-customers."
+
+**4. Optional — Inventory Finance / Floorplan**
+"By the way — do you currently floorplan your inventory? We do 100% advance including taxes with 24-hour funding."
+
+**This single dealer relationship now generates revenue across 4 business lines.** This is exactly the cross-selling Siraaj emphasized — it increases wallet share and makes the relationship stickier.
+</details>
+
+---
+
+## Sales Scenario #5 — Recommending the Right Product
+
+**The Scenario:**
+
+> A prospect runs a technology company with 200 employees. They need to upgrade their entire server infrastructure ($500K) but they're worried about two things: (1) they don't want it on their balance sheet because they have bank covenants, and (2) they know servers become obsolete in 3-4 years.
+
+**What do you recommend?**
+
+<details><summary>Full-Marks Answer</summary>
+
+**Recommend: FMV Operating Lease from Technology Finance**
+
+"Based on what you've described, an FMV lease is the perfect fit. Here's why:
+
+**Off-balance sheet:** An operating lease keeps the equipment off your balance sheet — so your debt ratios stay clean for your bank covenants. To qualify, we need to meet four criteria: (1) term under 75% of the equipment's useful life, (2) present value of payments under 90% of FMV, (3) no bargain purchase option, and (4) no automatic ownership transfer. With a 48-month term on servers with a 7-8 year useful life, we'd easily meet these.
+
+**Technology obsolescence protection:** At the end of your 48-month term, you have three options: (1) return the servers and upgrade to the next generation, (2) buy them at fair market value if they still have life, or (3) continue making payments month-to-month if you need more time to plan the refresh. You're never stuck with outdated equipment.
+
+**Tax benefit:** Your entire lease payment is a tax-deductible operating expense — not just the interest (like on a loan), but the full payment.
+
+**MHCCA's internal 20% residual rule:** We'd set a residual value above 20% — this actually lowers your monthly payment compared to a capital lease because you're not financing 100% of the cost."
+
+**Alternative if they ask about software too:** "If you're also licensing new software, we can finance that through an **IPA (Installment Payment Agreement)** — designed specifically for software purchases."
+</details>
+
+---
+
+## Sales Scenario #6 — "Why MHCCA Over a Bank?"
+
+**The Scenario:**
+
+> A CFO says: "Our bank can do equipment financing too, and they're cheaper. Why would I use you?"
+
+<details><summary>Full-Marks Answer</summary>
+
+"You're right that banks can do equipment financing — and for strong-credit, simple deals, they're often very competitive on rate. But here's where we're different:
+
+1. **Speed:** Banks take 2-4 weeks to approve an equipment deal. We can do it in **24-48 hours.** When your team needs equipment on the ground next week, that matters.
+
+2. **Flexibility:** Banks offer standard term loans. We offer **capital leases, FMV operating leases, loans, lines of credit, seasonal payments, skip payments, and custom structures.** Your bank gives you one tool. We give you a toolbox.
+
+3. **Off-balance sheet options:** Banks do loans — equipment goes on your balance sheet and impacts your debt covenants. Our **FMV leases keep equipment off your balance sheet**, which actually makes your bank relationship stronger.
+
+4. **Credit flexibility:** Banks have rigid credit policies. We can work with **any credit profile** — from your AAA-rated subsidiary to a startup you want to support with a vendor program.
+
+5. **Preservation of your bank line:** Every dollar you finance through your bank **eats into your operating credit line.** Finance your equipment with us, and your full bank line stays available for working capital.
+
+6. **Industry expertise:** We have specialized teams for construction, transportation, technology, aviation, and more. We understand your equipment, your market cycles, and your resale values. Your bank sees a dollar amount. We see the asset."
+
+Close: "I'm not asking you to replace your bank — I'm suggesting you **complement** them. Most of my best clients use both. Can I structure a deal on your next equipment purchase so you can compare?"
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
+# PART 16: OPS EXAM — FULL PRACTICE SCENARIOS [!!!]
+
+> The OPS exam is the hardest. It tests exact policy knowledge with trick questions. These scenarios simulate the real exam format.
+
+---
+
+## OPS Scenario #1 — The Document Review
+
+**The Scenario:**
+
+> You receive a deal file for a **capital lease** on a used excavator. Review the following documents and identify ALL errors:
+>
+> - Void cheque: Shows "Béton Pro Inc." — the corporate profile shows "Béton-Pro Inc." (with hyphen)
+> - Contract: Legal name shows "Béton Pro Inc." — PG name shows "Marc-André Dubois" — ID shows "Marc Andre Dubois" (no hyphen, no accent)
+> - BOS: Billed to "Béton-Pro Inc." (the client). Ship-to address: 45 Rue Principale, Laval, QC
+> - Insurance: Names "Mitsubishi HC Capital Canada Leasing, Inc" as Loss Payee. Liability: $1.5M. Deductible: $15,000
+> - Equipment: New 2025 CAT 320 — $180,000
+
+**Identify every error:**
+
+<details><summary>Full-Marks Answer</summary>
+
+**Error 1 — Void cheque name mismatch:**
+The void cheque shows "Béton Pro Inc." but the corporate profile shows "Béton-Pro Inc." (with hyphen). The legal name on the void cheque must **match the corporate profile exactly.** The hyphen is missing. New void cheque required.
+
+**Error 2 — Contract legal name mismatch:**
+The contract shows "Béton Pro Inc." but the corporate profile shows "Béton-Pro Inc." The contract legal name must match the corporate profile **exactly**. Contract needs to be reissued.
+
+**Error 3 — PG name vs. ID mismatch:**
+PG name on contract: "Marc-André Dubois" — ID shows "Marc Andre Dubois" (no hyphen, no accent). The PG name **must match government-issued ID exactly.** The contract should show "Marc Andre Dubois" to match the ID, OR the ID needs to be verified to see which is the official spelling. **No discrepancies allowed.**
+
+**Error 4 — BOS billed to client (should be MHCCL):**
+This is a **lease.** The BOS must be billed to **Mitsubishi HC Capital Canada Leasing, Inc** — not the client. The client is the ship-to address (correct), but the bill-to must be MHCCL. BOS needs to be reissued.
+
+**Error 5 — Insurance designation incomplete:**
+This is a lease, so "Loss Payee" alone is **not enough.** For a lease, MHCCA Leasing must be listed as **Additional Insured AND Loss Payee**, or have a **5A Endorsement (SEF 5A)** with MHCCA as Lessor. "Loss Payee only" is the loan designation. Insurance certificate must be updated.
+
+**Error 6 — Insurance liability below minimum:**
+Liability shows $1.5M. The minimum required is **$2M.** This fails. New insurance certificate required with $2M minimum.
+
+**Error 7 — Bill 96:**
+Client is in Laval, Quebec. **Bill 96 applies.** Was the French version of the contract provided first? Did the client explicitly request the English version? RDPRM must be filed in French. If these steps weren't followed, there's a compliance risk (fines up to $30,000).
+
+**Total: 7 errors.** None of these documents can proceed as-is.
+</details>
+
+---
+
+## OPS Scenario #2 — Insurance Deep Dive
+
+**The Scenario:**
+
+> Match the correct insurance requirements to each deal:
+>
+> A) Capital lease on a new Deere excavator
+> B) Loan on a used Kenworth T680
+> C) Operating lease on technology servers
+> D) Loan on a truck that will transport propane tanks
+
+<details><summary>Full-Marks Answer</summary>
+
+**A) Capital Lease — Deere Excavator:**
+- Entity: **Mitsubishi HC Capital Canada Leasing, Inc** (note: "Leasing")
+- Designation: **Additional Insured + Loss Payee** OR **5A Endorsement + listed as Lessor**
+- Liability: $2M minimum
+- Deductible: Below $25K
+- BOS billed to: MHCCL (Leasing, Inc)
+
+**B) Loan — Kenworth T680:**
+- Entity: **Mitsubishi HC Capital Canada, Inc** (note: NO "Leasing")
+- Designation: **Loss Payee only**
+- Liability: $2M minimum
+- Deductible: Below $25K
+- BOS billed to: **The client** (they own the asset from day 1)
+
+**C) Operating Lease — Technology Servers:**
+- Entity: **Mitsubishi HC Capital Canada Leasing, Inc** (it's still a lease — the "Leasing" entity)
+- Designation: **Additional Insured + Loss Payee** OR **5A Endorsement**
+- Liability: $2M minimum
+- Deductible: Below $25K
+- BOS billed to: MHCCL
+- Note: Same insurance rules as any other lease — operating vs. capital doesn't change the insurance entity
+
+**D) Loan — Propane Truck (HAZMAT):**
+- **This MUST be a loan** — propane is hazardous material. Lease is NOT allowed
+- Entity: **Mitsubishi HC Capital Canada, Inc** (loan entity)
+- Designation: **Loss Payee only**
+- Liability: $2M minimum — **plus increased insurance required for hazmat**
+- Deductible: Below $25K
+- BOS billed to: **The client**
+
+**Key takeaway:** The entity and designation follow the **structure** (lease vs. loan), not the equipment type. The only exception is hazmat/bus — which FORCES the structure to be a loan.
+</details>
+
+---
+
+## OPS Scenario #3 — The Transfer
+
+**The Scenario:**
+
+> Client A wants to transfer their existing lease on a forklift to Client B. What are the 10 required documents, and which teams are involved?
+
+<details><summary>Full-Marks Answer</summary>
+
+**10 Required Documents for a Transfer:**
+1. Appendix (A, G, or Assignment)
+2. PAD (Client B — the new lessee)
+3. E-Sign Summary
+4. Government-issued ID (for BOTH Client A and Client B)
+5. Insurance (updated to reflect Client B)
+6. Void cheque (Client B)
+7. Credit decision with new IFL number
+8. First page of the original contract
+9. IPC (Interim Payment Certificate)
+10. REQ/Corporate profile (Client B)
+
+**3-Team Relay:**
+
+| Step | Team | What They Do |
+|---|---|---|
+| 1 | **Sales** | Collects all documents + Power of Attorney from Client A |
+| 2 | **Sales Support** | Processes the assumption in IFL, matches the payment grid |
+| 3 | **Validation** | Validates documents, amends the PPSA registration, sends Welcome Package to Client B |
+
+**Key detail:** The transfer requires a new credit decision — Client B must be underwritten independently. Client A's credit rating doesn't transfer.
+</details>
+
+---
+
+## OPS Scenario #4 — Authorized Signatories Trap
+
+**The Scenario:**
+
+> Four deals come in. For each, determine if the person who signed has authority:
+>
+> A) A corporation (Inc.) — signed by the VP of Finance. No Unanimous Shareholder Agreement on file.
+> B) A limited partnership (LP) — signed by one of the limited partners (commanditaire).
+> C) A sole proprietorship — signed by the owner's spouse, who says "I handle all the paperwork."
+> D) A general partnership — signed by one of three partners.
+
+<details><summary>Full-Marks Answer</summary>
+
+**A) Corporation — VP of Finance, no USA on file:**
+**ACCEPTABLE — but verify.** Officers and directors of a corporation can sign. A VP of Finance is an officer. However, you should always check if a **Unanimous Shareholder Agreement (USA)** exists because a USA can **restrict** who has signing authority. Since there's no USA on file, the VP's signature is valid. Best practice: confirm with the corporate profile that this person is listed as an officer.
+
+**B) Limited Partnership — signed by limited partner:**
+**NOT ACCEPTABLE.** In a limited partnership, **only the general partner** can sign. Limited partners (commanditaires) **cannot sign** under any circumstances. This is a classic exam trap. The deal file must be returned and re-signed by the general partner.
+
+**C) Sole Proprietorship — signed by owner's spouse:**
+**NOT ACCEPTABLE.** In a sole proprietorship, **only the owner** can sign. The spouse has no signing authority unless they have a **Power of Attorney (POA)** on file. "Handling paperwork" doesn't equal legal signing authority. The owner must sign personally.
+
+**D) General Partnership — signed by one of three partners:**
+**ACCEPTABLE.** In a general partnership, **any partner** has full authority to bind the partnership. Unlike a limited partnership, all partners in a general partnership have equal signing authority. One signature from any of the three partners is sufficient.
+</details>
+
+---
+
+## OPS Scenario #5 — Bill 96 Triggers
+
+**The Scenario:**
+
+> For each deal, determine if Bill 96 applies and what you must do:
+>
+> A) Client in Toronto, equipment delivered to Toronto, guarantor lives in Toronto.
+> B) Client in Ottawa, equipment will be plated and used in Gatineau, Quebec.
+> C) Client in Montreal, requests all documents in English.
+> D) Client in Alberta, guarantor lives in Sherbrooke, Quebec.
+
+<details><summary>Full-Marks Answer</summary>
+
+**A) Toronto / Toronto / Toronto:**
+**Bill 96 does NOT apply.** None of the 4 triggers are met (client not in QC, signatory not in QC, equipment not in QC, guarantor not in QC).
+
+**B) Ottawa client, equipment in Gatineau:**
+**Bill 96 APPLIES.** Trigger #3: Equipment used or plated in Quebec. Even though the client is in Ontario, the equipment is going to Quebec. French-first contract required. RDPRM filed in French.
+
+**C) Montreal client, wants English:**
+**Bill 96 APPLIES.** Trigger #1: Client is in Quebec. The French version must be provided **FIRST.** Then the client can **explicitly request** the English version. You can't just skip to English because they asked — the French version must be presented first, and their request for English must be documented.
+
+**D) Alberta client, guarantor in Sherbrooke:**
+**Bill 96 APPLIES.** Trigger #4: Guarantor lives in Quebec. Even though the client and equipment are in Alberta, having a guarantor in Quebec triggers Bill 96. French-first contract, RDPRM in French.
+
+**The 4 Triggers (memorize these):**
+1. Client based in Quebec
+2. Signatory lives in Quebec
+3. Equipment used or plated in Quebec
+4. Guarantor lives in Quebec
+
+**If ANY ONE applies → Bill 96 kicks in.** Non-compliance fines: up to $30,000.
+</details>
+
+---
+
+## OPS Scenario #6 — GAI Eligibility Check
+
+**The Scenario:**
+
+> Three deals come in and the reps want to use GAI (fund without client's COI). Which ones qualify?
+>
+> A) Capital lease, $750,000, 60-month term, non-plated excavator, not an assignment.
+> B) Operating lease, $950,000, 48-month term, plated pickup truck, not an assignment.
+> C) Capital lease, $400,000, 84-month term, non-plated forklift, not an assignment.
+
+<details><summary>Full-Marks Answer</summary>
+
+**The 4 GAI requirements (all must be met):**
+1. Not an assignment
+2. Deal less than $1 million
+3. Term is 12-84 months
+4. 100% covered assets (non-plated, no excluded categories)
+
+**A) $750K excavator, 60 months, non-plated, not assignment:**
+- Not assignment ✅
+- Under $1M ✅ ($750K)
+- Term 12-84 months ✅ (60 months)
+- Non-plated ✅
+- **ELIGIBLE for GAI** ✓
+
+**B) $950K pickup truck, 48 months, plated, not assignment:**
+- Not assignment ✅
+- Under $1M ✅ ($950K)
+- Term 12-84 months ✅ (48 months)
+- **PLATED** ❌ — pickup trucks are plated vehicles. GAI requires 100% covered (non-plated) assets
+- **NOT ELIGIBLE for GAI** ✗ — must obtain client's COI
+
+**C) $400K forklift, 84 months, non-plated, not assignment:**
+- Not assignment ✅
+- Under $1M ✅ ($400K)
+- Term 12-84 months ✅ (84 months — right at the limit but eligible)
+- Non-plated ✅
+- **ELIGIBLE for GAI** ✓
+
+**Key detail:** Excavators with detachable buckets are eligible even though they could be classified as mobile equipment — this is a specific exception in the GAI program.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
+# PART 17: MORE MULTIPLE CHOICE — ALL 3 EXAMS [!!!]
+
+> 30 more practice questions. Cover the answers and quiz yourself.
+
+---
+
+## CREDIT EXAM — Multiple Choice (10 Questions)
+
+**Q9:** A CR4 construction client wants to finance a new Tier 3 (Liugong) excavator. What is the max amortization?
+
+a) 96 months
+b) 84 months
+c) 72 months
+d) 60 months
+
+<details><summary>Answer</summary>
+
+**d) 60 months.** CR4 + Tier 3 new equipment = 60 months max. (CR4 T1/T2 = 72 months, CR1-3 T3 = 84 months, CR1-3 T1/T2 = 96 months.)
+</details>
+
+---
+
+**Q10:** What is the minimum PG score for a forestry deal under $250K?
+
+a) 620
+b) 650
+c) 680
+d) 725
+
+<details><summary>Answer</summary>
+
+**c) 680.** For forestry deals under $250K, the minimum PG score is 680+. For deals between $650K-$1M, it jumps to 725+.
+</details>
+
+---
+
+**Q11:** Which statement about Transport Class 8 is FALSE?
+
+a) First-time owner/operators are never eligible
+b) All borrowers must be verified homeowners
+c) CR4 used equipment is eligible in all provinces
+d) Maximum term is 60 months
+
+<details><summary>Answer</summary>
+
+**c) is FALSE.** CR4 used Class 8 equipment is NOT eligible in Ontario and Western provinces — only in Quebec and Maritimes (with 10-15% down). This is one of the most important geographic differences in the RAC.
+</details>
+
+---
+
+**Q12:** A client's FCCR is 1.05x and their financials are NTR. What is your concern?
+
+a) FCCR is too low to approve
+b) FCCR may be inflated because NTR may not report CPLTD
+c) NTR financials are never accepted
+d) FCCR above 1.0x means no concerns
+
+<details><summary>Answer</summary>
+
+**b)** NTR (Notice to Reader) financials are the lowest reliability and often don't report CPLTD (Current Portion of Long-Term Debt). If CPLTD is missing from the calculation, the real FCCR could be below 1.0x. Request bank statements and tax returns to substantiate.
+</details>
+
+---
+
+**Q13:** Construction IOP (seasonal payments) are allowed for a maximum of how many months, and when can they NOT start?
+
+a) 6 months max, can start anytime
+b) 4 months max, not in the first 3 months
+c) 4 months max, not in the first 6 months
+d) 3 months max, not in the first 6 months
+
+<details><summary>Answer</summary>
+
+**c) 4 months maximum, NOT in the first 6 months of the lease.** This catches people — even if the client needs seasonal relief right away, the first 6 months must have regular payments.
+</details>
+
+---
+
+**Q14:** What is the ZAXIS program?
+
+a) A dealer support program for all construction equipment
+b) A subsidized rate program for Hitachi excavators through Wajax, up to 96 months for CR3+
+c) A first-time buyer program for Class 8 trucks
+d) A refinancing program for forestry equipment
+
+<details><summary>Answer</summary>
+
+**b)** ZAXIS is a specific program for **Hitachi excavators sold through Wajax.** It offers up to 96-month terms with subsidized rates for CR3 and better clients.
+</details>
+
+---
+
+**Q15:** Rental house deals in construction are restricted above what threshold?
+
+a) $100K
+b) $150K
+c) $250K
+d) $500K
+
+<details><summary>Answer</summary>
+
+**c) $250K.** Above $250K, rental house deals are restricted and can only be submitted by MHCC reps (not dealer-submitted).
+</details>
+
+---
+
+**Q16:** What is the max asset age for used Tier 1/2 construction equipment?
+
+a) 8 model years, 10,000 hours
+b) 10 model years, 10,000 hours
+c) 15 model years, 15,000 hours
+d) 10 model years, 15,000 hours
+
+<details><summary>Answer</summary>
+
+**c) 15 model years, 15,000 hours** for Tier 1 & 2. Tier 3 is restricted to 10 years / 10,000 hours.
+</details>
+
+---
+
+**Q17:** Forestry seasonal payments (IOP) are limited to which specific months?
+
+a) November and December
+b) January and February
+c) April and May (spring breakup)
+d) Any 2 months the client chooses
+
+<details><summary>Answer</summary>
+
+**c) April and May only — spring breakup season.** Maximum 2 months. This is specific to forestry and different from construction's 4-month IOP.
+</details>
+
+---
+
+**Q18:** Which segments have ZERO analyst exception authority?
+
+a) Construction and Industrial
+b) Forestry, Transport Class 8, SDG-Energy, and Hospitality
+c) Only Forestry
+d) All segments require next-level approval for exceptions
+
+<details><summary>Answer</summary>
+
+**b)** Forestry, Transport Class 8 OTR, SDG-Energy, and Hospitality all have zero analyst exception authority. All exceptions require Next Level Approval Authority.
+</details>
+
+---
+
+## SALES EXAM — Multiple Choice (10 Questions)
+
+**Q19:** In the LEAD methodology, what happens during the "Explore" phase?
+
+a) You present your product suite and pricing
+b) You ask open-ended questions to understand the client's business and needs
+c) You close the deal and get a signed application
+d) You introduce yourself and set the meeting agenda
+
+<details><summary>Answer</summary>
+
+**b)** Explore is about asking questions and listening — understanding their business, fleet, financing, and pain points. You should **listen more than you talk** during Explore.
+</details>
+
+---
+
+**Q20:** A prospect says "Just send me an email with your info." The correct response is:
+
+a) Send the email and follow up in a week
+b) Agree and send a detailed product brochure
+c) Explain that your solutions are tailor-made and you need to understand their business first — close for a meeting
+d) Tell them you don't send emails and insist on a meeting
+
+<details><summary>Answer</summary>
+
+**c)** "I'd love to, but our solutions are tailor-made — I need to understand your business first so I can send you something relevant. Would you be available Thursday morning or Friday afternoon?" Uses the 3-step pattern + alternative close.
+</details>
+
+---
+
+**Q21:** How many touches does it typically take to convert a prospect, according to Combo Prospecting?
+
+a) 2-3
+b) 5-6
+c) 8-12
+d) 15-20
+
+<details><summary>Answer</summary>
+
+**c) 8-12 touches.** Most salespeople give up after only 2 calls. Persistence is key — use the combo of phone, voicemail, email, LinkedIn, and text.
+</details>
+
+---
+
+**Q22:** What is the "Vampire Rule" of prospecting?
+
+a) Never call prospects after dark
+b) Once you get in the door, the probability of revenue skyrockets
+c) Always go for the jugular — ask for the sale immediately
+d) Don't let prospects drain your time with endless meetings
+
+<details><summary>Answer</summary>
+
+**b)** "Once they let you in, it's over." Being on-site dramatically increases the probability of revenue. Getting face-to-face is the goal of every cold call.
+</details>
+
+---
+
+**Q23:** A dealer tells you they had a bad experience with "Hitachi Capital" (MHCCA's former name). How do you handle this?
+
+a) Deny any problems and change the subject
+b) Apologize, acknowledge the company went through changes, explain improvements have been made, and offer to show them firsthand
+c) Tell them Hitachi Capital doesn't exist anymore so it's irrelevant
+d) Offer them a discount to make up for it
+
+<details><summary>Answer</summary>
+
+**b)** Apologize sincerely. Acknowledge the growth and changes. Explain you've worked hard to fix operational processes. Offer to meet and show improvements. Never deny or dismiss a bad experience — acknowledge and reframe.
+</details>
+
+---
+
+**Q24:** What is the TAM program and why is it important for sales?
+
+a) A training program for new associates
+b) A third-party asset management program that places declined deals with other funders
+c) A territory management tool for tracking prospects
+d) An incentive program for hitting sales targets
+
+<details><summary>Answer</summary>
+
+**b)** TAM (Third-Party Asset Management) places deals that MHCCA declines with third-party funders through Capital Markets. It means you **never have to say "no" to a dealer** — you can still place the deal and earn fee income. This preserves relationships and helps hit volume targets.
+</details>
+
+---
+
+**Q25:** What pipeline multiple should a salesperson maintain relative to their target?
+
+a) 1-2x
+b) 3-5x
+c) 7-10x
+d) Equal to target (1x)
+
+<details><summary>Answer</summary>
+
+**b) 3-5x** their target. If your target is $1M, you need $3M-$5M in qualified pipeline.
+</details>
+
+---
+
+**Q26:** In MHCCA's value proposition, what does "One-Stop-Shop" mean?
+
+a) MHCCA has one office location for all services
+b) MHCCA offers a comprehensive suite of integrated financing — leases, loans, inventory financing, ABL — from one provider
+c) Clients only need one meeting to get approved
+d) MHCCA only works with one dealer per territory
+
+<details><summary>Answer</summary>
+
+**b)** One-Stop-Shop means a comprehensive suite of integrated financing products — capital leases, operating leases, loans, inventory financing, ABL, technology finance, and more — all from a single provider. It's one of the 6 elements of MHCCA's unique value proposition.
+</details>
+
+---
+
+**Q27:** When handling the objection "What's your rate?", why shouldn't you give a rate?
+
+a) It's confidential information
+b) It commoditizes you — positions MHCCA as competing on price rather than value and custom solutions
+c) You don't know the rates
+d) Rates change daily
+
+<details><summary>Answer</summary>
+
+**b)** Giving a rate commoditizes your offering. MHCCA's value is in **tailor-made financing solutions** — pricing depends on deal structure, credit profile, equipment, and term. Competing on rate alone makes you interchangeable with any other lender.
+</details>
+
+---
+
+**Q28:** What is the best time to make cold calls and why?
+
+a) 10:00-11:00 a.m. — people are settled in
+b) 7:45-8:45 a.m. — before gatekeepers arrive and decision-makers are in meetings
+c) 12:00-1:00 p.m. — during lunch when people are relaxed
+d) 4:00-5:00 p.m. — end of day when people wrap up
+
+<details><summary>Answer</summary>
+
+**b) 7:45-8:45 a.m.** Decision-makers are often at their desks before meetings start, and before assistants/gatekeepers arrive to screen calls. This is when you have the best chance of connecting directly.
+</details>
+
+---
+
+## OPS EXAM — Multiple Choice (10 Questions)
+
+**Q29:** On a lease, the ship-to address on the BOS should be:
+
+a) MHCCA's head office address
+b) The dealer's address
+c) The client's address
+d) The equipment manufacturer's address
+
+<details><summary>Answer</summary>
+
+**c) The client's address.** Even though MHCCA is the buyer (bill-to) on a lease, the ship-to is always the client's address. This determines the **tax jurisdiction** — wrong address = wrong taxes = compliance failure.
+</details>
+
+---
+
+**Q30:** A deal has total exposure of $2.8M (existing + new). At what threshold is documentation sent to Legal?
+
+a) $1M
+b) $2M
+c) $3M
+d) $5M
+
+<details><summary>Answer</summary>
+
+**c) $3M total exposure.** The $3M threshold is on TOTAL exposure (existing + new). At $2.8M, this deal is under the threshold. But if a future deal pushes it over $3M, it goes to Legal.
+</details>
+
+---
+
+**Q31:** What document is NOT required on a SAF (Schedule of Additional Fees)?
+
+a) Fee amounts
+b) Client legal name
+c) Equipment description
+d) Tax numbers
+
+<details><summary>Answer</summary>
+
+**c) Equipment description.** Equipment description is required on the BOS but NOT on the SAF. This is a common exam trap.
+</details>
+
+---
+
+**Q32:** A deposit on a BOS must be listed:
+
+a) Before taxes
+b) After taxes
+c) It doesn't matter
+d) Deposits are not listed on the BOS
+
+<details><summary>Answer</summary>
+
+**b) After taxes.** The deposit must be noted after taxes, not before. Listing it before taxes would result in incorrect tax calculations.
+</details>
+
+---
+
+**Q33:** Which of the following is NOT an acceptable form of payment authorization?
+
+a) Void cheque
+b) Pre-printed PAD form from the bank
+c) Handwritten PAD form from the client
+d) Void cheque with the complete legal name of the lessee
+
+<details><summary>Answer</summary>
+
+**c) Handwritten PAD form.** Must be an actual void cheque — a handwritten PAD form is NOT acceptable.
+</details>
+
+---
+
+**Q34:** A deal is structured as a lease. The insurance certificate shows "5A Endorsement" and lists MHCCA as "Lessor." Is this acceptable?
+
+a) No — leases require "Additional Insured + Loss Payee" only
+b) Yes — 5A Endorsement with MHCCA as Lessor is an acceptable alternative for leases
+c) No — 5A Endorsement is only for loans
+d) No — the entity must be listed as "Loss Payee" not "Lessor"
+
+<details><summary>Answer</summary>
+
+**b) Yes.** For leases, there are two acceptable insurance formats: (1) Additional Insured + Loss Payee, OR (2) 5A Endorsement (SEF 5A) with MHCCA listed as Lessor. Both are acceptable.
+</details>
+
+---
+
+**Q35:** When does total exposure over $1M trigger additional documentation requirements?
+
+a) Org chart and AR/AP listings are required
+b) Deal goes to Legal
+c) Third-party appraisal is needed
+d) Nothing special happens until $3M
+
+<details><summary>Answer</summary>
+
+**a)** Over $1M total exposure requires an **org chart** and **AR/AP listings.** The $3M threshold is when documentation goes to Legal. These are two different thresholds — don't confuse them.
+</details>
+
+---
+
+**Q36:** Which lease restructure form is used for an operating lease?
+
+a) CON15.71
+b) CON15.7
+c) CON15.8
+d) SAF-7
+
+<details><summary>Answer</summary>
+
+**b) CON15.7** is for operating lease restructures. CON15.71 is for capital lease restructures.
+</details>
+
+---
+
+**Q37:** A driver's license is presented as ID. Which of the following would make it UNACCEPTABLE?
+
+a) It's from another province
+b) The photo is slightly faded
+c) It expired 2 months ago
+d) The name uses a middle initial instead of the full middle name
+
+<details><summary>Answer</summary>
+
+**c) Expired.** The ID must be **not expired.** An expired driver's license is not a valid form of identification, regardless of how recently it expired.
+</details>
+
+---
+
+**Q38:** How many documents are required for a lease transfer?
+
+a) 5
+b) 7
+c) 10
+d) 12
+
+<details><summary>Answer</summary>
+
+**c) 10 documents.** The transfer requires: (1) Appendix, (2) PAD, (3) E-Sign Summary, (4) ID for both parties, (5) Insurance, (6) Void cheque, (7) Credit decision with new IFL#, (8) First page of original contract, (9) IPC, (10) REQ/Corporate profile.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
+# PART 18: SHORT ANSWER — ALL 3 EXAMS (Full-Marks Answers) [!!!]
+
+> 10 more short answer questions. Write exactly these answers for full marks.
+
+---
+
+**Q6:** What is the MHCCA transformation story? Explain in 3-4 sentences.
+
+<details><summary>Full-Marks Answer</summary>
+
+> MHCCA was a transport-focused equipment leasing company — high volume, thin margins, concentrated risk in one industry. It is transforming into a diversified financial services platform by reducing Transport HD from 43% to 19% of the portfolio while growing Construction to 38% and Diversified to 23%. Simultaneously, it's expanding from "1.0 solutions" (capital leases and loans) to a full product suite including FMV leases, ABL, private credit, inventory finance, and service-based income. The goal is a less volatile, higher-margin business that generates more diverse revenue streams through both industry expansion and product innovation.
+</details>
+
+---
+
+**Q7:** Why does MHCCA prefer FMV leases over capital leases? Give at least 4 reasons.
+
+<details><summary>Full-Marks Answer</summary>
+
+> 1. **Higher implicit yields** — the rate is embedded in the payment, not shown separately, which means less price competition from other lenders
+> 2. **Off-balance sheet treatment for clients** — this is a major selling point for companies with bank covenants or who want to keep their debt ratios clean
+> 3. **Evergreen potential** — after the term ends, clients often continue paying month-to-month on a fully depreciated asset, generating near-100% margin for MHCCA
+> 4. **Remarketing upside** — MHCCA sets a conservative residual value, then sells the returned equipment for more than that residual, capturing the spread as profit
+> 5. **Improved ROA** — FMV leases generate higher returns relative to the asset on MHCCA's books compared to capital leases
+</details>
+
+---
+
+**Q8:** Explain the difference between the $1M and $3M compliance thresholds.
+
+<details><summary>Full-Marks Answer</summary>
+
+> The **$1M threshold** applies to total client exposure (existing + new). When total exposure exceeds $1M, additional documentation is required: an organizational chart and AR/AP listings must be obtained.
+>
+> The **$3M threshold** also applies to total exposure. When total exposure exceeds $3M, the deal documentation must be sent to **Legal** for review before the deal can proceed.
+>
+> Both thresholds are cumulative — if a client has $2.5M existing exposure and submits a $600K new deal, total exposure is $3.1M, which exceeds both thresholds. Org chart + AR/AP are required (over $1M), AND the documentation goes to Legal (over $3M).
+</details>
+
+---
+
+**Q9:** A client asks: "What's the difference between financing through you versus my bank?" Give a complete answer.
+
+<details><summary>Full-Marks Answer</summary>
+
+> There are six key differences:
+> 1. **Speed** — Banks take 2-4 weeks. MHCCA can approve in 24-48 hours
+> 2. **Product flexibility** — Banks offer standard term loans. MHCCA offers capital leases, FMV operating leases, loans, lines of credit, seasonal payments, and custom structures
+> 3. **Off-balance sheet** — Bank loans go on the balance sheet and impact covenants. FMV leases stay off the balance sheet
+> 4. **Credit flexibility** — MHCCA can work with any credit profile, from strong to near/subprime. Banks have rigid policies
+> 5. **Preserves bank line** — Financing equipment through MHCCA keeps the client's bank operating line available for working capital
+> 6. **Industry expertise** — MHCCA has specialized teams that understand specific equipment types, residual values, and market cycles. Banks see a dollar amount; we see the asset
+</details>
+
+---
+
+**Q10:** What are the 6 elements of MHCCA's Unique Value Proposition?
+
+<details><summary>Full-Marks Answer</summary>
+
+> 1. **One-Stop-Shop Approach** — comprehensive suite of integrated financing products from a single provider
+> 2. **Industry Expertise** — specialized market knowledge for credit decisions based on both the client AND the asset
+> 3. **Tailored Financing for Diverse Credit Profiles** — from start-ups to publicly traded companies
+> 4. **Global Reach** — presence across Canada and US, partnering with OEMs from North America, Europe, and Asia
+> 5. **Agility and Responsiveness** — fast decision-making and flexible, customized solutions
+> 6. **Go-to-Market Strategy** — partnerships with dealers, vendors, and intermediaries, expanding to include OEM relationships and direct solicitation
+</details>
+
+---
+
+**Q11:** What is an evergreen lease and why is it profitable for MHCCA?
+
+<details><summary>Full-Marks Answer</summary>
+
+> An evergreen lease occurs when an FMV (operating) lease term ends and the client **continues making monthly payments** instead of returning or purchasing the equipment. At this point, the equipment is fully depreciated on MHCCA's books — its book value is essentially zero. This means every payment the client makes is **near-100% pure margin** for MHCCA. Evergreen leases are common in technology where clients delay equipment refreshes. They're one of the key reasons MHCCA prefers FMV leases — the evergreen upside doesn't exist on capital leases.
+</details>
+
+---
+
+**Q12:** Explain the concept of "service-based income" and why it matters for MHCCA's ROA.
+
+<details><summary>Full-Marks Answer</summary>
+
+> Service-based income is revenue MHCCA earns **without adding assets to its balance sheet**. It includes portfolio servicing (managing other lenders' portfolios for fees), consulting and advisory, private label programs, and technology/credit scoring services.
+>
+> It matters for ROA because ROA = Net Income ÷ Total Assets. Service income grows the **numerator** (net income) without growing the **denominator** (total assets). Traditional lending requires adding assets to the balance sheet to earn returns. Service income improves returns without increasing the asset base — making it much more capital-efficient.
+</details>
+
+---
+
+**Q13:** Name the 3 phases of the MHC Group's MTMP and explain which phase MHCCA is currently in.
+
+<details><summary>Full-Marks Answer</summary>
+
+> The three phases are: (1) **HOP** — "sowing seeds" and "gaining a solid foothold," (2) **STEP** — building on the foundation, and (3) **JUMP** — leaping toward the 10-year vision.
+>
+> MHCCA is currently in the **HOP phase.** This means 2025 is about establishing foundations — stabilizing the portfolio, diversifying into new industries and products, restructuring the sales team by industry segment, and building the platform for future growth. It's not yet about explosive growth; it's about planting the seeds correctly.
+</details>
+
+---
+
+**Q14:** Describe the full process for handling a client objection. Use "I'm too busy" as your example.
+
+<details><summary>Full-Marks Answer</summary>
+
+> The three-step objection handling pattern:
+>
+> **Step 1 — Acknowledge:** "I completely understand — I can see you've got a lot on the go. I value your time."
+>
+> **Step 2 — Reframe:** "That's actually why I'm reaching out. By investing just 20 minutes with me, I'm confident you'll save far more time for your customers with the solutions we offer. I work with several companies in your industry and we've been able to streamline their equipment financing so they spend less time on paperwork and more time on operations."
+>
+> **Step 3 — Close with the alternative close:** "Would you be available Thursday morning or Friday afternoon? I promise to keep it tight."
+>
+> This pattern works for every objection: acknowledge (never argue), reframe (show value), and close for a meeting (alternative close with two specific times, not a yes/no question).
+</details>
+
+---
+
+**Q15:** A deal file for a LOAN contains the following. Identify whether each item is correct or incorrect:
+- BOS billed to the client
+- Insurance names "Mitsubishi HC Capital Canada Leasing, Inc" as Loss Payee
+- Ship-to address is the client's address
+- Deposit is listed before taxes on the BOS
+
+<details><summary>Full-Marks Answer</summary>
+
+> - **BOS billed to client** — CORRECT. On a loan, the client is the purchaser, so the BOS is billed to them (on a lease, it would be billed to MHCCL)
+> - **Insurance names "Leasing, Inc"** — INCORRECT. On a loan, the entity must be "Mitsubishi HC Capital Canada, **Inc**" — WITHOUT "Leasing." The "Leasing" entity is only for leases
+> - **Ship-to is client's address** — CORRECT. Ship-to is always the client's address regardless of structure (lease or loan). This determines tax jurisdiction
+> - **Deposit listed before taxes** — INCORRECT. The deposit must be listed **after taxes**, not before. This ensures correct tax calculations
+>
+> Two errors: wrong insurance entity and wrong deposit placement.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 # YOU'VE GOT THIS.
+
+### Final Score Check — Can You Answer These 10 From Memory?
+
+1. CR3 auto-decision for Construction? → **$200K**
+2. Class 8 Tier 1 brands? → **Kenworth + Peterbilt ONLY**
+3. Off-balance sheet memory shortcut? → **75 — 90 — No — No**
+4. Lease BOS billed to? → **MHCCL (Leasing, Inc)**
+5. Loan insurance entity? → **Canada, Inc (NO Leasing)**
+6. Hazmat/Bus structure? → **LOAN always**
+7. Forestry CR3 equipment restriction? → **Tier 1 & 2 only**
+8. LEAD stands for? → **Legitimize, Explore, Accentuate, Decide**
+9. Objection pattern? → **Acknowledge → Reframe → Close for meeting**
+10. Portfolio shift Transport HD? → **43% → 19%**
+
+If you got all 10 — you're ready.
 
 ### The Night Before:
 1. **Re-read Part 2** (RAC numbers) — this is the biggest section of the credit exam
 2. **Re-read Part 5** (OPS checklist) — this is the hardest exam
 3. **Practice one case study** mentally using the Part 12 framework
-4. Get some sleep. You know this material.
+4. **Do the 10-question check above** from memory
+5. Get some sleep. You know this material.
 
 ### On Exam Day:
 - Read each question **twice** before answering
 - On multiple choice: eliminate obviously wrong answers first
-- On case studies: follow the 5-step framework above
+- On case studies: follow the 5-step framework above — Industry → RAC → Structure → Risks → Answer
 - On OPS trick questions: ask yourself **"What does the POLICY say?"** not "What do we actually do?"
+- On sales scenarios: use **LEAD** for meetings, **Acknowledge → Reframe → Close** for objections
 - **Write clearly** — they're reading your handwriting
 
 ---
