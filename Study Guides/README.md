@@ -60,8 +60,11 @@ AAM-Test/
     ├── --- CREDIT ANALYSIS ---
     │   └── 21-Spreads-Cheat-Sheet.md
     │
-    └── --- STRATEGIC INSIGHTS ---
-        └── 22-Strategic-Insights-Exam-Prep.md
+    ├── --- STRATEGIC INSIGHTS ---
+    │   └── 22-Strategic-Insights-Exam-Prep.md
+    │
+    └── --- EXAM DAY ---
+        └── 23-Exam-Day-OPS-Credit-Sales.md
 ```
 
 ---
@@ -130,6 +133,12 @@ AAM-Test/
 | # | Guide | What It Covers | Priority |
 | --- | --- | --- | --- |
 | 22 | [**Strategic Insights — Exam Prep**](22-Strategic-Insights-Exam-Prep.md) | **THE STRATEGY GUIDE.** Everything from the exam prep meetings: ROA as the #1 metric, FMV vs FPO strategic advantage (residual setting, margin optimization, sector practices), Evergreen leases (pure profit), EaaS & usage-based billing, service-based income (the holy grail), ABL positioning between banks & distressed lenders, private credit participation & sponsors, why MHCCA exited factoring, syndication reserve mechanisms, virtual captives & joint ventures (Sani/Housby), securitization basics, scalability philosophy, the complete MHCCA transformation story. Includes what Siraaj wants you to focus on — prioritized by tier | **CRITICAL** |
+
+### Exam Day — OPS, Credit & Sales
+
+| # | Guide | What It Covers | Priority |
+| --- | --- | --- | --- |
+| 23 | [**Exam Day — OPS, Credit & Sales**](23-Exam-Day-OPS-Credit-Sales.md) | **THE OPS & EXAM BIBLE.** All 3 exam structures (credit: 25 MC + 5 short answer + 2 case studies, sales: scenario-based, OPS: policy-based trick questions). Complete document validation checklist (void cheque, contract, BOS/SAF, insurance, ID). Insurance requirements by product type (lease vs loan entity names, additional insured vs loss payee, 5A endorsement, $2M liability, <$25K deductible). BOS billing rules (MHCCL vs client). Ship-to address tax jurisdiction. Hazmat/bus = loan only. 20% residual rule. $3M legal review threshold. Third-party due diligence. KYC/fraud prevention. Lessee vs guarantor by jurisdiction. 8 common OPS exam traps. Case study approach guide. Practice questions with full scenarios | **CRITICAL** |
 
 ---
 

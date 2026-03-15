@@ -30,7 +30,8 @@ AAM-Test/
     ├── 14-RAC-Credit-Box.md    <- THE CREDIT BOX (most important)
     ├── 15 to 20                 <- Operations & Compliance
     ├── 21                       <- Credit Analysis (Spreads)
-    └── 22                       <- Strategic Insights (Exam Prep)
+    ├── 22                       <- Strategic Insights (Exam Prep)
+    └── 23                       <- Exam Day (OPS, Credit & Sales)
 ```
 
 ---
@@ -45,9 +46,10 @@ AAM-Test/
 | **Credit & Risk** | 14 | **RAC Credit Box** — all 20+ business segments, deep dives on Construction, Forestry, Transportation |
 | **Credit Analysis** | 21 | **Spreads Cheat Sheet** — Financial analysis playbook for large deals, 4Bloc format, key benchmarks, industry questions |
 | **Strategic Insights** | 22 | **Exam Prep Deep Dive** — ROA, FMV strategy, evergreen leases, EaaS, service income, ABL positioning, factoring exit, virtual captives, scalability, transformation story |
+| **Exam Day** | 23 | **OPS & Exam Bible** — All 3 exam structures, document validation checklist, insurance requirements, BOS billing rules, hazmat = loan, 20% residual rule, $3M legal threshold, OPS exam traps |
 | **Operations & Compliance** | 15-20 | Transfer Process, Authorized Signatories, Bill 96, GAI Insurance, Lease Restructure, Driver's License Validation |
 
-**22 study guides** covering every provided training document plus exam prep meeting insights, with 175+ practice questions total.
+**23 study guides** covering every provided training document plus exam prep meeting insights, with 190+ practice questions total.
 
 ---
 
@@ -60,8 +62,9 @@ AAM-Test/
 5. **[Operating Lease Training](Study%20Guides/06-Operating-Lease-Training.md)** — Capital lease vs operating lease, the 4 off-balance-sheet criteria.
 6. **[Strategic Plan 2025](Study%20Guides/02-Strategic-Plan-2025.md)** — Financial targets, portfolio shifts, org chart.
 7. **[LEAD Sales Methodology](Study%20Guides/08-LEAD-Sales-Methodology.md)** — The formal sales framework.
-6. **[GAI Insurance Program](Study%20Guides/18-GAI-Insurance-Program.md)** — Fund without client COI. Know the 4 eligibility requirements.
-7. **[Bill 96 — Quebec Language Law](Study%20Guides/17-Bill-96-Quebec-Language-Law.md)** — French-first rules for any deal touching Quebec.
-8. **[Authorized Signatories](Study%20Guides/16-Authorized-Signatories.md)** — Who can sign by company type. Critical for every deal.
+8. **[Exam Day — OPS, Credit & Sales](Study%20Guides/23-Exam-Day-OPS-Credit-Sales.md)** — Document validation checklist, insurance rules, BOS billing, OPS exam traps, case study approach.
+9. **[GAI Insurance Program](Study%20Guides/18-GAI-Insurance-Program.md)** — Fund without client COI. Know the 4 eligibility requirements.
+10. **[Bill 96 — Quebec Language Law](Study%20Guides/17-Bill-96-Quebec-Language-Law.md)** — French-first rules for any deal touching Quebec.
+11. **[Authorized Signatories](Study%20Guides/16-Authorized-Signatories.md)** — Who can sign by company type. Critical for every deal.
 
 See the [full study plan](Study%20Guides/README.md) for the complete recommended order.
