@@ -749,40 +749,355 @@ Why it matters: Improves ROA without growing the denominator (assets).
 
 # PART 12: CASE STUDY FRAMEWORK [!!!]
 
-> Use this framework for the 2 credit case studies on the exam. Follow these steps IN ORDER.
+> Use this framework for the 2 credit case studies on the exam. Follow these steps IN ORDER. Each step now includes the actual RAC numbers so you don't have to flip back.
 
 ---
 
 ## Step 1: Identify the Basics
-- What **industry** is the client in?
-- What **credit rating** would they likely be?
-- What **asset** do they want? What **tier** is it?
-- What **dollar amount** are they requesting?
 
-## Step 2: Apply the RAC
-- Is the deal within **auto-decision limits**?
-- What's the **max term/amort** for this asset/tier/CR?
-- Is a **down payment** required? How much?
-- Is a **PG** required? Score threshold?
-- Are there any **special rules** (hazmat, bus, seasonal, rental house)?
+Read the case study and pull out these 4 things FIRST. Write them at the top of your answer.
 
-## Step 3: Determine Structure
-- **Lease or loan?** (Check for hazmat, bus, client preference)
-- If lease: **capital or operating?** (Check 4 off-balance sheet criteria)
-- Set **term** within RAC limits
-- Set **down payment** as required
+**A) What INDUSTRY?**
+- Construction, Transport Class 8, Transport Class 1-7, Forestry, Industrial, or other?
+- This determines which section of the RAC applies
 
-## Step 4: Flag Risks + Mitigants
-- Weak financials? → Mitigant: PG, cash down, strong TIB
-- Customer concentration? → Mitigant: Quality of top customers, contracts in place
-- Low FCCR? → Mitigant: Down payment reduces fixed charges, PG support
-- NTR financials? → Mitigant: Bank statements to substantiate
+**B) What CREDIT RATING?**
+- Look at the clues they give you: years in business, credit score, financial strength
+- CR1/CR2 = strong, long history, solid financials
+- CR3 = average, some concerns
+- CR4 = weak, needs heavy mitigants
+- If they give you a credit score: 680+ is generally acceptable. 725+ is strong. Below 680 is a concern
 
-## Step 5: Write Your Answer
-- Lead with recommendation (approve / approve with conditions / decline)
-- List RAC requirements and how the deal meets them
-- Flag concerns WITH mitigants
-- Keep it organized — bullet points are fine
+**C) What ASSET and what TIER?**
+
+For **Construction:**
+| Tier 1 (best terms) | Tier 2 (good terms) | Tier 3 (restricted terms) |
+|---|---|---|
+| Deere, CAT, Volvo, Komatsu, Hitachi, CASE, JCB, Kubota, Bobcat, Liebherr, Genie, JLG | Sany, Hyundai, Kobelco, Doosan, Takeuchi, Skyjack, Vermeer, Wacker Neuson | Liugong, Zoomlion, XCMG, SDLG, Mecalac + anything not in T1/T2 |
+
+For **Transport Class 8:**
+| Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|
+| Kenworth, Peterbilt **(ONLY)** | Western Star, MACK | Volvo, Freightliner, International |
+
+For **Forestry:**
+| Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|
+| John Deere, Komatsu Forest/Valmet, Tigercat, Ponsse | Weiler, TimberPro, Logset, Rottne | Madill, Eltec, Barko + all others |
+
+**D) What DOLLAR AMOUNT?**
+- Write it down — you'll compare this against auto-decision limits next
+
+---
+
+## Step 2: Apply the RAC — Use These Exact Numbers
+
+### If CONSTRUCTION:
+
+**Auto-Decision — Can this deal be auto-approved?**
+
+| CR | Auto-Decision Limit | Your Deal |
+|---|---|---|
+| CR1/CR2 | $375,000 | If deal ≤ $375K → auto-decision possible |
+| CR3 | $200,000 | If deal ≤ $200K → auto-decision possible |
+| CR4 | $0 | **Always goes to analyst** |
+
+If the deal **exceeds** the auto-decision limit → it goes to an analyst for manual review. State this in your answer.
+
+**Max Term/Amortization — How long can the deal be?**
+
+| Equipment | CR1/CR2/CR3 | CR4 |
+|---|---|---|
+| New Tier 1 & 2 | **96 months** | 72 months |
+| New Tier 3 | **84 months** | 60 months |
+| Used equipment | Shorter — subtract from max based on age/hours | |
+
+**Down Payment — How much cash upfront?**
+
+| CR | Down Payment |
+|---|---|
+| CR1/CR2 | First payment only |
+| CR3 | **5-10%** (say "recommend 10%" in your answer) |
+| CR4 | **10-20%** (say "recommend 20%" in your answer) |
+
+**Asset Age — Is the used equipment eligible?**
+
+| Tier | Max Age | Max Hours |
+|---|---|---|
+| T1 & T2 | 15 model years | 15,000 hours |
+| T3 | 10 model years | 10,000 hours |
+
+**Special Rules:**
+- Rental house deals: restricted above $250K, MHCC reps only
+- Seasonal IOP: max 4 months, NOT in first 6 months
+- ZAXIS (Hitachi via Wajax): up to 96mo, subsidized rates for CR3+
+
+---
+
+### If TRANSPORT CLASS 8:
+
+**Auto-Decision:** **NONE.** Every Class 8 deal is manual. State this.
+
+**Hard Rules — Check ALL of these. If any fail, the deal is declined:**
+
+| Rule | Requirement | Does the case study client meet it? |
+|---|---|---|
+| First-time owner/operator | **NOT ELIGIBLE — ever** | If the client has never owned trucks before → DECLINE |
+| Verified homeowner | **REQUIRED** | If not a homeowner → DECLINE |
+| Min years in business | **5 years** | Less than 5 years → DECLINE |
+| Max term | **60 months** | Cannot exceed 60mo |
+
+**Down Payment:**
+
+| CR | Down Payment |
+|---|---|
+| CR1/CR2 | Per credit discretion |
+| CR3 | **10% minimum** |
+| CR4 (QC/Maritimes only) | 10-15% |
+| CR4 (Ontario/West) | **NOT ELIGIBLE for used** |
+
+**Used Equipment Age — Varies by REGION:**
+
+Ontario & West:
+| CR | Max Age | Max KMs |
+|---|---|---|
+| CR1/CR2 | 7 years | 700,000 km |
+| CR3 | 3-year countback | |
+| CR4 | **NOT ELIGIBLE** | |
+
+Quebec & Maritimes:
+| CR | Max Age | Max KMs |
+|---|---|---|
+| CR1/CR2 | 7 years | 700,000 km |
+| CR3 | 3-year countback | |
+| CR4 | 5 years | 600,000 km |
+
+**Term Deduction for Used:** Subtract 12 months per model year OR per 200,000 km (whichever is more restrictive)
+
+**Special Rules:**
+- Hazmat use → MUST be a loan (not lease)
+- Bus → MUST be a loan (not lease)
+- Both require increased insurance
+
+---
+
+### If FORESTRY:
+
+**Auto-Decision:** **$0 — ALWAYS.** Every forestry deal is manual. No analyst exceptions exist.
+
+**Max Term:** **60 months** (target 48-54 for heavy-use 2-shift units)
+
+**Down Payment:**
+
+| CR | Down Payment |
+|---|---|
+| CR1/CR2 | Credit discretion |
+| CR3 | **10-15%** |
+| CR4 | **20%+** with dealer support (ITEC2000 program) |
+
+**CR3 Equipment Restriction:** **Tier 1 and Tier 2 ONLY.** If the asset is Tier 3 and the client is CR3 → **cannot do the deal with that equipment.**
+
+**PG Score Requirements:**
+
+| Deal Size | Min PG Score |
+|---|---|
+| Under $250K | 680+ |
+| $650K-$1M | 725+ |
+| Over $1M | Case-by-case |
+
+**Max Asset Age:** 8 model years, 20,000 total hours
+
+**Seasonal IOP:** Max 2 months (April/May only)
+
+---
+
+### If TRANSPORT CLASS 1-7:
+
+**Auto-Decision:**
+
+| CR | Limit |
+|---|---|
+| CR1/CR2 | $375,000 |
+| CR3 | $200,000 |
+
+**Max Asset Age by Vehicle Type:**
+
+| Type | Max Years | Max KMs |
+|---|---|---|
+| Pickups/Cargo | 8 yrs | 250,000 km |
+| Medium Duty | 10 yrs | 400,000 km |
+| Trailers | 15 yrs | N/A |
+| Dump Trucks | 15 yrs | 500,000 km |
+| Specialized/Vocational | 15 yrs | varies |
+
+**Special Rules:** Buses and Hazmat = LOAN only (not lease)
+
+---
+
+### For ALL Industries — Comparable Credit Check
+
+| Deal Size | Comparable Credit Required |
+|---|---|
+| Under $50K | 50% — client needs proof of managing at least $25K in financing |
+| Under $100K | 75% — needs proof of managing $75K |
+| $100K+ | 100% — needs proof of managing the FULL amount requested |
+
+---
+
+## Step 3: Determine Structure — Be Specific
+
+Don't just say "lease." Say exactly what type and why.
+
+**Decision tree:**
+
+```
+Is the equipment used for HAZMAT or is it a BUS?
+├── YES → MUST be a LOAN. State: "Per RAC policy, hazmat/bus
+│         transactions must be structured as loans due to
+│         liability and insurance requirements."
+│
+└── NO → Does the client want off-balance sheet treatment?
+    ├── YES → OPERATING LEASE (FMV). Check the 4 criteria:
+    │         1. Term < 75% of useful life?
+    │         2. PV of payments < 90% of FMV?
+    │         3. No $1 buyout (FMV purchase option instead)?
+    │         4. No automatic ownership transfer?
+    │         + Residual must be > 20% (MHCCA internal policy)
+    │         ALL 4 must pass → off-balance sheet
+    │
+    └── NO → CAPITAL LEASE ($1 buyout) or LOAN
+              Based on client preference
+```
+
+**State the term:** "Recommend [X] month amortization" — use the max from the RAC table above or shorter if the asset is used.
+
+**State the down payment:** "Recommend [X]% down payment ($[amount])" — use the percentage from the RAC table above.
+
+---
+
+## Step 4: Flag Risks + Mitigants — Be SPECIFIC With Numbers
+
+Don't just say "weak financials." Reference the actual benchmarks.
+
+| Risk You Identify | How to State It | Mitigant to Pair With It |
+|---|---|---|
+| **Net margin < 10%** | "Net profit margin of [X]% is below the 10% benchmark" | "However, EBITDA margin of [Y]% shows operational profitability before interest/depreciation" |
+| **FCCR < 1.0x** | "FCCR of [X]x indicates the client cannot fully cover fixed charges from operations" | "Mitigated by [X]% cash down payment which reduces incremental fixed charges, plus PG support from owner with [score] credit score" |
+| **Current ratio < 1.0x** | "Current ratio of [X]x raises short-term liquidity concerns" | "LOC availability of $[X] provides additional liquidity buffer" or "Refinancing will inject working capital" |
+| **D/E > 3.0x** | "Debt-to-equity of [X]x exceeds the 3.0x benchmark — company is highly leveraged" | "SFD has decreased [X]% YoY, indicating active deleveraging" or "PG from owner with strong PNW" |
+| **Customer concentration** | "Top customer represents [X]% of revenue — loss of this customer would significantly impact cash flow" | "Customer is [large reputable company], relationship is [X] years, contracts are in place through [date]" |
+| **NTR financials** | "Financial statements are NTR (lowest reliability) — key figures should be substantiated" | "Bank statements obtained confirming cash position of $[X]" |
+| **FCCR looks inflated** | "FCCR of [X]x may be inflated as financials do not appear to report CPLTD" | "Adjusted FCCR estimate of [Y]x still above 1.0x threshold" |
+| **New/young business** | "Client has only [X] years in business — limited operating history" | "Owner has [Y] years of prior industry experience at [previous company]. PG score of [Z]" |
+| **High WIP** | "$[X] of revenue ([Y]%) is WIP — not yet invoiced or collected" | "WIP is tied to [reputable customer] on [government/municipal] contract with strong payment history" |
+
+---
+
+## Step 5: Write Your Answer — Follow This Template
+
+Here's exactly how to structure your handwritten case study answer:
+
+---
+
+**RECOMMENDATION:** [Approve / Approve with conditions / Decline]
+
+**DEAL SUMMARY:**
+- Client: [Name], [Industry], [Years in business]
+- Asset: [Description] — **Tier [1/2/3]**
+- Amount: $[X] | Likely CR: [CR rating]
+- Structure: [Lease/Loan], [Term] months, [Down payment]%
+
+**RAC COMPLIANCE:**
+- Auto-decision limit for CR[X] [Industry]: $[amount] → This deal [is within / exceeds] auto-decision → [auto-approved / requires analyst review]
+- Max amort for [Tier] [New/Used] CR[X]: [X] months → Proposed [Y] months is [within/outside] limits
+- Down payment: CR[X] requires [X-Y]% → Recommend [Z]% ($[amount])
+- PG: [Required/Not required] — client score of [X] [meets/doesn't meet] threshold
+- [Any special rules: hazmat, bus, seasonal, rental house, CR3 equipment restrictions]
+
+**KEY STRENGTHS:**
+- [Positive 1 — e.g., "12 years TIB demonstrates proven operational history"]
+- [Positive 2 — e.g., "Tier 1 asset (CAT) provides strong collateral value and resale"]
+- [Positive 3 — e.g., "Existing MHCCA relationship in good standing — $150K lease, no delinquency"]
+
+**KEY CONCERNS + MITIGANTS:**
+- Concern: [Specific concern with numbers] → Mitigant: [Specific mitigant]
+- Concern: [Specific concern with numbers] → Mitigant: [Specific mitigant]
+
+**CONDITIONS (if approve with conditions):**
+- [e.g., "10% down payment ($35,000)"]
+- [e.g., "Personal guarantee from owner"]
+- [e.g., "3 months bank statements to verify cash position"]
+- [e.g., "Confirmation of operating line balance"]
+
+---
+
+## Full Practice Case Study — Work Through This One
+
+**The Scenario:**
+
+> Marc's Excavation Inc. has been in the construction business in Quebec for 9 years. Marc has a credit score of 710. The company wants to finance a **new 2026 Kobelco SK210** excavator for **$280,000**. The company has $6M in revenue, 11% EBITDA margin, FCCR of 1.2x, current ratio of 0.85x, and D/E of 3.2x. Financials are Reviewed (not audited). Marc has an existing $50K lease with MHCCA in good standing.
+
+**Step 1 — Identify the Basics:**
+- Industry: **Construction**
+- Credit Rating: 9 years in business, 710 score, decent financials → likely **CR3**
+- Asset: Kobelco SK210 excavator → **Tier 2** (Kobelco is listed under T2 construction)
+- Dollar Amount: **$280,000**
+
+**Step 2 — Apply the RAC:**
+- Auto-decision for CR3 Construction: **$200,000.** This deal is $280K → **exceeds auto-decision → goes to analyst**
+- Max amort for New T1&T2, CR3: **96 months**
+- Down payment for CR3: **5-10% (recommend 10%)** → 10% of $280K = **$28,000**
+- PG required: Yes. Score 710 → meets the 680+ threshold
+- Total MHCCA exposure: $280K + $50K existing = $330K → under $1M (no org chart needed)
+- No special rules (not hazmat, not bus, not rental house)
+
+**Step 3 — Determine Structure:**
+- Not hazmat/bus → lease is fine
+- Client hasn't requested off-balance sheet → recommend **capital lease ($1 buyout)**
+- Term: recommend **84 months** (within the 96mo max, conservative for CR3)
+- Down payment: **10% ($28,000)**
+- Alternatively could offer FMV lease if client wants off-balance sheet — term would need to be < 75% of useful life
+
+**Step 4 — Risks + Mitigants:**
+- **Current ratio 0.85x** (below 1.0x) → Mitigant: Check LOC availability. 10% down payment reduces the financed amount and monthly obligation
+- **D/E 3.2x** (above 3.0x) → Mitigant: Ask if SFD is trending down. PG from Marc provides additional security
+- **Reviewed financials** → Acceptable (better than NTR). No additional substantiation needed for standard items
+- **FCCR 1.2x** → Positive. Above 1.0x threshold. Client can cover fixed charges. Confirm CPLTD is included in the calculation
+
+**Step 5 — Write the Answer:**
+
+**RECOMMENDATION:** Approve with conditions
+
+**DEAL SUMMARY:**
+- Client: Marc's Excavation Inc., Construction, 9 years TIB, Quebec
+- Asset: 2026 Kobelco SK210 Excavator — **Tier 2**
+- Amount: $280,000 | CR3
+- Structure: Capital lease, 84 months, 10% down
+
+**RAC COMPLIANCE:**
+- Auto-decision for CR3 Construction: $200K → Deal at $280K exceeds limit → requires analyst review
+- Max amort for New T2, CR3: 96 months → Proposed 84 months is within limits
+- Down payment: CR3 requires 5-10% → Recommend 10% ($28,000)
+- PG required: Yes — Marc's score of 710 exceeds the 680 threshold
+- Total exposure: $330K ($280K + $50K existing) — within normal limits
+
+**KEY STRENGTHS:**
+- 9 years TIB — established operator with proven track record
+- Tier 2 asset (Kobelco) — reputable brand with strong resale value
+- EBITDA margin of 11% — above the 10% benchmark, strong operational profitability
+- FCCR of 1.2x — can cover fixed charges from operations
+- Existing MHCCA relationship in good standing ($50K, no delinquency)
+- Revenue of $6M — sizeable business
+
+**KEY CONCERNS + MITIGANTS:**
+- Current ratio of 0.85x is below 1.0x → 10% down payment reduces the monthly obligation. Request LOC details to assess total liquidity picture
+- D/E of 3.2x slightly exceeds 3.0x benchmark → PG from Marc (710 score) provides additional security. Request SFD trend to confirm whether company is deleveraging
+
+**CONDITIONS:**
+- 10% down payment ($28,000)
+- Personal guarantee from Marc
+- Confirmation of operating line availability and balance
+- Reviewed financials are acceptable — no further substantiation required
 
 ---
 
