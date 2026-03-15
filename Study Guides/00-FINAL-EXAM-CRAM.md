@@ -1101,6 +1101,349 @@ Here's exactly how to structure your handwritten case study answer:
 
 ---
 
+## Practice Case Study #2 — TRANSPORT CLASS 8 (The Tricky One)
+
+**The Scenario:**
+
+> Singh Transport Ltd. is based in Brampton, Ontario. The owner, Harpreet Singh, has been operating for 7 years and has a credit score of 695. He is a verified homeowner. He currently owns 12 Class 8 trucks. He wants to finance a **used 2023 Kenworth T680** with 320,000 km on it for **$145,000**. His financials show $3.5M revenue, net profit margin of 7%, FCCR of 1.1x, and D/E of 2.8x. Financials are NTR. He has no existing exposure with MHCCA.
+
+**Step 1 — Identify the Basics:**
+- Industry: **Transport Class 8 OTR**
+- Credit Rating: 7 years TIB, 695 score, owns 12 trucks (experienced operator) → likely **CR2 or CR3** (let's say CR3 to be conservative with the 695 score and NTR financials)
+- Asset: 2023 Kenworth T680 → **Tier 1** (Kenworth is one of ONLY two Tier 1 brands in Class 8)
+- Dollar Amount: **$145,000**
+- Location: **Ontario** (this matters for used asset eligibility)
+
+**Step 2 — Apply the RAC (Class 8 Hard Rules First):**
+
+Check the hard rules BEFORE anything else:
+
+| Hard Rule | Requirement | Harpreet | Pass/Fail |
+|---|---|---|---|
+| First-time owner/operator? | NOT eligible | No — he owns 12 trucks already | **PASS** |
+| Verified homeowner? | REQUIRED | Yes — stated in scenario | **PASS** |
+| Min 5 years in business? | 5 years | 7 years | **PASS** |
+
+All hard rules pass. Proceed.
+
+- Auto-decision: **NONE** for Class 8 — every deal goes to analyst for manual review
+- Max term: **60 months**
+- Used asset age check (Ontario): CR3, 3-year countback rule → 2026 - 3 = must be 2023 or newer → 2023 Kenworth **PASSES**
+- KMs: 320,000 km at funding → within reasonable range
+- Term deduction: 2023 model in 2026 = 3 model years old. Deduct 12 months per model year = -36 months. Max term = 60 - 36 = **24 months max.** This is significant — client may not like a 24-month term
+- Down payment for CR3: **10% minimum** = $14,500
+- Comparable credit: Deal is $145K, which is over $100K → needs **100% comparable credit.** Harpreet owns 12 trucks — he has extensive comparable credit. **PASSES**
+- PG: Required. Score 695 meets the 680+ threshold
+
+**Step 3 — Determine Structure:**
+- Not hazmat, not a bus → lease is acceptable
+- Recommend **capital lease** ($1 buyout) — standard for Class 8
+- Term: **24 months** (max after term deduction for 3-year-old used unit)
+- Down payment: **10% ($14,500)**
+
+**Step 4 — Risks + Mitigants:**
+- **NTR financials** → Lowest reliability. Request 3 months bank statements to substantiate cash position and revenue claims
+- **Net profit margin 7%** → Below the 10% benchmark. However, transport margins are typically thinner. EBITDA should be checked — could be higher once depreciation on the existing 12-truck fleet is added back
+- **FCCR 1.1x** → Just above the 1.0x threshold. Tight but passing. Confirm CPLTD is included — NTR financials may not report it, which could mean the real FCCR is lower
+- **24-month term** → Very short. Monthly payments will be high. Verify the client can handle the cash flow impact. Mitigant: 10% down reduces the financed amount; client has 12 existing trucks generating revenue
+- **No existing MHCCA relationship** → First deal. Mitigant: 7 years TIB with 12 trucks shows proven industry experience
+
+**Step 5 — The Full-Marks Answer (write this verbatim):**
+
+---
+
+**RECOMMENDATION:** Approve with conditions
+
+**DEAL SUMMARY:**
+- Client: Singh Transport Ltd., Transport Class 8 OTR, 7 years TIB, Brampton, Ontario
+- Asset: Used 2023 Kenworth T680 (320,000 km) — **Tier 1**
+- Amount: $145,000 | CR3
+- Structure: Capital lease, 24 months (max after term deduction), 10% down ($14,500)
+
+**RAC COMPLIANCE:**
+- Hard rules: All passed — not a first-time O/O (owns 12 trucks), verified homeowner, 7 years exceeds the 5-year minimum
+- Auto-decision: N/A — all Class 8 deals require manual analyst review regardless of amount
+- Used asset eligibility (Ontario, CR3): 3-year countback rule requires 2023 or newer — this 2023 unit qualifies
+- Term deduction: 3 model years old × 12 months = 36-month deduction. Max term = 60 - 36 = 24 months
+- Down payment: CR3 requires 10% minimum → 10% of $145K = $14,500
+- PG required: Yes — owner score of 695 exceeds the 680 threshold
+- Comparable credit: $145K deal requires 100% CC. Client owns 12 Class 8 trucks — extensive comparable credit confirmed
+
+**KEY STRENGTHS:**
+- 7 years TIB — exceeds the 5-year minimum by 2 years, proven Class 8 operator
+- Tier 1 asset (Kenworth T680) — strongest resale value and collateral quality in Class 8
+- Fleet of 12 trucks demonstrates established, revenue-generating operation
+- Verified homeowner — meets Class 8 requirement
+- FCCR of 1.1x — above the 1.0x minimum, client can cover fixed charges
+- Strong comparable credit — 12 existing trucks show proven ability to manage equipment financing
+
+**KEY CONCERNS + MITIGANTS:**
+- NTR financials (lowest reliability) → Request 3 months bank statements to substantiate revenue and cash position. Consider requesting tax returns for revenue verification
+- Net profit margin of 7% is below the 10% benchmark → Transport margins are typically thinner than other industries due to high fuel and insurance costs. Request EBITDA breakdown — depreciation on 12 trucks likely suppresses net margin while EBITDA may be above 10%
+- FCCR of 1.1x is tight → Confirm CPLTD is included in the NTR calculation. 10% down payment reduces the incremental monthly obligation. PG from Harpreet (695) provides backstop
+- 24-month term results in high monthly payments → Client has 12 revenue-generating trucks supporting cash flow. Verify client's monthly cash flow can absorb approximately $5,500-$6,000/month additional payment
+
+**CONDITIONS:**
+- 10% down payment ($14,500)
+- Personal guarantee from Harpreet Singh
+- 3 months bank statements (to substantiate NTR financial claims)
+- Confirmation of existing fleet financing status (all current, no delinquency)
+
+---
+
+## Practice Case Study #3 — FORESTRY (The Manual One)
+
+**The Scenario:**
+
+> Forêt Boisée Inc. is a forestry operation in northern Quebec. The owner, Jean-Pierre Tremblay, has been in business for 4 years with a credit score of 660. He wants to finance a **new 2026 Tigercat 875** feller buncher for **$620,000**. Revenue is $2.8M, EBITDA margin of 14%, FCCR of 1.4x, current ratio of 1.1x, D/E of 4.1x. The client operates 2-shift cutting operations. His top customer is Resolute Forest Products (a major publicly traded sawmill), which represents 65% of revenue. Financials are NTR. He has no existing MHCCA exposure.
+
+**Step 1 — Identify the Basics:**
+- Industry: **Forestry**
+- Credit Rating: Only 4 years TIB, 660 score (below 680 threshold), high leverage → likely **CR3 or CR4.** The 660 score is concerning — below the 680 minimum for deals under $250K. At $620K, the PG threshold is even higher (725+ for $650K-$1M range). This is a **problem.**
+- Asset: Tigercat 875 feller buncher → **Tier 1** (Tigercat is one of only 4 Tier 1 forestry brands)
+- Dollar Amount: **$620,000**
+
+**Step 2 — Apply the RAC:**
+
+- Auto-decision: **$0 — every forestry deal is manual.** No exceptions. No analyst override authority exists
+- Max term: **60 months.** But this is a 2-shift unit → target **48-54 months** (heavy use wears equipment faster)
+- CR3 equipment check: Tigercat is **Tier 1** → allowed for CR3. If this were a Tier 3 brand, it would be declined for CR3
+- PG score: Deal is $620K. For deals in the $650K-$1M range, the threshold is **725+.** Jean-Pierre's score is **660 — this does NOT meet the threshold.** Even for deals under $250K, the threshold is 680, and he's at 660. His PG score is a **significant issue**
+- Down payment for CR3: **10-15%** → 15% of $620K = **$93,000**
+- Asset age: New equipment → passes (max 8 model years for used)
+- Quebec location → **Bill 96 applies.** Contract must be provided in French first. RDPRM filing in French
+
+**Step 3 — Determine Structure:**
+- Not hazmat/bus → lease is acceptable
+- 2-shift operation → recommend **capital lease, 48 months** (conservative for heavy-use forestry)
+- Down payment: **15% ($93,000)** — higher end of CR3 range given the PG score concern
+- PG is problematic — score of 660 doesn't meet thresholds. This needs to be flagged
+
+**Step 4 — Risks + Mitigants:**
+- **PG score 660 — below thresholds** → This is the biggest risk. Mitigant: Require higher down payment (15%). Explore whether a co-guarantor with a stronger score is available. Could the dealer provide UNL support through ITEC2000?
+- **Only 4 years TIB** → Short operating history for a $620K deal. Mitigant: Jean-Pierre's prior industry experience (if any — the scenario doesn't say). Strong EBITDA margin of 14% shows he knows how to operate profitably
+- **D/E of 4.1x — significantly above 3.0x** → Company is highly leveraged. Mitigant: 15% cash down ($93K) reduces incremental leverage. Ask whether SFD is trending down. PG provides personal backstop
+- **Customer concentration — 65% from Resolute** → Loss of Resolute would be devastating. Mitigant: Resolute Forest Products is a **publicly traded, major Canadian forestry company** — they're not going anywhere. But verify: is there a contract? What's the term? How long has the relationship been?
+- **NTR financials** → Need bank statements to substantiate. Especially important given the PG score concern — want to verify cash position
+- **2-shift operation** → Equipment wears faster. 48-month term (vs 60 max) accounts for this. Tigercat is Tier 1 with strong resale even at high hours
+
+**Step 5 — The Full-Marks Answer (write this verbatim):**
+
+---
+
+**RECOMMENDATION:** Approve with conditions (conditional on PG resolution)
+
+**DEAL SUMMARY:**
+- Client: Forêt Boisée Inc., Forestry, 4 years TIB, Northern Quebec
+- Asset: New 2026 Tigercat 875 Feller Buncher — **Tier 1**
+- Amount: $620,000 | CR3
+- Structure: Capital lease, 48 months, 15% down ($93,000)
+
+**RAC COMPLIANCE:**
+- Auto-decision: $0 for all forestry deals — manual analyst review required. Note: analysts have zero exception authority in forestry
+- Max term: 60 months per RAC. Recommend 48 months due to 2-shift operation — heavy equipment usage accelerates wear and reduces residual value
+- Equipment tier: Tigercat is Tier 1 — eligible for CR3 (CR3 is restricted to Tier 1 & 2 only in forestry)
+- Down payment: CR3 requires 10-15% → Recommend 15% ($93,000) given PG score concern
+- PG score: **660 does not meet the 680+ threshold** (for deals under $250K) or the 725+ threshold (for deals approaching the $650K-$1M range). This is the primary concern and must be addressed as a condition
+- Bill 96: Client is based in Quebec → French-first contract required. RDPRM filing in French
+
+**KEY STRENGTHS:**
+- Tier 1 asset (Tigercat 875) — premium forestry brand with the strongest resale value in the market. Good collateral quality
+- EBITDA margin of 14% — well above the 10% benchmark. Client runs a profitable operation despite being only 4 years in
+- FCCR of 1.4x — comfortably above the 1.0x minimum. Demonstrates ability to cover fixed charges
+- Current ratio of 1.1x — above 1.0x, adequate short-term liquidity
+- Top customer is Resolute Forest Products — publicly traded, major Canadian sawmill operator. High-quality customer with strong payment likelihood
+- Revenue of $2.8M from a 4-year-old operation shows rapid scaling and strong market demand
+
+**KEY CONCERNS + MITIGANTS:**
+- PG score of 660 does not meet required thresholds (680+ for smaller deals, 725+ approaching $650K range) → Require co-guarantor with score above 725, OR explore dealer UNL support through the ITEC2000 program which provides additional risk tolerance for weaker credits. 15% cash down partially offsets the PG weakness
+- Only 4 years TIB — limited operating history for a deal of this size → Jean-Pierre has scaled to $2.8M revenue in 4 years with a 14% EBITDA margin, which demonstrates strong operational capability. Request details on Jean-Pierre's prior industry experience before starting Forêt Boisée
+- D/E of 4.1x is significantly above the 3.0x benchmark → Company is young and capital-intensive (typical in forestry — heavy equipment, high upfront costs). 15% down payment ($93K) reduces incremental leverage. PG (if strengthened) provides additional security. EBITDA of ~$392K (14% of $2.8M) against the $620K ask shows the business generates meaningful cash
+- Customer concentration at 65% from Resolute → Resolute is a publicly traded company (TSX: RFP) and one of the largest forest products companies in North America. While concentration risk exists, the quality of the customer significantly mitigates it. Request: Is there a multi-year cutting contract? How many years has Jean-Pierre supplied Resolute?
+- NTR financials → Request 3 months bank statements to substantiate cash position and revenue claims. Given the PG score issue, bank statements are essential to verify the financial picture
+
+**CONDITIONS:**
+- 15% down payment ($93,000)
+- Personal guarantee from Jean-Pierre Tremblay — **conditional on PG strengthening:** either (a) co-guarantor with score 725+, or (b) dealer UNL support via ITEC2000 program
+- 3 months bank statements to substantiate NTR financial claims
+- Confirmation of Resolute Forest Products relationship — contract details, payment history, term
+- Details on Jean-Pierre's prior forestry experience before founding Forêt Boisée
+- Bill 96 compliance: French-first contract, RDPRM filing in French
+
+---
+
+# PART 13: SAMPLE MULTIPLE CHOICE + SHORT ANSWER (Full-Marks Answers) [!!!]
+
+> These are the types of questions you'll see on the credit and OPS exams. Each answer is written exactly as you'd write it for full marks.
+
+---
+
+## Multiple Choice — Credit Exam Style
+
+**Q1:** A CR3 client in construction wants to finance a new CAT 330 excavator for $180,000. Can this be auto-approved?
+
+a) No — all construction deals require manual review
+b) Yes — $180,000 is within the CR3 auto-decision limit of $200,000
+c) No — CR3 deals are never auto-approved
+d) Yes — $180,000 is within the CR1/CR2 auto-decision limit of $375,000
+
+**Answer: b)** The CR3 auto-decision limit for construction is $200,000. This deal at $180,000 is within that limit, so it can be auto-approved.
+
+---
+
+**Q2:** Which of the following brands is Tier 1 in Transport Class 8?
+
+a) Volvo
+b) Freightliner
+c) Western Star
+d) Kenworth
+
+**Answer: d)** Kenworth and Peterbilt are the ONLY Tier 1 brands in Class 8. Volvo and Freightliner are Tier 3. Western Star is Tier 2.
+
+---
+
+**Q3:** A forestry client with CR3 wants to finance a used Barko processor. Can MHCCA finance this?
+
+a) Yes — with 15% down payment
+b) No — Barko is Tier 3 and CR3 forestry is restricted to Tier 1 & 2 only
+c) Yes — if the dealer provides UNL through ITEC2000
+d) No — all used forestry equipment is ineligible
+
+**Answer: b)** Barko is Tier 3 in forestry. The RAC restricts CR3 forestry deals to Tier 1 and Tier 2 equipment ONLY. Regardless of down payment or dealer support, a Tier 3 asset cannot be financed for a CR3 forestry client.
+
+---
+
+**Q4:** What is the maximum amortization for a new Tier 1 asset in construction for a CR4 client?
+
+a) 96 months
+b) 84 months
+c) 72 months
+d) 60 months
+
+**Answer: c)** For CR4 construction, new Tier 1 & 2 equipment has a max amortization of 72 months. The 96-month max is for CR1/CR2/CR3 only.
+
+---
+
+**Q5:** A client wants to lease a truck that will transport hazardous materials. What structure is required?
+
+a) Capital lease with increased insurance
+b) Operating lease with increased insurance
+c) Loan with increased insurance
+d) Any structure with increased insurance
+
+**Answer: c)** Per RAC policy, all hazmat transactions must be structured as LOANS, not leases. This is because in a lease, MHCCA would own the equipment and face environmental liability exposure. The asset USE (hazmat), not just the asset type, determines the required structure. Increased insurance is also required.
+
+---
+
+**Q6:** For an operating lease to be off-balance sheet, the present value of all lease payments cannot exceed what percentage of the asset's fair market value?
+
+a) 75%
+b) 80%
+c) 90%
+d) 100%
+
+**Answer: c)** 90%. This is Criterion 2 of the 4 off-balance sheet criteria. Additionally, MHCCA's internal policy requires the residual value to be higher than 20%.
+
+---
+
+**Q7:** On a lease deal, the Bill of Sale should be billed to:
+
+a) The client
+b) Mitsubishi HC Capital Canada, Inc
+c) Mitsubishi HC Capital Canada Leasing, Inc
+d) The equipment vendor
+
+**Answer: c)** On a lease, the BOS is billed to Mitsubishi HC Capital Canada **Leasing**, Inc because MHCCA Leasing is the entity purchasing and owning the equipment. On a loan, it would be billed to the client (answer a). Note the distinction between "Leasing, Inc" (leases) and "Canada, Inc" (loans) — these are different legal entities.
+
+---
+
+**Q8:** What comparable credit is required for a $75,000 deal?
+
+a) 50%
+b) 75%
+c) 100%
+d) No comparable credit required
+
+**Answer: b)** 75%. Deals under $50K require 50% CC. Deals under $100K (which includes $75K) require 75% CC. Deals at $100K+ require 100% CC.
+
+---
+
+## Short Answer — 2-Point Questions (Write Exactly This for Full Marks)
+
+**Q1:** What are the four criteria for an operating lease to qualify for off-balance sheet treatment?
+
+**Full-marks answer:**
+
+> For an operating lease to qualify for off-balance sheet treatment, ALL FOUR of the following criteria must be met:
+>
+> 1. The lease term must be less than 75% of the asset's useful economic life
+> 2. The present value of all lease payments cannot exceed 90% of the asset's fair market value
+> 3. There can be no bargain purchase option (no $1 buyout — the purchase option must be at fair market value)
+> 4. There can be no automatic transfer of ownership at the end of the lease term
+>
+> If even one criterion fails, the lease is classified as a capital lease and goes on the client's balance sheet. Additionally, MHCCA's internal policy requires the residual value to be higher than 20% of the equipment value.
+
+---
+
+**Q2:** What are the hard rules for Transport Class 8 OTR deals? List all requirements that must be met.
+
+**Full-marks answer:**
+
+> Class 8 OTR has the following hard rules that must be met for any deal:
+>
+> 1. No auto-decision authority — every Class 8 deal requires manual analyst review regardless of amount
+> 2. First-time owner/operators are NOT eligible — this is a hard rule with no exceptions
+> 3. All borrowers must be verified homeowners
+> 4. Minimum 5 years in business
+> 5. Maximum term is 60 months
+> 6. Only Kenworth and Peterbilt are Tier 1 (Volvo, Freightliner, and International are Tier 3)
+> 7. For used equipment, term deductions apply: subtract 12 months per model year or per 200,000 km, whichever is more restrictive
+> 8. CR4 used equipment in Ontario and Western provinces is NOT eligible (only eligible in Quebec and Maritimes with 10-15% down)
+
+---
+
+**Q3:** What is the difference in insurance requirements between a lease and a loan? Be specific about entity names and designations.
+
+**Full-marks answer:**
+
+> For a LEASE: The insurance must name Mitsubishi HC Capital Canada Leasing, Inc as Additional Insured and Loss Payee, OR alternatively include a 5A Endorsement (SEF 5A) with MHCCA listed as Lessor. This is because MHCCA Leasing owns the equipment in a lease.
+>
+> For a LOAN: The insurance must name Mitsubishi HC Capital Canada, Inc (without "Leasing") as Loss Payee only. No additional insured designation or 5A endorsement is needed. MHCCA has a security interest (lien) but does not own the equipment.
+>
+> Both lease and loan require minimum $2 million liability coverage and a deductible below $25,000.
+>
+> The key distinction is the legal entity: "Leasing, Inc" for leases (MHCCA owns the asset) vs. "Canada, Inc" for loans (client owns the asset, MHCCA holds a lien).
+
+---
+
+**Q4:** Explain the difference between a capital lease and an operating lease from the client's perspective. What is tax deductible under each?
+
+**Full-marks answer:**
+
+> In a capital lease ($1 buyout), the client is effectively purchasing the equipment. The equipment appears as an asset on the client's balance sheet, and the lease obligation appears as a liability. The client records depreciation. The full lease payment (interest + principal) is tax deductible.
+>
+> In an operating lease (FMV), the client is renting the equipment. The equipment stays OFF the client's balance sheet (if the 4 off-balance sheet criteria are met). No depreciation is recorded by the client. The full lease payment is treated as an operating expense and is fully tax deductible.
+>
+> For comparison, on a loan, only the INTEREST portion is tax deductible — the principal repayment is NOT deductible.
+>
+> The key advantage of an operating lease for the client is off-balance sheet treatment (improves debt ratios) and flexibility (return, buy at FMV, or continue payments at end of term). The key advantage of a capital lease is guaranteed ownership at end of term for a nominal $1 buyout.
+
+---
+
+**Q5:** A deal file comes in. The BOS shows the equipment is billed to the client, but the deal is structured as a lease. The insurance names "Mitsubishi HC Capital Canada, Inc" as loss payee. Identify all errors.
+
+**Full-marks answer:**
+
+> There are two errors in this deal file:
+>
+> 1. BOS billing error: On a lease, the BOS must be billed to Mitsubishi HC Capital Canada Leasing, Inc — NOT the client. The client is billed on a loan because they are the purchaser. On a lease, MHCCA Leasing is purchasing the equipment, so the BOS is billed to MHCCA Leasing.
+>
+> 2. Insurance entity error: The insurance names "Mitsubishi HC Capital Canada, Inc" but this is a lease. For leases, the entity must be "Mitsubishi HC Capital Canada LEASING, Inc" — with "Leasing" in the name. Additionally, for a lease, MHCCA should be listed as Additional Insured AND Loss Payee (or have a 5A Endorsement with MHCCA as Lessor). Simply listing as "Loss Payee" alone is the loan designation, not the lease designation.
+>
+> Both errors must be corrected before the deal can proceed. The BOS must be reissued with MHCCL as the billed party, and the insurance certificate must be updated with the correct entity name and designation.
+
+---
+
 # YOU'VE GOT THIS.
 
 ### The Night Before:
