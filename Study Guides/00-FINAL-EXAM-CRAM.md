@@ -9,7 +9,33 @@
 > - Each section starts with a **TL;DR** box so you get the point in 5 seconds
 > - Stars mark priority: **[!!!]** = WILL be on the exam, **[!!]** = Likely on the exam, **[!]** = Good to know
 > - Read it top to bottom once, then use the tables as flashcards
+> - **Jump to any section** using the navigation below
 > - Total read time: ~90 minutes if you focus. Then review the tables.
+
+---
+
+## JUMP TO A SECTION
+
+| # | Section | Priority | What's Inside |
+|---|---------|----------|---------------|
+| [1](#part-1-what-the-exam-looks-like) | **What the Exam Looks Like** | Overview | 3 exam formats, rules, timing |
+| [2](#part-2-the-rac--credit-box-) | **The RAC — Credit Box** | [!!!] | Construction, Transport, Forestry — all the numbers |
+| [3](#part-3-the-4-products-) | **The 4 Products** | [!!] | Capital vs Operating vs Loan, off-balance sheet, 7 business lines |
+| [4](#part-4-sales-) | **Sales** | [!!] | LEAD, 9 objections, combo prospecting |
+| [5](#part-5-ops--document-validation-) | **OPS — Document Validation** | [!!!] | Checklist, 8 exam traps, entity names |
+| [6](#part-6-kyc--fraud-prevention-) | **KYC & Fraud Prevention** | [!!] | Red flags, third-party due diligence |
+| [7](#part-7-operations--compliance-) | **Operations & Compliance** | [!!] | Bill 96, signatories, GAI, transfers |
+| [8](#part-8-financial-analysis-spreads-) | **Financial Analysis (Spreads)** | [!!] | Benchmarks, FCCR, 4Bloc format |
+| [9](#part-9-strategic-concepts-) | **Strategic Concepts** | [!!] | Transformation, FMV strategy, portfolio shift |
+| [10](#part-10-key-people-) | **Key People** | [!] | Leadership names and roles |
+| [11](#part-11-aitc-) | **AITC** | [!] | Atlantic Investment Tax Credit |
+| [12](#part-12-case-study-framework-) | **Case Study Framework** | [!!!] | 5-step method + 3 full worked examples |
+| [13](#part-13-sample-multiple-choice--short-answer-full-marks-answers-) | **Practice Questions** | [!!!] | 8 MC + 5 short answer with full-marks answers |
+
+**Quick links by exam:**
+- **CREDIT EXAM** → [Part 2 (RAC)](#part-2-the-rac--credit-box-) → [Part 3 (Products)](#part-3-the-4-products-) → [Part 8 (Spreads)](#part-8-financial-analysis-spreads-) → [Part 12 (Case Studies)](#part-12-case-study-framework-)
+- **SALES EXAM** → [Part 4 (Sales)](#part-4-sales-) → [Part 9 (Strategy)](#part-9-strategic-concepts-)
+- **OPS EXAM** → [Part 5 (Document Validation)](#part-5-ops--document-validation-) → [Part 6 (KYC)](#part-6-kyc--fraud-prevention-) → [Part 7 (Compliance)](#part-7-operations--compliance-)
 
 ---
 
@@ -281,6 +307,47 @@ Key restricted/prohibited areas:
 
 ---
 
+### QUICK CHECK — RAC (answers below, cover them first)
+
+**Q1:** A CR3 client wants a $250K new CAT excavator (construction). Can it be auto-approved?
+
+<details><summary>Answer</summary>
+
+No. CR3 auto-decision limit for construction is $200K. This $250K deal exceeds it → goes to analyst for manual review.
+</details>
+
+**Q2:** A Transport Class 8 client has been in business for 3 years and owns 5 trucks. Can MHCCA do this deal?
+
+<details><summary>Answer</summary>
+
+No. Class 8 requires minimum 5 years in business. 3 years = hard decline, no exceptions.
+</details>
+
+**Q3:** A CR3 forestry client wants to finance a used Barko harvester. Is this possible?
+
+<details><summary>Answer</summary>
+
+No. Barko is Tier 3 in forestry. CR3 clients are restricted to Tier 1 & 2 equipment only. The deal is declined regardless of down payment or other mitigants.
+</details>
+
+**Q4:** What is the max amortization for a CR4 client buying a new Tier 1 excavator in construction?
+
+<details><summary>Answer</summary>
+
+72 months. CR4 gets 72 months max for Tier 1 & 2 new equipment. (CR1/CR2/CR3 get 96 months.)
+</details>
+
+**Q5:** A used 2022 Kenworth T680 in Ontario with 450,000 km — what's the max term for a CR3 client?
+
+<details><summary>Answer</summary>
+
+2022 model in 2026 = 4 years old → deduct 48 months (4 × 12). Also 450K km → deduct 24 months (2 × 200K = 400K, rounds to 2). Age deduction (48mo) is more restrictive than km deduction (24mo), so use 48. Max term = 60 - 48 = **12 months.** Barely worth doing. Also check: CR3 Ontario uses 3-year countback → must be 2023+. A 2022 unit **fails the 3-year countback** for CR3 Ontario. **DECLINE.**
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 # PART 3: THE 4 PRODUCTS [!!]
 
 > **TL;DR:** Know the 7 business lines, but focus on the 4 you'll use daily: Capital Lease, Operating Lease, Loan, and FMV Lease. Know how they differ.
@@ -343,6 +410,33 @@ For an operating lease to stay OFF the client's balance sheet, **ALL FOUR** must
 
 ---
 
+### QUICK CHECK — Products (cover answers first)
+
+**Q1:** A client wants off-balance sheet treatment. What type of lease do you recommend, and what 4 criteria must be met?
+
+<details><summary>Answer</summary>
+
+Operating lease (FMV). The 4 criteria: (1) Term < 75% useful life, (2) PV of payments < 90% FMV, (3) No bargain purchase option, (4) No automatic ownership transfer. All 4 must pass. Plus MHCCA's internal 20% residual rule.
+</details>
+
+**Q2:** On a loan, what is tax deductible — the full payment or just the interest?
+
+<details><summary>Answer</summary>
+
+**Interest only.** On a loan, only the interest portion is tax deductible. The principal repayment is NOT deductible. (On both capital and operating leases, the full payment is deductible.)
+</details>
+
+**Q3:** A client asks about Inventory Finance. What's the advance rate and key speed benefit?
+
+<details><summary>Answer</summary>
+
+100% advance (floorplan) with **24-hour funding**. Minimum $500K line.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 # PART 4: SALES [!!]
 
 > **TL;DR:** The sales exam tests if you can sit in front of a client and have a smart conversation. Know LEAD, know the objection scripts, know which products to recommend.
@@ -398,6 +492,33 @@ Every objection follows: **Acknowledge → Reframe → Close for meeting**
 | Pipeline multiple | **3 - 5x** your target |
 
 **The "Triple"** = Phone call + Voicemail + Email — all within the same 2-minute window.
+
+---
+
+### QUICK CHECK — Sales (cover answers first)
+
+**Q1:** What does LEAD stand for?
+
+<details><summary>Answer</summary>
+
+**L**egitimize, **E**xplore, **A**ccentuate, **D**ecide.
+</details>
+
+**Q2:** A prospect says "I already have a finance company." What's your response?
+
+<details><summary>Answer</summary>
+
+"I wouldn't expect you to only have one — diversify your options." Acknowledge, reframe as an advantage, close for a meeting.
+</details>
+
+**Q3:** What is the "Triple" in combo prospecting?
+
+<details><summary>Answer</summary>
+
+Phone call + Voicemail + Email — all within the same 2-minute window. Target 30 calls/day, best time is 7:45-8:45 a.m.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
 
 ---
 
@@ -483,6 +604,40 @@ These are the trick questions. Read each one twice.
 
 ---
 
+### QUICK CHECK — OPS (cover answers first)
+
+**Q1:** A deal comes in structured as a lease. The BOS is billed to the client and the insurance names "Mitsubishi HC Capital Canada, Inc" as loss payee. How many errors are there?
+
+<details><summary>Answer</summary>
+
+**Two errors.** (1) BOS on a lease must be billed to Mitsubishi HC Capital Canada **Leasing**, Inc — not the client. (2) Insurance on a lease must name "Leasing, Inc" (not "Canada, Inc") and must be Additional Insured + Loss Payee (or 5A Endorsement), not just Loss Payee.
+</details>
+
+**Q2:** Can you accept a handwritten PAD form instead of a void cheque?
+
+<details><summary>Answer</summary>
+
+**No.** Must be an actual void cheque — a handwritten PAD form is NOT acceptable.
+</details>
+
+**Q3:** A client's existing exposure is $2.7M and they're submitting a new deal for $400K. Does anything special happen?
+
+<details><summary>Answer</summary>
+
+Yes. Total exposure = $2.7M + $400K = $3.1M. That exceeds the **$3M threshold**, so the documentation must go to **Legal** for review.
+</details>
+
+**Q4:** A hazmat tanker truck — should this be a lease or a loan?
+
+<details><summary>Answer</summary>
+
+**LOAN. Always.** Hazmat use = must be a loan, not a lease. It's the USE (hazmat) that determines the structure, not the asset type. Also requires increased insurance.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 ## [!!] Ship-To Address = Tax Jurisdiction
 
 The ship-to address on the BOS determines **which province's taxes apply.** Wrong address = wrong taxes = compliance failure.
@@ -535,6 +690,19 @@ Before accepting deals from a vendor or broker:
 - Check the **blocked vendor/broker list** — if blocked, deal is rejected
 - Confirm no history of **fraud or compliance violations**
 - **Always check blocked lists before submitting any deal**
+
+---
+
+### QUICK CHECK — KYC (cover answers first)
+
+**Q1:** A new client with no track record submits a $500K deal and is rushing you to close. They won't provide certain documents. How many red flags is this?
+
+<details><summary>Answer</summary>
+
+**Three red flags:** (1) New business + large request, (2) Rush to close, (3) Won't provide documents. Any one of these should trigger heightened due diligence. All three together = major concern.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
 
 ---
 
@@ -623,6 +791,33 @@ Before accepting deals from a vendor or broker:
 
 ---
 
+### QUICK CHECK — Compliance (cover answers first)
+
+**Q1:** A deal involves a client in Ontario but the equipment will be plated in Quebec. Does Bill 96 apply?
+
+<details><summary>Answer</summary>
+
+**Yes.** Bill 96 applies if ANY of the 4 triggers are met. "Equipment used or plated in Quebec" is trigger #3. French-first contract required, RDPRM filed in French.
+</details>
+
+**Q2:** A limited partnership wants to sign a lease. The limited partner (commanditaire) offers to sign. Is this acceptable?
+
+<details><summary>Answer</summary>
+
+**No.** In a limited partnership, only the **general partner** can sign. Limited partners (commanditaires) CANNOT sign — this is a classic exam trap.
+</details>
+
+**Q3:** What are the 4 requirements for GAI insurance eligibility?
+
+<details><summary>Answer</summary>
+
+(1) Not an assignment, (2) Deal under $1 million, (3) Term 12-84 months, (4) 100% covered assets (non-plated, no excluded categories). All 4 must be met.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 # PART 8: FINANCIAL ANALYSIS (SPREADS) [!!]
 
 > **TL;DR:** For the credit case studies — know the benchmarks and what to look for.
@@ -664,6 +859,33 @@ Before accepting deals from a vendor or broker:
 | **Top Right: Key Considerations** | Commercial experience, TIB, top customers, contracts, risks + MITIGANTS |
 | **Bottom Left: Financial Analysis** | Revenue, margins, FCCR, liquidity, leverage |
 | **Bottom Right: Proposed Structure** | Deal terms, conditions, covenants |
+
+---
+
+### QUICK CHECK — Spreads (cover answers first)
+
+**Q1:** A client's FCCR is 0.9x. What does this tell you, and what mitigants would you pair with it?
+
+<details><summary>Answer</summary>
+
+FCCR below 1.0x means the client **cannot fully cover fixed charges from operations**. Mitigants: require a higher down payment (reduces incremental fixed charges), require PG from owner, request LOC details for liquidity buffer. Also check — are the financials NTR? FCCR may be inflated if CPLTD isn't reported.
+</details>
+
+**Q2:** What are the 4 quadrants of the 4Bloc format?
+
+<details><summary>Answer</summary>
+
+Top Left = Company & Situation. Top Right = Key Considerations (risks + mitigants). Bottom Left = Financial Analysis. Bottom Right = Proposed Structure.
+</details>
+
+**Q3:** The financials are NTR. What's your concern and what do you request?
+
+<details><summary>Answer</summary>
+
+NTR = lowest reliability. Substantiate with **bank statements** and **tax returns**. Especially important to verify FCCR — NTR statements often don't report CPLTD, which can inflate the FCCR.
+</details>
+
+[↑ Back to top](#jump-to-a-section)
 
 ---
 
@@ -719,6 +941,33 @@ Why it matters: Improves ROA without growing the denominator (assets).
 
 ---
 
+### QUICK CHECK — Strategy (cover answers first)
+
+**Q1:** Why is MHCCA shifting away from Transport HD and growing Construction?
+
+<details><summary>Answer</summary>
+
+Transport HD was 43% of the portfolio — too concentrated and high-risk. MHCCA is cutting it to 19% and growing Construction (to 38%) and Diversified (to 23%) for better risk diversification and higher margins.
+</details>
+
+**Q2:** Why are FMV leases more profitable for MHCCA than capital leases?
+
+<details><summary>Answer</summary>
+
+(1) Higher implicit yields — rate is embedded, less price competition. (2) Off-balance sheet for clients — major selling point. (3) Evergreen potential — client keeps paying after term on fully depreciated asset = near-100% margin. (4) Remarketing upside — MHCCA sells returned equipment for more than the conservative residual.
+</details>
+
+**Q3:** What is "service-based income" and why does it matter?
+
+<details><summary>Answer</summary>
+
+Revenue MHCCA earns without adding assets to its balance sheet — portfolio servicing, consulting, private label programs, technology/credit scoring. It improves ROA because it grows revenue (numerator) without growing assets (denominator).
+</details>
+
+[↑ Back to top](#jump-to-a-section)
+
+---
+
 # PART 10: KEY PEOPLE [!]
 
 | Name | Role |
@@ -744,6 +993,8 @@ Why it matters: Improves ROA without growing the denominator (assets).
 | Min lease term | 24 months |
 | 7 qualifying industries | Farm, Fish, Log, Manufacture, Grain, Peat, Energy |
 | Documentation fee | $750 |
+
+[↑ Back to top](#jump-to-a-section)
 
 ---
 
@@ -1270,6 +1521,8 @@ All hard rules pass. Proceed.
 - Details on Jean-Pierre's prior forestry experience before founding Forêt Boisée
 - Bill 96 compliance: French-first contract, RDPRM filing in French
 
+[↑ Back to top](#jump-to-a-section)
+
 ---
 
 # PART 13: SAMPLE MULTIPLE CHOICE + SHORT ANSWER (Full-Marks Answers) [!!!]
@@ -1458,6 +1711,10 @@ d) No comparable credit required
 - On case studies: follow the 5-step framework above
 - On OPS trick questions: ask yourself **"What does the POLICY say?"** not "What do we actually do?"
 - **Write clearly** — they're reading your handwriting
+
+---
+
+[↑ Back to top](#jump-to-a-section)
 
 ---
 
