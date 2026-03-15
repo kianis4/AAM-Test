@@ -8,7 +8,9 @@
 
 **Go to the [Study Guides Hub](Study%20Guides/README.md)** — that's where everything is organized, indexed, and linked.
 
-**NEW: [Master "What You Need To Know" Checklist](Study%20Guides/00-Master-What-You-Need-To-Know.md)** — Every process, situation, and concept on ONE page. Start here.
+**[FINAL EXAM CRAM](Study%20Guides/00-FINAL-EXAM-CRAM.md)** — Everything from all 23 guides in ONE document. RAC numbers, OPS checklist, products, sales, case study framework. ADHD-friendly. ~90 min read. **Start here.**
+
+**[Master Checklist](Study%20Guides/00-Master-What-You-Need-To-Know.md)** — Every process, concept, and number on ONE page with checkboxes.
 
 ---
 

@@ -69,9 +69,11 @@ AAM-Test/
 
 ---
 
-## START HERE: Master Checklist
+## START HERE
 
-**[00 - Master "What You Need To Know"](00-Master-What-You-Need-To-Know.md)** — Every process, situation, concept, number, person, email, and form across all 20 guides on ONE page. Scan this first, study the individual guides second. Checkboxes, tables, cross-guide connections, zero fluff.
+**[00 - FINAL EXAM CRAM](00-FINAL-EXAM-CRAM.md)** — **THE ONE GUIDE TO RULE THEM ALL.** Everything from all 23 guides condensed into one top-to-bottom study document. RAC numbers, OPS checklist, product comparison, sales framework, case study approach, all benchmarks, all traps, all key tables. ADHD-friendly: TL;DR boxes, priority stars [!!!]/[!!/[!], visual tables, zero fluff. ~90 minute read. **Start here the night before the exam.**
+
+**[00 - Master "What You Need To Know"](00-Master-What-You-Need-To-Know.md)** — Every process, situation, concept, number, person, email, and form on ONE page with checkboxes.
 
 ---
 
