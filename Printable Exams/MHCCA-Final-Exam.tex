@@ -1,0 +1,1139 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{lastpage}
+\usepackage{multirow}
+\usepackage{colortbl}
+\usepackage{tcolorbox}
+
+% ============================================================
+% TOGGLE: Set to true for SOLUTIONS version, false for EXAM
+% ============================================================
+\newif\ifshowsolutions
+\showsolutionsfalse  % <-- Change to \showsolutionstrue for answer key
+
+% ============================================================
+% Page setup
+% ============================================================
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+\lhead{\small\textbf{MHCCA Associate Assessment --- Practice Examination}}
+\rhead{\small\ifshowsolutions\textcolor{red}{\textbf{ANSWER KEY --- CONFIDENTIAL}}\else Page \thepage\ of \pageref{LastPage}\fi}
+\lfoot{\small\textit{Mitsubishi HC Capital Canada --- Confidential}}
+\rfoot{\small\ifshowsolutions\textcolor{red}{SOLUTIONS}\else\thepage/\pageref{LastPage}\fi}
+
+% ============================================================
+% Colors and styles
+% ============================================================
+\definecolor{mhcblue}{RGB}{0,51,102}
+\definecolor{mhcgray}{RGB}{128,128,128}
+\definecolor{lightgray}{RGB}{240,240,240}
+\definecolor{answergreen}{RGB}{0,100,0}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{mhcblue}}{\thesection}{0.5em}{}[\vspace{-0.5em}\rule{\textwidth}{0.4pt}]
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+% Answer environment
+\newcommand{\answer}[1]{%
+  \ifshowsolutions
+    \begin{tcolorbox}[colback=green!5!white, colframe=answergreen, title={\small\textbf{Answer}}, fonttitle=\color{white}, coltitle=white, colbacktitle=answergreen, boxrule=0.5pt, arc=2pt, left=4pt, right=4pt, top=2pt, bottom=2pt]
+    {\small #1}
+    \end{tcolorbox}
+  \fi
+}
+
+% Answer lines for written responses
+\newcommand{\answerlines}[1]{%
+  \ifshowsolutions\else
+    \vspace{0.3em}
+    \foreach \i in {1,...,#1} {\noindent\rule{\textwidth}{0.3pt}\vspace{0.4em}}
+    \vspace{0.3em}
+  \fi
+}
+
+% MC option with circle
+\newcommand{\mc}[2]{\item[#1)] #2}
+
+\begin{document}
+
+% ============================================================
+% COVER PAGE
+% ============================================================
+\thispagestyle{empty}
+\begin{center}
+
+\vspace*{0.3cm}
+
+\rule{\textwidth}{2pt}
+
+\vspace{0.5cm}
+
+{\Huge\bfseries\color{mhcblue} MHCCA}
+
+\vspace{0.2cm}
+
+{\Large\color{mhcblue} Mitsubishi HC Capital Canada}
+
+\vspace{0.5cm}
+
+\rule{\textwidth}{1pt}
+
+\vspace{0.5cm}
+
+{\LARGE\bfseries Associate Assessment}
+
+\vspace{0.2cm}
+
+{\LARGE\bfseries Practice Examination}
+
+\ifshowsolutions
+\vspace{0.3cm}
+{\LARGE\bfseries\color{red} --- ANSWER KEY ---}
+\fi
+
+\vspace{0.7cm}
+
+\begin{tabular}{|p{3.5cm}|p{8cm}|}
+\hline
+\rowcolor{lightgray} \textbf{Candidate Name} & \hspace{7cm}~ \\[0.3cm]
+\hline
+\rowcolor{lightgray} \textbf{Date} & \hspace{7cm}~ \\[0.3cm]
+\hline
+\rowcolor{lightgray} \textbf{Location} & \hspace{7cm}~ \\[0.3cm]
+\hline
+\end{tabular}
+
+\vspace{0.7cm}
+
+\begin{tcolorbox}[colback=lightgray, colframe=mhcblue, boxrule=1pt, arc=3pt, width=0.9\textwidth]
+\begin{center}
+\textbf{EXAMINATION INSTRUCTIONS}
+\end{center}
+\begin{enumerate}[leftmargin=1.5em, itemsep=0.1em]
+\item This examination consists of \textbf{three sections}: Credit, Sales, and Operations.
+\item Total time allowed: \textbf{4 hours}. Budget your time carefully.
+\item \textbf{No electronic devices}, study notes, or reference materials permitted.
+\item Write your answers clearly in the spaces provided or on the answer sheet.
+\item For multiple choice: circle or clearly mark \textbf{one} answer per question.
+\item For short answer: be concise but complete. Include specific numbers from the RAC where applicable.
+\item For case studies: show your reasoning step by step. Partial marks are awarded.
+\item Read each question carefully before answering.
+\end{enumerate}
+\end{tcolorbox}
+
+\vspace{0.7cm}
+
+\begin{tabular}{|l|c|c|c|}
+\hline
+\rowcolor{mhcblue} \textcolor{white}{\textbf{Section}} & \textcolor{white}{\textbf{Questions}} & \textcolor{white}{\textbf{Points}} & \textcolor{white}{\textbf{Score}} \\
+\hline
+\textbf{Section 1: Credit Exam} & 30 & 70 & \hspace{1.5cm}/70 \\
+\hline
+\textbf{Section 2: Sales Exam} & 22 & 56 & \hspace{1.5cm}/56 \\
+\hline
+\textbf{Section 3: Operations Exam} & 28 & 74 & \hspace{1.5cm}/74 \\
+\hline
+\rowcolor{lightgray} \textbf{TOTAL} & \textbf{80} & \textbf{200} & \hspace{1.5cm}\textbf{/200} \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+{\small\textit{Passing score: 70\% per section and 70\% overall.}}
+
+\end{center}
+
+\newpage
+
+% ============================================================
+% SECTION 1: CREDIT EXAM
+% ============================================================
+\section*{\color{mhcblue} SECTION 1: CREDIT EXAMINATION}
+\addcontentsline{toc}{section}{Section 1: Credit Examination}
+
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part A: Multiple Choice} --- 20 questions, 1 point each. Circle the best answer.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+% ---- CREDIT MC ----
+
+\noindent\textbf{1.}\quad What is the auto-decision limit for a CR1/CR2 Construction deal?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item \$200,000
+\item \$250,000
+\item \$375,000
+\item \$500,000
+\end{enumerate}
+\answer{C) \$375,000. CR3 = \$200K, CR4 = \$0.}
+
+\vspace{0.5em}
+
+\noindent\textbf{2.}\quad In Transport Class~8 OTR, which brands are Tier~1?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Kenworth, Peterbilt, Volvo
+\item Kenworth, Peterbilt
+\item Kenworth, Peterbilt, Western Star, MACK
+\item Volvo, Freightliner, International
+\end{enumerate}
+\answer{B) Kenworth and Peterbilt ONLY. Volvo is Tier~3 in Class~8 (but Tier~1 in Construction).}
+
+\vspace{0.5em}
+
+\noindent\textbf{3.}\quad A first-time owner-operator applies for Class~8 OTR financing. What is the decision?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Approve with additional down payment
+\item Approve with PG only
+\item Refer to manager for exception
+\item Hard decline --- no exceptions
+\end{enumerate}
+\answer{D) Hard decline --- no exceptions. First-time owner/operators are NEVER financed in Class~8.}
+
+\vspace{0.5em}
+
+\noindent\textbf{4.}\quad What is the maximum amortization for a NEW Tier~3 excavator for a CR2 customer in Construction?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 96 months
+\item 84 months
+\item 72 months
+\item 60 months
+\end{enumerate}
+\answer{B) 84 months. Tier~1/2 new = 96 months, Tier~3 = 12 months less = 84 months.}
+
+\vspace{0.5em}
+
+\noindent\textbf{5.}\quad The comparable credit requirement for a \$75,000 deal is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 50\%
+\item 75\%
+\item 100\%
+\item No comparable credit required
+\end{enumerate}
+\answer{B) 75\%. Thresholds: $<$\$50K = 50\%, $<$\$100K = 75\%, $\geq$\$100K = 100\%.}
+
+\vspace{0.5em}
+
+\noindent\textbf{6.}\quad Which 4 segments have ZERO analyst exception authority?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Forestry, Class~8 OTR, SDG-Energy, Hospitality
+\item Forestry, Agriculture, MUSH, Hospitality
+\item Class~8 OTR, Technology, Healthcare, SDG-Energy
+\item Forestry, Class~8 OTR, Construction, Agriculture
+\end{enumerate}
+\answer{A) Forestry, Class~8 OTR, SDG-Energy, and Hospitality. All require Next Level Approval Authority.}
+
+\vspace{0.5em}
+
+\noindent\textbf{7.}\quad What is the maximum amortization for Forestry?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 96 months
+\item 84 months
+\item 72 months
+\item 60 months
+\end{enumerate}
+\answer{D) 60 months. One of the most restricted segments: \$0 auto-decision, zero analyst exceptions.}
+
+\vspace{0.5em}
+
+\noindent\textbf{8.}\quad What is the auto-decision limit for ALL Agriculture deals?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item \$375,000
+\item \$200,000
+\item \$100,000
+\item \$0
+\end{enumerate}
+\answer{D) \$0 --- all Agriculture deals are manual. Exception: tractors follow Construction rules.}
+
+\vspace{0.5em}
+
+\noindent\textbf{9.}\quad What is the maximum amortization for Agriculture Tier~1 self-propelled (SP) NEW equipment?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 96 months
+\item 120 months
+\item 150 months
+\item 180 months
+\end{enumerate}
+\answer{D) 180 months (15 years). The longest amortization in the entire RAC.}
+
+\vspace{0.5em}
+
+\noindent\textbf{10.}\quad A CR4 customer in Toronto wants used Class~8 equipment. A CR4 customer in Montreal wants the same. What happens?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Both approved with conditions
+\item Both declined
+\item Toronto declined, Montreal possible with conditions
+\item Toronto approved, Montreal declined
+\end{enumerate}
+\answer{C) Toronto (Ontario/West) = NOT ELIGIBLE. Montreal (Quebec/Maritimes) = allowed with 3-year countback, 10--15\% down, verified homeowner, 5-year TIB.}
+
+\vspace{0.5em}
+
+\noindent\textbf{11.}\quad MUSH stands for:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Mining, Utilities, Services, Healthcare
+\item Municipalities, Universities, Schools, Hospitals
+\item Manufacturing, Utilities, Shipping, Healthcare
+\item Municipalities, Unions, Schools, Housing
+\end{enumerate}
+\answer{B) Municipalities, Universities, Schools, and Hospitals. \$0 auto-decision, max amort 96 months, max term 72 months.}
+
+\vspace{0.5em}
+
+\noindent\textbf{12.}\quad What is the FCCR benchmark minimum?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 0.5x
+\item 0.75x
+\item 1.0x
+\item 1.25x
+\end{enumerate}
+\answer{C) 1.0x. Fixed Charge Coverage Ratio must be at least 1.0x --- the company must cover all fixed obligations.}
+
+\vspace{0.5em}
+
+\noindent\textbf{13.}\quad What is the difference between Equity and Tangible Net Worth (TNW)?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item They are the same thing
+\item TNW = Equity + Intangible Assets
+\item TNW = Equity $-$ Intangible Assets
+\item TNW = Total Assets $-$ Intangible Assets
+\end{enumerate}
+\answer{C) TNW = Equity $-$ Intangible Assets. Credit analysts prefer TNW because intangibles can't be liquidated.}
+
+\vspace{0.5em}
+
+\noindent\textbf{14.}\quad Which of the following is ABSOLUTELY PROHIBITED?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Hospitality equipment
+\item Cannabis-related transactions
+\item Used Class~8 in Quebec
+\item Forestry equipment over \$1MM
+\end{enumerate}
+\answer{B) Cannabis is absolutely prohibited, along with crypto, weapons, gambling, O\&G $>$\$1MM USD, and personal use.}
+
+\vspace{0.5em}
+
+\noindent\textbf{15.}\quad The soft cost limit in the RAC is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Less than 5\% of equipment cost
+\item Less than 10\% of equipment cost
+\item Less than 15\% of equipment cost
+\item Less than 20\% of equipment cost
+\end{enumerate}
+\answer{B) Less than 10\%. GPS, warranties, delivery, and installation all count as soft costs.}
+
+\vspace{0.5em}
+
+\noindent\textbf{16.}\quad The AITC provides what percentage credit on qualifying equipment?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 5\%
+\item 10\%
+\item 15\%
+\item 20\%
+\end{enumerate}
+\answer{B) 10\%. Atlantic Investment Tax Credit: 10\%, min 24-month lease, 5 eligible regions, 7 qualifying industries.}
+
+\vspace{0.5em}
+
+\noindent\textbf{17.}\quad What 4 off-balance-sheet criteria must an operating lease meet?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Term $<$75\% useful life, no title transfer, no bargain purchase option, PV $<$90\% FMV
+\item Term $<$60\% useful life, no title transfer, no fixed price option, PV $<$80\% FMV
+\item Term $<$75\% useful life, title transfer, bargain purchase option, PV $<$90\% FMV
+\item Term $<$50\% useful life, no title transfer, no bargain purchase option, PV $<$90\% FMV
+\end{enumerate}
+\answer{A) All 4 must be true: (1) Term $<$75\% useful life, (2) No title transfer, (3) No bargain purchase option, (4) PV of payments $<$90\% of FMV.}
+
+\vspace{0.5em}
+
+\noindent\textbf{18.}\quad At what deal threshold does a transaction get referred to Legal?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item \$1MM
+\item \$2MM
+\item \$3MM
+\item \$5MM
+\end{enumerate}
+\answer{C) \$3MM. At \$1MM+, org chart and AR/AP aging are required (different threshold).}
+
+\vspace{0.5em}
+
+\noindent\textbf{19.}\quad The D/E (Debt-to-Equity) benchmark is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Under 1x
+\item Under 2x
+\item Under 3x
+\item Under 5x
+\end{enumerate}
+\answer{C) Under 3x. SFD/EBITDA should be under 3.5x.}
+
+\vspace{0.5em}
+
+\noindent\textbf{20.}\quad Rental house/DORF deals have which restriction regarding brokers?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Brokers can submit up to \$250K
+\item Brokers can submit with manager approval
+\item No broker rental house transactions permitted at all
+\item Brokers need 5 years of history with MHCCA
+\end{enumerate}
+\answer{C) No broker rental house transactions permitted at all. Broker + rental house = automatic decline.}
+
+% ---- CREDIT SHORT ANSWER ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part B: Short Answer} --- 5 questions, 4 points each. Answer concisely with specific numbers.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{21.}\quad Compare and contrast the Construction and Forestry RAC segments. Name at least 5 key differences.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{
+\begin{tabular}{lll}
+\toprule
+\textbf{Feature} & \textbf{Construction} & \textbf{Forestry} \\
+\midrule
+Auto-decision CR1/CR2 & \$375,000 & \$0 (all manual) \\
+Max amort (new T1/T2) & 96 months & 60 months \\
+Analyst exception & Yes (CR1/CR2) & ZERO \\
+Max asset age & 15 yrs / 15,000 hrs & 8 yrs / 20,000 hrs \\
+IOP & 4 months, not first 6 & 2 months (Apr/May) \\
+PG threshold & Standard 650+ & 680+ / 725+ \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+
+\noindent\textbf{22.}\quad Explain ROA (Return on Assets). Why does Siraaj say it matters more than volume? Give a numerical example.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{ROA = Net Income $\div$ Total Assets. Example: Company A has \$3B assets and \$30M income = 1.0\% ROA. Company B has \$2B assets and \$40M income = 2.0\% ROA. Company B is better --- smaller book, more profit per dollar. MHCCA improves ROA by: (1) higher-yield products (FMV, ABL, private credit) and (2) service-based income that doesn't grow the balance sheet.}
+
+\vspace{0.5em}
+
+\noindent\textbf{23.}\quad Name ALL the absolutely prohibited transaction types that MHCCA will not finance.\hfill\textit{(4 marks)}
+
+\answerlines{8}
+
+\answer{(1) Weapons, (2) Organized crime, (3) Oil \& Gas $>$\$1MM USD, (4) Cryptocurrency, (5) Cannabis, (6) Gaming/gambling, (7) Usury/money laundering/piracy, (8) Obscene materials, (9) Consumer/personal use, (10) Equipment outside Canada.}
+
+\vspace{0.5em}
+
+\noindent\textbf{24.}\quad Explain the financial statement requirements as exposure increases from \$50K to over \$1MM.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{Under \$50K: app only. \$50K--\$250K: app + CC + PG if needed. \$250K--\$500K: FS start being required. \$500K--\$1MM: full FS (3 years accountant-prepared + interim), bank statements. Over \$1MM: Structured Credit Application --- BTA rating, 4Bloc spreads, AR/AP aging, org chart, borrowing base, projections. \$3MM+: goes to Legal.}
+
+\vspace{0.5em}
+
+\noindent\textbf{25.}\quad Why does MHCCA strategically prefer FMV leases over FPO leases? Give at least 4 reasons.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{(1) Higher implicit yields --- more total return despite lower monthly payments. (2) Off-balance-sheet for clients (4 criteria). (3) Equipment remarketing upside --- conservative residuals create profit at lease end. (4) Evergreen potential --- fully depreciated asset generates pure profit on month-to-month. (5) Improves ROA.}
+
+% ---- CREDIT CASE STUDIES ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part C: Case Studies} --- 5 scenarios, 6 points each. Show your reasoning step by step.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{26.}\quad\textbf{Case Study --- The Tier~3 Problem}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+\textbf{Client:} ABC Excavation Inc., 8 years in business, CR2 \\
+\textbf{Request:} Finance a new XCMG XE370 excavator for \$280,000, 96-month term \\
+\textbf{Details:} \$300K comparable credit, PG score 710
+\end{tcolorbox}
+
+Apply the RAC. Can this deal be approved as requested? If not, what changes are needed?
+
+\answerlines{14}
+
+\answer{Segment: Construction. XCMG = Tier~3. Auto-decision: CR2 \$375K $>$ \$280K = can auto-approve. \textbf{Problem:} Tier~3 new max amort = 84 months, NOT 96. Must reduce to 84 months. Down payment: CR2 = first payment only. CC: \$300K $\geq$ \$280K (100\% required). PG: 710 $>$ 650 minimum. \textbf{Decision:} Approve at 84 months max. Inform client the Tier~3 equipment limits the term.}
+
+\vspace{0.5em}
+
+\noindent\textbf{27.}\quad\textbf{Case Study --- The Class~8 Decline}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+\textbf{Client:} Joe's Trucking, sole proprietorship, 3 years in business, CR3 \\
+\textbf{Request:} Finance a new Kenworth T680 for \$185,000 \\
+\textbf{Details:} First truck purchase --- been driving for other companies 10 years. PG 720. Rents his home.
+\end{tcolorbox}
+
+Is this deal approvable? Explain every reason.
+
+\answerlines{14}
+
+\answer{\textbf{DECLINE --- 3 fatal issues:} (1) First-time owner/operator = HARD DECLINE, no exceptions at any level. (2) 3 years TIB, Class~8 requires minimum 5 years. (3) Renter --- Class~8 requires ALL borrowers be verified homeowners. Each is independently fatal. Suggest TAM program or building business history.}
+
+\vspace{0.5em}
+
+\noindent\textbf{28.}\quad\textbf{Case Study --- The Forestry Hard Case}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+\textbf{Client:} Northern Logging Co., 4 years in business, CR3 \\
+\textbf{Request:} Finance a used 2021 Tigercat 875 log loader for \$450,000 \\
+\textbf{Details:} PG score 695, \$200K comparable credit, good revenue but thin margins
+\end{tcolorbox}
+
+Identify every issue with this deal.
+
+\answerlines{14}
+
+\answer{All manual (\$0 auto). CC gap: needs \$450K (100\%), has \$200K = \$250K short. PG 695 meets 680+ baseline but thin for this size. Max amort 60mo, used deductions apply. Tigercat = T1 (OK for CR3). ZERO analyst exceptions --- needs Next Level Approval. Full FS required at \$450K. Thin margins need FCCR/leverage verification. Difficult but not automatic decline --- requires significant mitigants.}
+
+\vspace{0.5em}
+
+\noindent\textbf{29.}\quad\textbf{Case Study --- The Agriculture Crossover}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+\textbf{Client:} Prairie Farms Ltd., 12 years in business, CR1 \\
+\textbf{Request:} New John Deere 9R tractor (\$625K) + new Deere X9 combine (\$750K) = \$1,375,000 total \\
+\textbf{Details:} Excellent financials, \$2M comparable credit, strong PG
+\end{tcolorbox}
+
+What RAC applies to each piece? What structure and requirements?
+
+\answerlines{14}
+
+\answer{Tractor: Agriculture segment BUT tractors follow Construction rules for auto-decision (CR1 \$375K, so \$625K = manual). Combine: Agriculture, \$0 auto (all manual). Both: Ag T1 SP new = 180 months max amort. Combined \$1.375M exceeds \$1MM threshold = Structured Credit Application required (BTA, 4Bloc, AR/AP aging, org chart). CC: \$2M $\geq$ \$1.375M. Down payment: CR1 = first payment only.}
+
+\vspace{0.5em}
+
+\noindent\textbf{30.}\quad\textbf{Case Study --- The Multi-Segment Deal}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+\textbf{Client:} GreenBuild Corp., 5 years in business, CR3 \\
+\textbf{Request:} (1) New CAT 320 excavator \$350K, (2) Used 2022 Freightliner Cascadia \$120K (300K km), (3) New solar panel rig \$85K \\
+\textbf{Total exposure:} \$555K
+\end{tcolorbox}
+
+Apply the correct RAC to each piece. Identify the critical issue.
+
+\answerlines{16}
+
+\answer{Piece 1 (CAT 320): Construction, T1, CR3 auto \$200K = manual, 96mo max, 5--10\% down. Piece 2 (Freightliner): Class~8, T3, \$0 auto, 60mo base. Age deduction: 4 yrs = 60$-$48 = 12mo. KM: 300K/200K = 1 deduction = 48mo. Take lower: \textbf{12 months} --- barely financeable. Verified homeowner required. 5-year TIB = just meets. Piece 3 (Solar): SDG-Energy, \$0 auto, 84mo max, ZERO analyst exceptions. \textbf{Critical issue:} Class~8 piece is commercially unviable at 12 months.}
+
+\newpage
+
+% ============================================================
+% SECTION 2: SALES EXAM
+% ============================================================
+\section*{\color{mhcblue} SECTION 2: SALES EXAMINATION}
+\addcontentsline{toc}{section}{Section 2: Sales Examination}
+
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part A: Multiple Choice} --- 12 questions, 1 point each. Circle the best answer.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{31.}\quad LEAD stands for:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Listen, Engage, Advise, Deliver
+\item Legitimize, Explore, Accentuate, Decide
+\item Learn, Evaluate, Ask, Direct
+\item Leverage, Empathize, Assess, Drive
+\end{enumerate}
+\answer{B) Legitimize, Explore, Accentuate, Decide.}
+
+\vspace{0.5em}
+
+\noindent\textbf{32.}\quad What does BRAIN stand for?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Budget, Relationships, Authority, Issues, Needs
+\item Business, Revenue, Assessment, Investment, Negotiation
+\item Buyer, Resources, Alternatives, Interests, Next steps
+\item Budget, Risk, Authority, Implementation, Needs
+\end{enumerate}
+\answer{A) Budget/Business, Relationships/Resources, Authority/Ability, Issues/Interests, Needs/Next steps.}
+
+\vspace{0.5em}
+
+\noindent\textbf{33.}\quad In the ``traffic light'' questioning system, which type should you AVOID?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Green (open)
+\item Blue (closed)
+\item Pink (assumption)
+\item Red (confrontational)
+\end{enumerate}
+\answer{C) Pink (assumption). Pink questions impose your view: ``So you must be unhappy with your bank?'' Start Green, confirm with Blue.}
+
+\vspace{0.5em}
+
+\noindent\textbf{34.}\quad What are the 4 pillars of Sales EQ?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Trust, Rapport, Knowledge, Persistence
+\item Empathy, Self-Control, Self-Awareness, Sales Drive
+\item Listening, Presenting, Closing, Following Up
+\item Intelligence, Creativity, Resilience, Confidence
+\end{enumerate}
+\answer{B) Empathy, Self-Control, Self-Awareness, and Sales Drive.}
+
+\vspace{0.5em}
+
+\noindent\textbf{35.}\quad How many ``triples'' per day in combo prospecting, and when?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 20 triples, 8:00--9:00am
+\item 30 triples, 7:45--8:45am
+\item 40 triples, 7:30--9:00am
+\item 30 triples, 9:00--10:00am
+\end{enumerate}
+\answer{B) 30 triples/day, 7:45--8:45am. Each takes 2 minutes or less. 8--12 touches to convert.}
+
+\vspace{0.5em}
+
+\noindent\textbf{36.}\quad What is ``NO on the table''?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Starting with a lowball offer
+\item Telling the prospect it's okay to say no, paradoxically increasing chances of yes
+\item Declining unprofitable deals immediately
+\item Setting clear pricing boundaries
+\end{enumerate}
+\answer{B) Reduces pressure, lowers the Emotional Wall, makes the client more open.}
+
+\vspace{0.5em}
+
+\noindent\textbf{37.}\quad The TAM program is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Territory Account Management
+\item Originate-to-Sell --- MHCCA originates and sells to third-party funders
+\item Technical Asset Management
+\item Tax Advantage Method
+\end{enumerate}
+\answer{B) Originate-to-Sell. For deals MHCCA declines. Non-negotiable pricing set by funder. MHCCA earns placement fee.}
+
+\vspace{0.5em}
+
+\noindent\textbf{38.}\quad A client keeps asking about guarantees and references. Which motivation drives them?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Pride
+\item Money
+\item Security
+\item Comfort
+\end{enumerate}
+\answer{C) Security. 6 motivations: Security, Pride, Novelty, Comfort, Money, Likeability. Emphasize stability and track record.}
+
+\vspace{0.5em}
+
+\noindent\textbf{39.}\quad BASIC is the stakeholder mapping model. What does it stand for?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Budget, Authority, Size, Interest, Competition
+\item Buyers, Amplifiers, Seekers, Influencers, Coaches
+\item Business, Advisors, Stakeholders, Implementation, Champion
+\item Budget, Approval, Specifications, Implementation, Criteria
+\end{enumerate}
+\answer{B) Buyers, Amplifiers, Seekers, Influencers, Coaches.}
+
+\vspace{0.5em}
+
+\noindent\textbf{40.}\quad What pipeline multiple does the training recommend?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 1--2x
+\item 3--5x
+\item 5--10x
+\item 10--15x
+\end{enumerate}
+\answer{B) 3--5x. If target is \$10M, pipeline should be \$30--50M.}
+
+\vspace{0.5em}
+
+\noindent\textbf{41.}\quad Siraaj described ABL's positioning as:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item ``The premium option for investment-grade clients''
+\item ``Between banks who won't do it and distressed lenders who charge too much''
+\item ``The last resort for companies in financial difficulty''
+\item ``A bridge between equity financing and traditional banking''
+\end{enumerate}
+\answer{B) ABL fills a gap: banks find it too complex, distressed lenders charge too much. MHCCA offers a middle ground.}
+
+\vspace{0.5em}
+
+\noindent\textbf{42.}\quad Why did MHCCA exit factoring despite profitability?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Regulatory changes
+\item Risk-adjusted returns didn't justify the operational complexity
+\item Parent company required it
+\item Clients didn't want the service
+\end{enumerate}
+\answer{B) Profitable but operationally complex. Risk-adjusted returns didn't justify the effort. Shows strategic discipline.}
+
+% ---- SALES SHORT ANSWER ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part B: Short Answer} --- 4 questions, 4 points each.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{43.}\quad Explain the 3-step objection handling pattern. Then handle this objection using all 3 steps: ``We already have a relationship with our bank. We're happy.''\hfill\textit{(4 marks)}
+
+\answerlines{12}
+
+\answer{Pattern: Acknowledge $\rightarrow$ Reframe $\rightarrow$ Close for meeting. Example: (1) ``I completely understand --- that tells me you value strong financial relationships.'' (2) ``Many of our best clients said the same. A specialized equipment finance partner complements their bank, not replaces it.'' (3) ``I'm not asking you to switch. Just 20 minutes to share what we do with companies like yours. If not a fit, no worries. Thursday morning?''}
+
+\vspace{0.5em}
+
+\noindent\textbf{44.}\quad Explain the MHCCA diversification strategy using Siraaj's framework. Include the specific portfolio shift numbers.\hfill\textit{(4 marks)}
+
+\answerlines{12}
+
+\answer{Transport HD: 43\% $\rightarrow$ 19\%. Construction: 28\% $\rightarrow$ 38\%. Diversified: 11\% $\rightarrow$ 23\%. Why: Transport was low-margin, commoditized, high bad debt. Diversification on 2 axes: (1) new industries (Construction, Tech, Healthcare, Ag) and (2) new products (ABL, FMV, EaaS, CF Lending). Goal: less volatile, higher-margin, service-rich portfolio.}
+
+\vspace{0.5em}
+
+\noindent\textbf{45.}\quad What is ``service-based income'' and why does Siraaj call it ``the holy grail''?\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{Revenue from fees, consulting, advisory, and servicing --- income that does NOT add assets to the balance sheet. Holy grail because: (1) Improves ROA --- increases numerator without increasing denominator, (2) No balance sheet growth needed, (3) Lower risk, (4) Scalable, (5) Breaks the ``balance sheet trap.'' Examples: portfolio servicing fees, advisory fees, EaaS management fees.}
+
+\vspace{0.5em}
+
+\noindent\textbf{46.}\quad Walk through how you would structure a first LEAD meeting with a CFO who owns a fleet of 15 trucks. Cover all 4 steps.\hfill\textit{(4 marks)}
+
+\answerlines{14}
+
+\answer{Step 1 Legitimize: ISAQ (Initiate --- ``congrats on the new warehouse,'' Synchronize --- common ground, Assure --- ``I've worked with fleet operators for 3 years,'' Quickly differentiate --- ``we understand the trucks, not just the numbers'') + OPA (Objective framed as CLIENT benefit, Presentation --- mini agenda, Agreement on time/expectations). Step 2 Explore: BRAIN questions, Green/open questions to discover, Blue to confirm. Step 3 Accentuate: Share GEMS, Dig then Neutralize objections. Step 4 Decide: Summarize needs, propose next steps.}
+
+% ---- SALES SCENARIOS ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part C: Scenarios} --- 3 scenarios, 6 points each.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{47.}\quad\textbf{Scenario --- The Product Recommendation}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+A client says: ``I run a food manufacturing business in New Brunswick. I need to buy a \$400K packaging line. I don't want it on my balance sheet. I also heard there might be tax credits available.'' \\
+\textbf{What do you recommend?} Include product type, structure, tax credit details, and RAC check.
+\end{tcolorbox}
+
+\answerlines{16}
+
+\answer{FMV Operating Lease: meets 4 off-balance-sheet criteria (term $<$75\% useful life, no title transfer, no bargain purchase, PV $<$90\% FMV). AITC: NB is eligible, manufacturing qualifies, 10\% credit = \$40K. Min 24-month lease term (60-month FMV qualifies). RAC: Manufacturing, \$0 auto, 60mo max amort, 100\% CC required. Pitch: ``FMV lease over 60 months, off-balance-sheet, plus \$40K AITC credit.''}
+
+\vspace{0.5em}
+
+\noindent\textbf{48.}\quad\textbf{Scenario --- The Cross-Sell Opportunity}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+Your existing CR2 construction client (\$2M equipment leased through MHCCA) mentions: \\
+(1) Their bank is pressuring them to reduce their operating line of credit \\
+(2) They have \$1.5M in A/R from municipal contracts \\
+(3) They're considering buying a competitor with older equipment \\
+\textbf{Identify all cross-sell opportunities.}
+\end{tcolorbox}
+
+\answerlines{16}
+
+\answer{(1) ABL for A/R: \$1.5M fits \$1M--\$10M range, up to 90\% advance on eligible A/R, municipal = high quality collateral, replaces bank operating line. (2) Refinancing: Competitor's owned equipment can be refinanced through MHCCA, releasing capital for acquisition. (3) EBR or Cash Flow Lending for acquisition financing (\$500K--\$10M). (4) Fleet refresh: Replace competitor's aging equipment with FMV leases. Approach: ``You've described three things we can help with --- let me put together a comprehensive proposal.''}
+
+\vspace{0.5em}
+
+\noindent\textbf{49.}\quad\textbf{Scenario --- The Strategic Thinking Question}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+A logistics company owns 15 medium-duty trucks outright. They ask: ``Why would we lease when we already own our trucks?'' \\
+\textbf{Use strategic concepts from Siraaj's discussion to make the case.}
+\end{tcolorbox}
+
+\answerlines{16}
+
+\answer{(1) Off-balance-sheet: FMV leases remove fleet from balance sheet, improving D/E ratio. (2) Cash release: Selling owned fleet frees capital for growth (higher ROI than depreciating trucks). (3) Total cost of ownership: Maintenance cliff at year 4--5, downtime --- leasing provides predictable costs. (4) Tax efficiency: Operating lease payments typically 100\% deductible. (5) Fleet refresh cycle: Always newer, more efficient trucks. (6) ROA concept applied to client: Remove assets, same revenue = higher return on assets.}
+
+\newpage
+
+% ============================================================
+% SECTION 3: OPERATIONS EXAM
+% ============================================================
+\section*{\color{mhcblue} SECTION 3: OPERATIONS EXAMINATION}
+\addcontentsline{toc}{section}{Section 3: Operations Examination}
+
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part A: Multiple Choice} --- 16 questions, 1 point each. Circle the best answer.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{50.}\quad A customer wants to lease a propane delivery truck. What product type is required?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Capital lease
+\item Operating lease
+\item Loan only
+\item Either lease or loan
+\end{enumerate}
+\answer{C) Loan only. Propane = hazmat. All hazmat and bus transactions = LOANS with increased insurance.}
+
+\vspace{0.5em}
+
+\noindent\textbf{51.}\quad How many documents are required for a lease transfer (assumption)?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item 5
+\item 7
+\item 10
+\item 12
+\end{enumerate}
+\answer{C) 10: Appendix, PAD (Client B), E-Sign, IDs (both), Insurance (unless GAI), Void cheque (B), Credit decision, 1st page contract, IPC, REQ/Corp profile.}
+
+\vspace{0.5em}
+
+\noindent\textbf{52.}\quad Which of the following triggers Bill~96?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Client based in QC only
+\item Client OR signatory OR equipment in QC OR guarantor in QC
+\item Only if the contract is in English
+\item Only if the client requests a French contract
+\end{enumerate}
+\answer{B) Any of 4 triggers: client, signatory, equipment, or guarantor in QC.}
+
+\vspace{0.5em}
+
+\noindent\textbf{53.}\quad What are the 4 eligibility requirements for the GAI Insurance Program?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Under \$500K, 12--60mo, non-assignment, 80\% covered
+\item Under \$1MM, 12--84mo, non-assignment, 100\% covered assets
+\item Under \$1MM, 24--96mo, assignment allowed, 100\% covered
+\item Under \$2MM, 12--84mo, non-assignment, 75\% covered
+\end{enumerate}
+\answer{B) ALL 4 must be met: $<$\$1MM, 12--84 months, non-assignment, 100\% covered assets.}
+
+\vspace{0.5em}
+
+\noindent\textbf{54.}\quad Excavators under GAI show a false warning in Vision. How do you fix it in Quebec?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Ignore the warning
+\item Insurance tab $\rightarrow$ check automated insurance program
+\item Equipment tab $\rightarrow$ uncheck plated box
+\item Contact GAI directly
+\end{enumerate}
+\answer{B) Insurance tab $\rightarrow$ check automated insurance program (Quebec). Other provinces: Equipment tab $\rightarrow$ uncheck plated box.}
+
+\vspace{0.5em}
+
+\noindent\textbf{55.}\quad What form is used for an operating lease restructure?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item CON15.71
+\item CON15.7
+\item CON16.1
+\item CON14.2
+\end{enumerate}
+\answer{B) CON15.7 = operating lease. CON15.71 = capital lease restructure.}
+
+\vspace{0.5em}
+
+\noindent\textbf{56.}\quad In a Limited Partnership (QC), who can sign?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item All partners --- general and limited
+\item Only limited partners (commanditaires)
+\item Only general partners (commandit\'{e}s) --- limited partners CANNOT sign
+\item Either, with a resolution
+\end{enumerate}
+\answer{C) ONLY general partners (commandit\'{e}s). Limited partners (commanditaires) CANNOT sign.}
+
+\vspace{0.5em}
+
+\noindent\textbf{57.}\quad The ship-to address determines:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Which RAC segment applies
+\item Insurance requirements
+\item Tax jurisdiction (which province's taxes apply)
+\item PPSA registration province
+\end{enumerate}
+\answer{C) Tax jurisdiction. Wrong ship-to = wrong taxes.}
+
+\vspace{0.5em}
+
+\noindent\textbf{58.}\quad An Ontario driver's license: the first letter represents what?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item First name
+\item Last name
+\item Province code
+\item License class
+\end{enumerate}
+\answer{B) Last name initial. Last 6 digits = YYMMDD (females add 50 to month).}
+
+\vspace{0.5em}
+
+\noindent\textbf{59.}\quad What province has the MOST security features on its driver's license?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Ontario
+\item Quebec
+\item Alberta
+\item British Columbia
+\end{enumerate}
+\answer{C) Alberta: Albertosaurus, 3 transparent windows, rainbow printing.}
+
+\vspace{0.5em}
+
+\noindent\textbf{60.}\quad Under Bill~96, a QC dealer signing a SSC/buyout is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Subject to all Bill~96 requirements
+\item Exempt from Bill~96
+\item Required to provide French-only docs
+\item Required to provide bilingual docs
+\end{enumerate}
+\answer{B) Exempt from Bill~96. QC dealers signing SSC or buyout are the exception.}
+
+\vspace{0.5em}
+
+\noindent\textbf{61.}\quad What is the difference between ``Additional Insured'' and ``Loss Payee''?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item They are the same thing
+\item Additional Insured = liability; Loss Payee = property damage payout
+\item Additional Insured = leases; Loss Payee = loans
+\item Loss Payee = liability; Additional Insured = property
+\end{enumerate}
+\answer{B) Additional Insured covers MHCCA against liability claims. Loss Payee ensures MHCCA receives payout if equipment is damaged/destroyed.}
+
+\vspace{0.5em}
+
+\noindent\textbf{62.}\quad In Vision, for a buyout restructure, the Vendor field should show:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item The original dealer
+\item MHCCL or MHCCA master \#152498
+\item The client's name
+\item ``Buyout --- Internal''
+\end{enumerate}
+\answer{B) MHCCL or MHCCA master \#152498. Do NOT use ``MHCCA ABL'' or ``Lessor.''}
+
+\vspace{0.5em}
+
+\noindent\textbf{63.}\quad During PPSA restructure, the correct order of steps is:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Amend $\rightarrow$ Renew $\rightarrow$ Screenshot $\rightarrow$ Save
+\item Screenshot $\rightarrow$ Amend $\rightarrow$ Renew $\rightarrow$ Save
+\item Keep original $\rightarrow$ Amend ref\# $\rightarrow$ Renew term $\rightarrow$ Screenshot before saving
+\item Delete original $\rightarrow$ Create new $\rightarrow$ Screenshot $\rightarrow$ Save
+\end{enumerate}
+\answer{C) Keep original $\rightarrow$ Amend reference number $\rightarrow$ Renew term $\rightarrow$ Screenshot BEFORE saving.}
+
+\vspace{0.5em}
+
+\noindent\textbf{64.}\quad When a post-funding COI is received on a GAI-eligible deal, where is it sent?
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item To GAI only
+\item To 5860.VerifyInsurance@gaig.com + CC insuranceca@mhccna.com
+\item To the client
+\item To the broker
+\end{enumerate}
+\answer{B) Post-funding: 5860.VerifyInsurance@gaig.com + CC insuranceca@mhccna.com. Pre-funding: same email, no CC.}
+
+\vspace{0.5em}
+
+\noindent\textbf{65.}\quad Bill~96 non-compliance consequences include:
+
+\begin{enumerate}[label=\Alph*), leftmargin=2em, itemsep=0pt]
+\item Small fine only
+\item RDPRM refusal, unsecured in 7 days, up to \$30K OQLF fines
+\item Contract automatically void
+\item 90-day cure period
+\end{enumerate}
+\answer{B) RDPRM refusal + unsecured in 7 days + up to \$30K fines.}
+
+% ---- OPS SHORT ANSWER ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part B: Short Answer} --- 5 questions, 4 points each.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{66.}\quad List all 10 documents required for a lease transfer.\hfill\textit{(4 marks)}
+
+\answerlines{8}
+
+\answer{(1) Appendix (A or G), (2) PAD (Client B), (3) E-Sign summary, (4) IDs (both parties), (5) Insurance docs (unless GAI), (6) Void cheque (Client B), (7) Credit decision with new IFL\#, (8) 1st page original contract, (9) IPC, (10) REQ/Corp profile (Client B, annual filings up to date).}
+
+\vspace{0.5em}
+
+\noindent\textbf{67.}\quad Explain the complete Bill~96 compliance requirements: triggers, what you must do, and consequences of non-compliance.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{4 triggers: client in QC, signatory in QC, equipment in QC, guarantor in QC. Exception: QC dealer signing SSC/buyout. Requirements: French version FIRST, explicit English request, equipment descriptions in French (VIN$\rightarrow$NIV, SUV$\rightarrow$VUS per Clause 3), RDPRM entirely in French. Consequences: RDPRM refusal, unsecured in 7 days, up to \$30K OQLF fines.}
+
+\vspace{0.5em}
+
+\noindent\textbf{68.}\quad Describe the Authorized Signatory rules for: Sole Proprietorship, Inc., Limited Partnership (QC), and Municipality.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{Sole Prop: Owner only. Inc.: Directors sign, but check for Unanimous Shareholder Agreement (USA). Limited Partnership (QC): ONLY general partners (commandit\'{e}s) --- limited partners (commanditaires) CANNOT sign. Municipality: Admin or council resolution signatory. Also: General Partnership (QC) = ALL partners + valid ID. Cooperative = 3 docs + Legal validation.}
+
+\vspace{0.5em}
+
+\noindent\textbf{69.}\quad List the 8 common OPS exam traps that Siraaj warned about.\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{(1) Equipment tier confusion (Volvo T1 in Construction, T3 in Class~8), (2) PPSA screenshots missing, (3) GAI false warnings on excavators, (4) Bill~96 triggers missed, (5) Entity name mismatches, (6) Lessee vs guarantor by jurisdiction, (7) Hazmat = loan only (buses, propane, fuel tankers), (8) Insurance designation confusion (Additional Insured vs Loss Payee).}
+
+\vspace{0.5em}
+
+\noindent\textbf{70.}\quad In a lease restructure, what are the PPSA steps? What are the Vision integration rules for the Vendor field and Invoice tab?\hfill\textit{(4 marks)}
+
+\answerlines{10}
+
+\answer{PPSA: Keep original $\rightarrow$ Amend ref\# to new contract $\rightarrow$ Renew term $\rightarrow$ Screenshot before saving. Validation submits the renewal. Vision: Vendor = MHCCL or MHCCA (master \#152498, NOT ``MHCCA ABL''). Invoice tab: Vendor = MHCCL or MHCCA (NOT ``Lessor'' --- causes booking imbalance). Buyout number = invoice number. Pre-tax amount integrated using Tax Province = ``No tax.'' Must remain same entity (MHCCL$\rightarrow$MHCCL). Remove EOT fees.}
+
+% ---- OPS SCENARIOS ----
+\vspace{1em}
+\begin{tcolorbox}[colback=blue!3!white, colframe=mhcblue, boxrule=0.5pt, arc=2pt]
+\textbf{Part C: Document Review Scenarios} --- 4 scenarios, 6 points each. Identify all issues.
+\end{tcolorbox}
+
+\vspace{0.5em}
+
+\noindent\textbf{71.}\quad\textbf{Scenario --- The Quebec Compliance Nightmare}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+A deal arrives for funding: \\
+--- Client: Montreal-based construction company \\
+--- Equipment: New Volvo EC350 excavator, plated and used in Quebec \\
+--- Contract: Written in English only \\
+--- No French version provided \\
+--- RDPRM filing is in English
+\end{tcolorbox}
+
+What are ALL the problems? What must be corrected?
+
+\answerlines{14}
+
+\answer{Bill~96 triggered on 3 grounds: client in QC, equipment in QC, signatory in QC. Problems: (1) No French contract --- must provide French version FIRST, (2) No explicit English request on file, (3) RDPRM in English --- will be REFUSED (must be entirely in French), (4) Equipment descriptions need French translations (VIN$\rightarrow$NIV). Consequences if funded: RDPRM refusal, unsecured in 7 days, \$30K fines. Corrections: produce French contract, get explicit English request, re-file RDPRM in French. DO NOT FUND until corrected.}
+
+\vspace{0.5em}
+
+\noindent\textbf{72.}\quad\textbf{Scenario --- The Insurance Mix-Up}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+Capital lease on a new Deere 350G excavator, \$420K. Insurance certificate shows: \\
+--- Named Insured: ABC Construction Inc.\quad\checkmark \\
+--- Additional Insured: ABC Construction Inc.\quad ??? \\
+--- Loss Payee: MHCC Leasing Inc.\quad\checkmark
+\end{tcolorbox}
+
+What's wrong? What should it look like?
+
+\answerlines{12}
+
+\answer{Additional Insured should be \textbf{MHCC Leasing Inc.}, NOT ABC Construction. The client is already Named Insured --- making them Also Additional Insured is redundant and leaves MHCCA without liability protection. Correct setup: Named Insured = client, Additional Insured = MHCCA (liability), Loss Payee = MHCCA (property). Do NOT fund until insurance certificate is corrected.}
+
+\vspace{0.5em}
+
+\noindent\textbf{73.}\quad\textbf{Scenario --- The Transfer That Hits Every Trap}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+Party A (Inc., Ontario) is transferring an operating lease (\$200K excavator) to Party B (Limited Partnership, Quebec). Equipment will move from Ontario to Quebec. The deal originally qualified for GAI. \\
+\textbf{Walk through the process and identify every issue.}
+\end{tcolorbox}
+
+\answerlines{18}
+
+\answer{10 docs required. Signing: Party A = directors (check USA); Party B = ONLY general partners (limited partners CANNOT sign). Bill~96 triggered (equipment moving to QC + Party B in QC) --- French docs required, RDPRM in French. GAI: skip insurance docs, don't CC assurance@mhccna.com. Tax change: Ontario HST (13\%) $\rightarrow$ QC GST+QST (5\%+9.975\%). PPSA to RDPRM transfer needed. IFL fee validation path: Contract $\rightarrow$ Charges $\rightarrow$ PG/CG $\rightarrow$ Contract Maintenance $\rightarrow$ Third Parties $\rightarrow$ Related Party Code. 3-team relay: Sales $\rightarrow$ Sales Support $\rightarrow$ Validation.}
+
+\vspace{0.5em}
+
+\noindent\textbf{74.}\quad\textbf{Scenario --- The Hazmat Restructure}\hfill\textit{(6 marks)}
+
+\begin{tcolorbox}[colback=lightgray, colframe=gray, boxrule=0.3pt, arc=2pt]
+An existing client has a \textbf{capital lease} on a fuel tanker truck. They want to restructure to extend the term. \\
+(1) What's wrong with the original structure? \\
+(2) Can you restructure as-is? \\
+(3) What should happen?
+\end{tcolorbox}
+
+\answerlines{14}
+
+\answer{(1) Fuel tanker = hazmat = must be a LOAN, not a lease. Original was incorrectly structured. (2) NO --- restructuring perpetuates the compliance error. (3) Flag to management/compliance. Convert to loan structure as part of restructure. Use CON15.71 (capital lease restructure). Verify increased insurance is in place. Update PPSA (keep original, amend, renew, screenshot). Remove EOT fees. Same entity rule. Vision: Vendor = MHCCL or MHCCA \#152498, Invoice\# = buyout number.}
+
+\vspace{2em}
+
+\begin{center}
+\rule{0.5\textwidth}{1pt}
+
+\vspace{1em}
+
+{\Large\bfseries END OF EXAMINATION}
+
+\vspace{0.5em}
+
+{\normalsize\textit{Please review your answers before submitting.}}
+
+\vspace{0.5em}
+
+{\small Total: 80 questions \textbullet\ 200 points \textbullet\ Passing: 70\%}
+
+\end{center}
+
+\end{document}

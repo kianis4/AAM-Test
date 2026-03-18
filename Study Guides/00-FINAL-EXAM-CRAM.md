@@ -96,6 +96,137 @@ You'll get info about a client:
 
 ---
 
+## [!!!] MASTER BRAND → SEGMENT → TIER CHEAT SHEET
+
+> **How to use this on the exam:** When a question mentions a brand name or equipment type, use this table to instantly identify (1) what segment it belongs to and (2) what tier. This determines every number in the deal — auto-decision, amort, asset age, everything.
+
+### Step 1: What TYPE of equipment is it? → That tells you the SEGMENT
+
+| If the question mentions... | The SEGMENT is... | Memory trick |
+|---|---|---|
+| Excavator, loader, backhoe, bulldozer, skid steer, aerial lift, crane | **CONSTRUCTION** | Dirt, digging, lifting, building |
+| Feller buncher, skidder, forwarder, log loader, harvester, processor | **FORESTRY** | Trees, logs, wood, bush |
+| Semi truck, tractor-trailer, highway truck, long-haul, OTR | **CLASS 8 OTR** | 18-wheelers, highway, long distance |
+| Pickup, van, cube van, dump truck, medium-duty, straight truck, bus | **CLASS 1-7** | Smaller trucks, local delivery, buses |
+| Tractor (farm), combine, seeder, sprayer, swather | **AGRICULTURE** | Farming, crops, harvest (but tractors → Construction rules!) |
+| Forklift, reach truck, pallet jack, order picker, conveyor | **INDUSTRIAL** | Warehouse, factory floor |
+| Solar panel, ZEV, wind turbine, EV charger | **SDG-ENERGY** | Clean, green, sustainable |
+| MRI, X-ray, dental chair, sterilizer, lab equipment | **HEALTHCARE** | Hospital, clinic, medical |
+| Oven, fryer, cooler, hotel equipment, POS system | **HOSPITALITY** | Restaurant, hotel, food |
+| CNC machine, press, lathe, welder, packaging line | **MANUFACTURING** | Factory, production line |
+| Mower, blower, compact utility, landscaping | **LAWN & GARDEN** | Grass, landscaping |
+| Server, laptop fleet, network equipment, software bundle | **TECHNOLOGY** | IT, computers, data |
+| Aircraft, helicopter | **AVIATION** | Flying |
+| Copier, printer, phone system, office furniture | **OFFICE EQUIPMENT** | Office |
+
+### Step 2: What BRAND is it? → That tells you the TIER
+
+> **The Golden Rule:** Tier changes by segment! Volvo is T1 in Construction but T3 in Class 8. Always check the segment FIRST, then look up the tier.
+
+#### CONSTRUCTION Tiers — "The Big List"
+
+| Tier 1 — Premium (best terms) | Tier 2 — Mid (good terms) | Tier 3 — Restricted (worst terms) |
+|---|---|---|
+| **D**eere | **S**any | **L**iugong |
+| **C**AT | **H**yundai | **Z**oomlion |
+| **V**olvo | **K**obelco | **X**CMG |
+| **K**omatsu | **D**oosan | **S**DLG |
+| **H**itachi | **T**akeuchi | **M**ecalac |
+| **C**ASE | **W**acker Neuson | + anything NOT in T1/T2 |
+| **J**CB | **S**kyjack | |
+| **K**ubota | **V**ermeer | |
+| **L**iebherr | | |
+| **B**obcat | | |
+| **G**enie | | |
+| **J**LG | | |
+
+> **Memory trick for T1:** "**D**ig **C**arefully, **V**ery **K**een **H**eavy **C**ranes **J**ust **K**eep **L**ifting **B**ig **G**irders **J**oyfully" — Deere, CAT, Volvo, Komatsu, Hitachi, CASE, JCB, Kubota, Liebherr, Bobcat, Genie, JLG
+>
+> **Memory trick for T2:** "**S**even **H**ard **K**nocks **D**on't **T**opple **W**ise **S**killed **V**ets" — Sany, Hyundai, Kobelco, Doosan, Takeuchi, Wacker Neuson, Skyjack, Vermeer
+>
+> **T3 rule:** If you don't recognize the brand or it sounds Chinese → probably Tier 3
+
+#### TRANSPORT CLASS 8 Tiers — "The Surprise List"
+
+| Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|
+| **Kenworth** | Western Star | **Volvo** ⚠️ |
+| **Peterbilt** | MACK | **Freightliner** |
+| *(only these 2!)* | | **International** |
+
+> **Memory trick:** "**KP** rule the highway" — **K**enworth and **P**eterbilt are the ONLY Tier 1s in Class 8
+>
+> **THE TRAP:** Volvo is **Tier 1 in Construction** but **Tier 3 in Class 8!** If the exam says "Volvo" — check the SEGMENT first!
+
+#### FORESTRY Tiers
+
+| Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|
+| John Deere | Weiler | Madill |
+| Komatsu Forest / Valmet | TimberPro | Eltec |
+| Tigercat | Logset | Barko |
+| Ponsse | Rottne / Ecolog | Sennebogen + all others |
+
+> **Memory trick for T1:** "**D**eere **K**uts **T**rees **P**erfectly" — Deere, Komatsu, Tigercat, Ponsse
+>
+> **CR3 restriction:** Forestry CR3 clients can ONLY use Tier 1 & 2 — Tier 3 is DECLINED for CR3
+
+#### INDUSTRIAL (Forklifts) Tiers
+
+| Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|
+| Toyota | Nissan | STILL |
+| Crown | Mitsubishi | Jungheinrich |
+| Hyster-Yale | Doosan | Lonking |
+| Raymond | Caterpillar | Heli |
+| Linde | Komatsu | Hangcha |
+| Kalmar | | |
+
+> **Memory trick for T1:** "**T**he **C**ool **H**uge **R**acks **L**ift **K**egs" — Toyota, Crown, Hyster-Yale, Raymond, Linde, Kalmar
+>
+> **Note:** CAT is Tier 1 in Construction but Tier 2 in Industrial!
+
+### Step 3: QUICK DECISION FLOWCHART
+
+When you see a brand name on the exam, run through this:
+
+```
+1. WHAT IS IT?
+   └── Excavator/loader? → CONSTRUCTION
+   └── Feller buncher/skidder? → FORESTRY
+   └── Semi/OTR truck? → CLASS 8
+   └── Pickup/van/medium truck? → CLASS 1-7
+   └── Bus? → CLASS 1-7 (LOAN ONLY!)
+   └── Tractor (farm)? → AGRICULTURE (but follows CONSTRUCTION rules!)
+   └── Forklift? → INDUSTRIAL
+   └── Hazmat vehicle? → LOAN ONLY (never lease)
+
+2. WHAT TIER?
+   └── Check the tier list for THAT SEGMENT (not another segment!)
+   └── Don't know the brand? → Probably Tier 3
+
+3. NOW YOU KNOW:
+   └── Auto-decision limit (by segment + CR)
+   └── Max amort (by segment + tier + CR)
+   └── Max asset age (by segment + tier)
+   └── Down payment (by CR)
+   └── Exception authority (by segment)
+```
+
+### The 5 Brands That CHANGE TIER by Segment — MEMORIZE THESE
+
+| Brand | Construction | Class 8 | Forestry | Industrial |
+|---|---|---|---|---|
+| **Volvo** | **T1** ✅ | **T3** ❌ | N/A | N/A |
+| **CAT / Caterpillar** | **T1** ✅ | N/A | N/A | **T2** ⚠️ |
+| **Komatsu** | **T1** ✅ | N/A | **T1** ✅ | **T2** ⚠️ |
+| **Doosan** | **T2** | N/A | N/A | **T2** |
+| **John Deere** | **T1** ✅ | N/A | **T1** ✅ | N/A |
+
+> **The killer trap:** "Volvo excavator" = T1 (Construction). "Volvo truck" = T3 (Class 8). Same brand, different tier. The exam WILL test this.
+
+---
+
 ## [!!!] CONSTRUCTION — The Big One
 
 Siraaj said Construction is a **core exam focus.** Know these numbers cold.
